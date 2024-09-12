@@ -11,7 +11,7 @@ Welcome to the <strong>Power BI Projects</strong> repository! This repository fe
 <table>
   <thead>
     <tr>
-      <th>Technology</th>
+      <th>Project</th>
       <th>Description</th>
     </tr>
   </thead>
