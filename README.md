@@ -20,16 +20,20 @@ Welcome to the <strong>Power BI Projects</strong> repository! This repository fe
   </thead>
   <tbody>
     <tr>
+      <td><a href="./Absenteeism_Analysis_Report"><strong>Employee Absenteeism Analysis</strong></a></td>
+      <td>This report analyzes absenteeism data within the organization to identify trends and potential causes.</td>
+    </tr>
+    <tr>
       <td><a href="./Sales_Performance_Dashboard"><strong>Sales Performance Dashboard</strong></a></td>
-      <td>Create a dashboard to track sales metrics, revenue, and sales growth. Analyze product performance and sales trends.</td>
+      <td>Dashboard to track sales metrics, revenue, and sales growth. Analyze product performance and sales trends.</td>
     </tr>
     <tr>
       <td><a href="./Customer_Satisfaction_Analysis"><strong>Customer Satisfaction Analysis</strong></a></td>
-      <td>Build a report to analyze customer feedback and satisfaction surveys, identifying key areas for improvement.</td>
+      <td>Report to analyze customer feedback and satisfaction surveys, identifying key areas for improvement.</td>
     </tr>
     <tr>
       <td><a href="./HR_Analytics_Dashboard"><strong>HR Analytics Dashboard</strong></a></td>
-      <td>Develop an HR dashboard to analyze employee performance, headcount, and attrition rates.</td>
+      <td>HR dashboard to analyze employee performance, headcount, and attrition rates.</td>
     </tr>
     <tr>
       <td><a href="./Financial_Statement_Analysis"><strong>Financial Statement Analysis</strong></a></td>
@@ -41,7 +45,7 @@ Welcome to the <strong>Power BI Projects</strong> repository! This repository fe
     </tr>
     <tr>
       <td><a href="./Marketing_Campaign_Analytics"><strong>Marketing Campaign Analytics</strong></a></td>
-      <td>Create a report to evaluate the success of marketing campaigns by tracking key metrics like ROI, customer acquisition, and lead conversion rates.</td>
+      <td>Report to evaluate the success of marketing campaigns by tracking key metrics like ROI, customer acquisition, and lead conversion rates.</td>
     </tr>
     <tr>
       <td><a href="./Retail_Sales_Analysis"><strong>Retail Sales Analysis</strong></a></td>
@@ -53,7 +57,7 @@ Welcome to the <strong>Power BI Projects</strong> repository! This repository fe
     </tr>
     <tr>
       <td><a href="./Social_Media_Engagement_Analysis"><strong>Social Media Engagement Analysis</strong></a></td>
-      <td>Build a dashboard that tracks social media engagement metrics across platforms like Facebook, Instagram, and Twitter.</td>
+      <td>Dashboard that tracks social media engagement metrics across platforms like Facebook, Instagram, and Twitter.</td>
     </tr>
     <tr>
       <td><a href="./Banking_Customer_Analysis"><strong>Banking Customer Analysis</strong></a></td>
@@ -65,7 +69,7 @@ Welcome to the <strong>Power BI Projects</strong> repository! This repository fe
     </tr>
     <tr>
       <td><a href="./Youtube_Channel_Analysis"><strong>YouTube Channel Analytics</strong></a></td>
-      <td>Create a dashboard to track YouTube channel performance, including subscriber growth, video engagement, and ad revenue.</td>
+      <td>Dashboard to track YouTube channel performance, including subscriber growth, video engagement, and ad revenue.</td>
     </tr>
     <tr>
       <td><a href="./Spotify_Streaming_Analysis"><strong>Spotify Streaming Analytics</strong></a></td>
@@ -81,7 +85,7 @@ Welcome to the <strong>Power BI Projects</strong> repository! This repository fe
     </tr>
     <tr>
       <td><a href="./Website_Traffic_Analytics"><strong>Website Traffic Analytics</strong></a></td>
-      <td>Build a dashboard that tracks website traffic, user engagement, and conversion rates.</td>
+      <td>Dashboard that tracks website traffic, user engagement, and conversion rates.</td>
     </tr>
     <tr>
       <td><a href="./Energy_Consumption_Analysis"><strong>Energy Consumption Analysis</strong></a></td>
