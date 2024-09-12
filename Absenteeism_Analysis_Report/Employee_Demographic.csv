@@ -1,0 +1,38 @@
+﻿IdEmployee,Age,Weight,Height,Body_mass_index,Education_level,Children_number,Social_drinker,Social_smoker,Pets_number,Home_work_distance_km
+1,37,88,172,29,Postgraduate,1,No,No,1,11
+2,48,88,163,33,High school,1,No,Yes,5,29
+3,38,89,170,31,High school,0,Yes,No,0,51
+4,40,98,170,34,High school,1,Yes,No,8,14
+5,43,106,167,38,High school,1,Yes,No,0,20
+6,33,69,167,25,High school,2,No,No,2,29
+7,39,68,168,24,High school,2,Yes,Yes,0,5
+8,39,100,170,35,High school,2,Yes,No,2,35
+9,58,65,172,22,High school,2,No,No,1,14
+10,28,80,172,27,High school,1,Yes,No,4,52
+11,33,90,172,30,High school,2,Yes,No,1,36
+12,31,68,178,21,Graduate,1,Yes,No,8,51
+13,31,70,169,25,High school,3,Yes,No,0,17
+14,34,95,196,25,High school,2,Yes,No,0,12
+15,40,73,171,25,High school,1,Yes,No,1,31
+16,46,75,175,25,High school,2,Yes,Yes,0,15
+17,40,63,170,22,Graduate,2,No,Yes,0,22
+18,28,84,182,25,Graduate,0,No,No,0,16
+19,32,65,169,23,High school,0,Yes,No,0,50
+20,36,65,168,23,High school,4,Yes,No,0,50
+21,33,79,178,25,Graduate,0,No,No,0,11
+22,30,56,171,19,Postgraduate,0,No,No,0,26
+23,36,65,174,21,High school,2,No,Yes,4,49
+24,41,67,170,23,High school,0,Yes,No,0,25
+25,32,75,178,25,Postgraduate,0,No,No,0,16
+26,43,77,175,25,High school,2,Yes,Yes,1,26
+27,27,58,167,21,High school,0,No,No,0,42
+28,28,69,169,24,High school,1,No,No,2,26
+29,28,69,169,24,High school,1,No,No,2,26
+30,29,75,185,22,High school,0,Yes,Yes,0,27
+31,50,76,178,24,High school,0,No,No,0,15
+32,49,108,172,36,High school,0,No,No,2,48
+33,47,86,165,32,High school,2,No,No,1,25
+34,37,83,172,28,High school,0,No,No,0,10
+35,53,77,175,25,High school,1,No,No,1,45
+36,50,98,178,31,High school,1,Yes,No,0,13
+37,41,94,182,28,Master and Doctor,2,Yes,No,2,15
