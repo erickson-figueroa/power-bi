@@ -3,11 +3,6 @@
 <p>
 Welcome to the <strong>Power BI Projects</strong> repository! This repository features a collection of projects showcasing data analysis, visualizations, tips, and integrations using Microsoft Power BI. Each project includes interactive dashboards and reports, helping you transform raw data into meaningful insights.
 </p>
-
-<h2>Category</h2>
-<p><strong>Data Visualization (Data Viz)</strong></p>
-
-<h2>Technologies</h2>
 <table>
   <thead>
     <tr>
