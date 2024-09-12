@@ -21,7 +21,7 @@ Welcome to the <strong>Power BI Projects</strong> repository! This repository fe
       <td>The primary tool for creating data visualizations, reports, and dashboards.</td>
     </tr>
     <tr>
-      <td><a href="./DAX"><strong>DAX</strong></a></td>
+      <td><a href="DAX"><strong>DAX</strong></a></td>
       <td>Data Analysis Expressions used for calculations and data modeling.</td>
     </tr>
     <tr>
