@@ -5,10 +5,6 @@ Welcome to the <strong>Power BI Projects</strong> repository! This repository fe
 </p>
 <h1>Power BI Projects 📊</h1>
 
-<p>
-Welcome to the <strong>Power BI Projects</strong> repository! This repository features a collection of projects showcasing data analysis, visualizations, tips, and integrations using Microsoft Power BI. Each project includes interactive dashboards and reports, helping you transform raw data into meaningful insights.
-</p>
-
 <h2>Real-World Power BI Projects</h2>
 
 <table>
