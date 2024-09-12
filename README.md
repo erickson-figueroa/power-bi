@@ -3,6 +3,14 @@
 <p>
 Welcome to the <strong>Power BI Projects</strong> repository! This repository features a collection of projects showcasing data analysis, visualizations, tips, and integrations using Microsoft Power BI. Each project includes interactive dashboards and reports, helping you transform raw data into meaningful insights.
 </p>
+<h1>Power BI Projects 📊</h1>
+
+<p>
+Welcome to the <strong>Power BI Projects</strong> repository! This repository features a collection of projects showcasing data analysis, visualizations, tips, and integrations using Microsoft Power BI. Each project includes interactive dashboards and reports, helping you transform raw data into meaningful insights.
+</p>
+
+<h2>Real-World Power BI Projects</h2>
+
 <table>
   <thead>
     <tr>
@@ -12,48 +20,76 @@ Welcome to the <strong>Power BI Projects</strong> repository! This repository fe
   </thead>
   <tbody>
     <tr>
-      <td><a href="./Microsoft_Power_BI"><strong>Microsoft Power BI</strong></a></td>
-      <td>The primary tool for creating data visualizations, reports, and dashboards.</td>
+      <td><a href="./Sales_Performance_Dashboard"><strong>Sales Performance Dashboard</strong></a></td>
+      <td>Create a dashboard to track sales metrics, revenue, and sales growth. Analyze product performance and sales trends.</td>
     </tr>
     <tr>
-      <td><a href="DAX"><strong>DAX</strong></a></td>
-      <td>Data Analysis Expressions used for calculations and data modeling.</td>
+      <td><a href="./Customer_Satisfaction_Analysis"><strong>Customer Satisfaction Analysis</strong></a></td>
+      <td>Build a report to analyze customer feedback and satisfaction surveys, identifying key areas for improvement.</td>
     </tr>
     <tr>
-      <td><a href="./Power_Query"><strong>Power Query</strong></a></td>
-      <td>Data transformation and preparation engine within Power BI.</td>
+      <td><a href="./HR_Analytics_Dashboard"><strong>HR Analytics Dashboard</strong></a></td>
+      <td>Develop an HR dashboard to analyze employee performance, headcount, and attrition rates.</td>
     </tr>
     <tr>
-      <td><a href="./Power_BI_Desktop"><strong>Power BI Desktop</strong></a></td>
-      <td>Desktop application for designing Power BI reports.</td>
+      <td><a href="./Financial_Statement_Analysis"><strong>Financial Statement Analysis</strong></a></td>
+      <td>Analyze financial data such as balance sheets and income statements to create a comprehensive financial report.</td>
     </tr>
     <tr>
-      <td><a href="./Power_BI_Mobile"><strong>Power BI Mobile</strong></a></td>
-      <td>Mobile app for viewing and interacting with Power BI reports.</td>
+      <td><a href="./Supply_Chain_Management_Dashboard"><strong>Supply Chain Management Dashboard</strong></a></td>
+      <td>Visualize supply chain data, including inventory levels, supplier performance, and demand forecasting.</td>
     </tr>
     <tr>
-      <td><a href="./Power_Pivot_Modeling"><strong>Power Pivot & Modeling</strong></a></td>
-      <td>Modeling tools for handling large datasets and relationships.</td>
+      <td><a href="./Marketing_Campaign_Analytics"><strong>Marketing Campaign Analytics</strong></a></td>
+      <td>Create a report to evaluate the success of marketing campaigns by tracking key metrics like ROI, customer acquisition, and lead conversion rates.</td>
     </tr>
     <tr>
-      <td><a href="./Power_View"><strong>Power View</strong></a></td>
-      <td>Interactive data visualizations built into Power BI.</td>
+      <td><a href="./Retail_Sales_Analysis"><strong>Retail Sales Analysis</strong></a></td>
+      <td>Analyze retail store performance, focusing on sales, inventory, and customer demographics.</td>
     </tr>
     <tr>
-      <td><a href="./Power_Map"><strong>Power Map</strong></a></td>
-      <td>3D geographic data visualizations in Power BI.</td>
+      <td><a href="./Ecommerce_Analytics"><strong>E-Commerce Analytics Dashboard</strong></a></td>
+      <td>Analyze e-commerce performance metrics, including website traffic, conversion rates, average order value, and customer behavior.</td>
     </tr>
     <tr>
-      <td><a href="./Power_QA"><strong>Power Q&A</strong></a></td>
-      <td>Natural language query tool for asking questions about your data.</td>
+      <td><a href="./Social_Media_Engagement_Analysis"><strong>Social Media Engagement Analysis</strong></a></td>
+      <td>Build a dashboard that tracks social media engagement metrics across platforms like Facebook, Instagram, and Twitter.</td>
     </tr>
     <tr>
-      <td><a href="./Power_BI_Report_Server"><strong>Power BI Report Server</strong></a></td>
-      <td>On-premises solution for sharing and managing Power BI reports.</td>
+      <td><a href="./Banking_Customer_Analysis"><strong>Banking Customer Analysis</strong></a></td>
+      <td>Analyze customer banking data, focusing on account activity, loan performance, and customer segmentation.</td>
     </tr>
     <tr>
-      <td><a href="./Power_BI_Gateway"><strong>Power BI Gateway</strong></a></td>
-      <td>Allows secure data transfer between on-premises data sources and Power BI services.</td>
+      <td><a href="./Government_Statistics_Dashboard"><strong>Government Statistics Dashboard</strong></a></td>
+      <td>Visualize public datasets such as employment rates, census data, or economic indicators from government databases.</td>
+    </tr>
+    <tr>
+      <td><a href="./Youtube_Channel_Analysis"><strong>YouTube Channel Analytics</strong></a></td>
+      <td>Create a dashboard to track YouTube channel performance, including subscriber growth, video engagement, and ad revenue.</td>
+    </tr>
+    <tr>
+      <td><a href="./Spotify_Streaming_Analysis"><strong>Spotify Streaming Analytics</strong></a></td>
+      <td>Analyze streaming data from Spotify, focusing on user behavior, song popularity, and playlist trends.</td>
+    </tr>
+    <tr>
+      <td><a href="./TikTok_Influencer_Analysis"><strong>TikTok Influencer Analysis</strong></a></td>
+      <td>Track and analyze the growth of TikTok influencers, including engagement rates, follower growth, and video performance.</td>
+    </tr>
+    <tr>
+      <td><a href="./Mobile_App_Market_Analytics"><strong>Mobile App Market Analytics</strong></a></td>
+      <td>Analyze mobile app performance metrics, including user downloads, ratings, and in-app purchases across different platforms.</td>
+    </tr>
+    <tr>
+      <td><a href="./Website_Traffic_Analytics"><strong>Website Traffic Analytics</strong></a></td>
+      <td>Build a dashboard that tracks website traffic, user engagement, and conversion rates.</td>
+    </tr>
+    <tr>
+      <td><a href="./Energy_Consumption_Analysis"><strong>Energy Consumption Analysis</strong></a></td>
+      <td>Analyze energy usage data for industrial or residential areas to identify patterns and potential savings opportunities.</td>
+    </tr>
+    <tr>
+      <td><a href="./Healthcare_Analytics_Dashboard"><strong>Healthcare Analytics Dashboard</strong></a></td>
+      <td>Visualize healthcare data, such as patient outcomes, hospital performance, and healthcare costs.</td>
     </tr>
   </tbody>
 </table>
