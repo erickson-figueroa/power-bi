@@ -91,6 +91,10 @@ Welcome to the <strong>Power BI Projects</strong> repository! This repository fe
       <td><a href="Healthcare_Analytics_Dashboard"><strong>Healthcare Analytics Dashboard</strong></a></td>
       <td>Visualize healthcare data, such as patient outcomes, hospital performance, and healthcare costs.</td>
     </tr>
+    <tr>
+      <td><a href="LinkedIn_Job_Postings_Report"><strong>LinkedIn Job Postings Report</strong></a></td>
+      <td>Analyze the current job market with a detailed report of over 124,000 job postings from LinkedIn.</td>
+    </tr>
   </tbody>
 </table>
 
