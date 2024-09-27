@@ -16,6 +16,10 @@ Welcome to the <strong> Power BI Projects</strong> repository! This repository f
       <td><a href="Absenteeism_Analysis_Report"><strong>Employee Absenteeism Analysis</strong></a></td>
       <td>This report analyzes absenteeism data within the organization to identify trends and potential causes.</td>
     </tr>
+     <tr>
+      <td><a href="Analytical_Requirements"><strong>Analytical Requirements and Dashboard Design</strong></a></td>
+      <td>This project analyzes the requirements for the design of two dashboards for the Bank Service Packages Fees and Workforce Diversity & Pay Equity areas.</td>
+    </tr>
     <tr>
       <td><a href="Sales_Performance_Dashboard"><strong>Sales Performance Dashboard</strong></a></td>
       <td>Dashboard to track sales metrics, revenue, and sales growth. Analyze product performance and sales trends.</td>
