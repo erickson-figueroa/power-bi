@@ -1,0 +1,1001 @@
+﻿NameMonthYear,Year,Month_Year,Account_ID,Account_Type,Package,Customer_Demographics_Income,Customer_Demographics_Marital_Status,Customer_Demographics_Education,Number_of_Deposits_Credits,Number_of_Debits,Bill_Payments,Cash_Withdrawals,Point_of_sale_Transactions,Total_Value_of_Debits,Deposits_Made_During_The_Month_Credits,Total_Service_Charges,Total_Balance_at_Month_End,Number_of_Transactions
+April-2023,2023,2023-04-20,222,Chequing,Gold,Low Income,Divorced,Some College,396,411,$552.00,100.18,$998.00,"$34,777.90","$46,540.95",$31.56,2456.26,128
+April-2023,2023,2023-04-20,251,Chequing,Bronze,Medium Income,Single,College Degree,413,549,$501.00,1862.26,$893.00,"$41,054.67","$42,959.23",$47.46,4917.94,24
+April-2023,2023,2023-04-20,877,Savings,Silver,Medium Income,Divorced,Some College,563,160,$933.00,1787.19,$577.00,"$16,036.55","$40,398.59",$51.83,393.79,343
+April-2023,2023,2023-04-22,151,Chequing,Silver,Low Income,Single,College Degree,5,612,$81.00,1909.48,$421.00,"$34,283.15","$33,759.13",$96.30,9474,858
+April-2023,2023,2023-04-22,290,Savings,Bronze,High Income,Single,College Degree,406,198,$600.00,2480.22,$664.00,"$9,629.14","$7,262.99",$115.39,6364.48,578
+April-2023,2023,2023-04-23,307,Chequing,Bronze,Medium Income,Married,Master's Degree,550,993,$950.00,2233.51,$860.00,"$13,023.26","$46,918.24",$137.23,7677.73,968
+April-2023,2023,2023-04-23,452,Savings,Silver,High Income,Married,College Degree,589,117,$860.00,1265.47,$953.00,"$26,273.90","$35,047.13",$115.53,6869.87,114
+April-2023,2023,2023-04-24,80,Savings,Silver,Medium Income,Divorced,High School Graduate,639,110,$504.00,169.04,$555.00,"$24,098.22","$16,082.48",$72.38,5558.78,365
+April-2023,2023,2023-04-24,893,Chequing,Bronze,High Income,Single,Some College,231,461,$51.00,939.68,$784.00,"$33,604.21","$46,403.46",$27.93,5478.64,857
+April-2023,2023,2023-04-24,807,Chequing,Silver,Medium Income,Single,Master's Degree,307,209,$506.00,1843.02,$446.00,"$15,635.71","$8,611.20",$123.28,8698.79,739
+April-2023,2023,2023-04-25,192,Savings,Silver,Low Income,Married,Some College,146,436,$296.00,2523.46,$587.00,"$31,765.10","$1,165.10",$146.58,7238.09,630
+April-2023,2023,2023-04-25,446,Savings,Silver,High Income,Single,Master's Degree,647,934,$236.00,465.39,$549.00,"$30,505.51","$32,556.99",$91.88,5594.55,738
+April-2023,2023,2023-04-26,75,Chequing,Gold,Medium Income,Married,College Degree,957,850,$661.00,2868.88,$243.00,"$18,291.50","$38,266.77",$79.96,4326.96,38
+April-2023,2023,2023-04-27,430,Savings,Bronze,High Income,Single,Master's Degree,507,768,$169.00,1578.15,$596.00,"$8,991.34","$43,268.58",$135.14,7984.83,889
+April-2023,2023,2023-04-27,647,Savings,Gold,Medium Income,Divorced,Some College,638,356,$41.00,523.36,$857.00,"$3,568.49","$33,750.05",$83.57,9720.17,270
+April-2023,2023,2023-04-27,656,Savings,Gold,High Income,Single,College Degree,284,167,$916.00,757.42,$946.00,"$5,493.73","$32,795.77",$57.12,7232.84,171
+April-2023,2023,2023-04-28,628,Chequing,Silver,Low Income,Married,High School Graduate,784,99,$691.00,555.95,$296.00,"$36,795.71","$47,411.39",$31.46,5021.9,166
+April-2023,2023,2023-04-30,818,Savings,Bronze,Low Income,Married,High School Graduate,642,416,$839.00,267.92,$362.00,"$3,894.27","$30,743.15",$108.46,1828.15,812
+April-2023,2023,2023-04-30,779,Savings,Gold,High Income,Single,College Degree,306,144,$664.00,684.22,$560.00,"$30,195.69","$36,809.82",$149.98,4210.52,70
+April-2023,2023,2023-04-30,542,Chequing,Gold,High Income,Divorced,Master's Degree,299,243,$408.00,1802.42,$86.00,"$24,350.09","$26,450.54",$19.25,9158.96,332
+May-2023,2023,2023-05-01,299,Chequing,Bronze,High Income,Single,College Degree,725,74,$623.00,1848.65,$397.00,"$20,774.22","$49,001.11",$31.62,855.22,404
+May-2023,2023,2023-05-01,394,Chequing,Gold,High Income,Married,Master's Degree,863,169,$45.00,1184.85,$517.00,"$37,026.15","$44,322.55",$136.68,7898.17,946
+May-2023,2023,2023-05-01,575,Savings,Gold,Low Income,Divorced,High School Graduate,843,70,$720.00,1231.69,$794.00,"$5,026.65","$16,824.68",$108.75,2388.92,610
+May-2023,2023,2023-05-03,454,Savings,Bronze,Medium Income,Single,Master's Degree,898,600,$441.00,197.01,$204.00,$155.85,"$14,422.73",$40.66,6020.81,145
+May-2023,2023,2023-05-04,458,Savings,Silver,Low Income,Single,High School Graduate,688,660,$242.00,1779.71,$521.00,"$17,044.43","$24,617.64",$52.27,2433.4,959
+May-2023,2023,2023-05-04,481,Savings,Silver,High Income,Single,Some College,545,201,$4.00,2643.99,$476.00,"$4,248.87","$26,736.70",$114.06,4210.67,74
+May-2023,2023,2023-05-04,86,Chequing,Bronze,High Income,Married,High School Graduate,394,605,$562.00,621.42,$877.00,"$41,331.13","$27,682.06",$109.17,5613.15,421
+May-2023,2023,2023-05-04,593,Chequing,Bronze,High Income,Married,High School Graduate,76,292,$161.00,1072.04,$198.00,"$20,626.92","$36,541.84",$146.61,2635.16,401
+May-2023,2023,2023-05-04,948,Savings,Bronze,Low Income,Divorced,Master's Degree,61,721,$267.00,2625.59,$86.00,"$37,234.12","$19,911.87",$53.05,7946.09,254
+May-2023,2023,2023-05-05,638,Chequing,Gold,Low Income,Divorced,College Degree,975,841,$98.00,413.61,$309.00,"$8,377.12","$49,364.17",$16.64,2556.67,656
+May-2023,2023,2023-05-05,614,Savings,Gold,Low Income,Divorced,Some College,935,647,$785.00,974.8,$468.00,"$17,550.19","$27,091.23",$115.74,170.2,772
+May-2023,2023,2023-05-05,198,Chequing,Bronze,Low Income,Married,Master's Degree,929,528,$946.00,2597.31,$771.00,"$46,827.70","$27,027.86",$19.36,6912.39,987
+May-2023,2023,2023-05-05,158,Savings,Bronze,High Income,Single,Master's Degree,803,413,$417.00,2220.16,$122.00,"$41,490.29","$46,794.05",$84.63,6881.19,966
+May-2023,2023,2023-05-05,218,Savings,Gold,High Income,Single,High School Graduate,329,464,$848.00,1068.98,$790.00,"$39,481.47",$977.81,$121.72,5595.71,700
+May-2023,2023,2023-05-05,532,Chequing,Gold,Low Income,Divorced,Master's Degree,581,707,$86.00,613.97,$245.00,"$25,880.17","$17,473.15",$52.39,3974.06,371
+May-2023,2023,2023-05-06,826,Chequing,Bronze,High Income,Divorced,High School Graduate,232,306,$621.00,1126.88,$7.00,"$9,600.68","$8,602.91",$47.42,4257.58,688
+May-2023,2023,2023-05-06,895,Savings,Silver,Low Income,Single,Master's Degree,956,361,$14.00,858.26,$524.00,"$26,059.22","$36,599.63",$40.53,6614.27,760
+May-2023,2023,2023-05-06,864,Chequing,Silver,Low Income,Married,Master's Degree,4,176,$459.00,1581.83,$742.00,"$29,188.46","$27,208.18",$140.18,8616.8,775
+May-2023,2023,2023-05-08,747,Savings,Bronze,Medium Income,Married,Some College,763,749,$514.00,694.45,$147.00,"$28,781.10","$44,495.16",$27.69,9437.26,841
+May-2023,2023,2023-05-09,527,Chequing,Bronze,High Income,Single,Some College,730,207,$104.00,2687.67,$339.00,"$30,671.37","$22,091.21",$13.63,8516.45,120
+May-2023,2023,2023-05-09,360,Chequing,Gold,Medium Income,Divorced,Some College,645,898,$251.00,2532.1,$312.00,"$17,855.69","$45,234.71",$134.59,264.18,284
+May-2023,2023,2023-05-09,183,Chequing,Gold,Medium Income,Divorced,High School Graduate,627,603,$151.00,1766.61,$856.00,"$32,241.22","$5,267.07",$58.47,8815.02,796
+May-2023,2023,2023-05-10,267,Chequing,Gold,High Income,Married,High School Graduate,61,320,$414.00,1608.29,$935.00,"$15,984.08","$28,385.47",$119.68,9298.19,178
+May-2023,2023,2023-05-10,763,Savings,Gold,High Income,Single,Master's Degree,196,785,$373.00,791.76,$439.00,"$42,872.80","$39,732.64",$119.15,5282.79,160
+May-2023,2023,2023-05-11,729,Chequing,Silver,Medium Income,Married,High School Graduate,496,472,$829.00,2460.44,$19.00,"$3,505.67","$27,240.71",$84.21,9471.48,849
+May-2023,2023,2023-05-12,46,Chequing,Bronze,Low Income,Married,Master's Degree,25,798,$542.00,2320.24,$645.00,"$14,897.27","$8,293.24",$19.41,2444.79,632
+May-2023,2023,2023-05-12,302,Savings,Bronze,Medium Income,Single,Master's Degree,639,336,$195.00,1646.64,$154.00,"$37,483.13","$41,192.45",$40.94,471.62,506
+May-2023,2023,2023-05-12,326,Chequing,Silver,Medium Income,Married,High School Graduate,859,256,$463.00,2069.21,$728.00,"$44,326.93","$30,327.32",$10.97,153.44,329
+May-2023,2023,2023-05-12,553,Savings,Silver,High Income,Divorced,Some College,952,739,$342.00,704.08,$204.00,"$1,969.93","$32,373.22",$24.62,7702.66,757
+May-2023,2023,2023-05-13,124,Savings,Silver,Low Income,Married,College Degree,874,863,$865.00,2043.11,$360.00,"$34,263.02","$17,664.62",$59.89,5198.67,771
+May-2023,2023,2023-05-13,633,Savings,Bronze,Medium Income,Single,Some College,530,395,$70.00,2223.27,$404.00,"$47,819.72","$31,296.51",$76.45,7979.43,542
+May-2023,2023,2023-05-13,944,Savings,Silver,Medium Income,Divorced,Master's Degree,851,826,$798.00,866.08,$518.00,"$41,346.02","$15,727.09",$128.46,304.95,939
+May-2023,2023,2023-05-14,959,Savings,Bronze,High Income,Single,Master's Degree,331,850,$841.00,1532.31,$177.00,"$28,416.23","$18,915.61",$54.88,3393.33,662
+May-2023,2023,2023-05-14,987,Chequing,Gold,Medium Income,Single,High School Graduate,842,452,$903.00,2322.24,$857.00,"$24,631.28","$16,946.37",$22.96,8081.63,484
+May-2023,2023,2023-05-14,635,Chequing,Silver,Medium Income,Married,High School Graduate,396,600,$826.00,2028.25,$541.00,"$20,083.14","$22,151.14",$102.37,6152.87,414
+May-2023,2023,2023-05-14,626,Chequing,Silver,High Income,Divorced,College Degree,925,968,$182.00,2519.73,$898.00,"$36,795.79","$10,118.05",$91.53,6155.21,616
+May-2023,2023,2023-05-14,677,Savings,Gold,Medium Income,Divorced,Some College,627,635,$41.00,922.88,$930.00,"$43,910.37","$24,473.07",$84.97,7572.58,869
+May-2023,2023,2023-05-14,162,Chequing,Gold,High Income,Single,Master's Degree,202,477,$185.00,634.75,$668.00,"$29,766.50","$14,287.33",$106.49,3273.15,3
+May-2023,2023,2023-05-14,350,Savings,Silver,High Income,Married,High School Graduate,756,633,$222.00,1650.56,$46.00,"$7,776.10","$10,993.19",$23.74,5845.99,495
+May-2023,2023,2023-05-15,372,Savings,Silver,Medium Income,Married,Master's Degree,10,933,$400.00,790.73,$31.00,"$49,446.02",$883.52,$16.49,3525.94,666
+May-2023,2023,2023-05-15,692,Savings,Gold,High Income,Married,High School Graduate,961,274,$601.00,1523.72,$70.00,"$9,980.31","$35,108.10",$115.86,9926.06,860
+May-2023,2023,2023-05-15,613,Chequing,Gold,Medium Income,Single,Some College,264,37,$512.00,105.46,$739.00,"$29,301.36","$35,925.83",$58.32,3007.27,668
+May-2023,2023,2023-05-15,749,Chequing,Gold,High Income,Married,High School Graduate,15,256,$817.00,457.42,$773.00,"$6,358.58","$26,277.90",$110.86,6806.63,374
+May-2023,2023,2023-05-16,619,Savings,Gold,High Income,Married,Some College,85,283,$522.00,489.34,$612.00,"$8,441.67","$38,618.33",$94.17,2593.95,106
+May-2023,2023,2023-05-16,712,Chequing,Bronze,Medium Income,Married,College Degree,201,960,$287.00,2126.88,$948.00,"$3,875.89","$47,788.59",$31.79,9045.91,29
+May-2023,2023,2023-05-16,936,Chequing,Gold,Low Income,Single,Master's Degree,49,396,$508.00,620.67,$3.00,"$35,847.18","$34,591.69",$6.27,555.49,507
+May-2023,2023,2023-05-16,315,Chequing,Bronze,Low Income,Divorced,High School Graduate,930,839,$237.00,1163.29,$431.00,"$39,140.29","$48,541.35",$95.38,7212.04,949
+May-2023,2023,2023-05-16,503,Savings,Bronze,High Income,Single,Master's Degree,893,948,$919.00,426.86,$86.00,"$30,830.41","$13,436.43",$110.11,5448.8,118
+May-2023,2023,2023-05-16,435,Chequing,Silver,Low Income,Married,Some College,121,280,$985.00,1878.3,$9.00,"$36,546.04","$25,856.34",$124.08,1584.57,172
+May-2023,2023,2023-05-16,39,Chequing,Bronze,High Income,Divorced,College Degree,205,792,$657.00,1980.6,$852.00,"$21,544.47","$42,807.80",$65.35,1240.19,736
+May-2023,2023,2023-05-17,501,Chequing,Bronze,Low Income,Single,High School Graduate,691,425,$857.00,1101.64,$101.00,"$6,098.93","$45,116.68",$114.54,3315.92,76
+May-2023,2023,2023-05-17,926,Savings,Bronze,Low Income,Married,College Degree,967,864,$897.00,1134.02,$988.00,"$41,748.50","$43,447.19",$95.78,7810.74,720
+May-2023,2023,2023-05-17,671,Chequing,Bronze,Low Income,Divorced,High School Graduate,5,629,$413.00,934.12,$129.00,"$43,779.98","$41,324.15",$81.27,849.22,180
+May-2023,2023,2023-05-18,522,Savings,Silver,Medium Income,Single,College Degree,925,380,$137.00,1445.04,$255.00,"$23,921.42","$27,566.64",$67.95,4535.23,280
+May-2023,2023,2023-05-18,428,Savings,Bronze,Medium Income,Single,High School Graduate,558,840,$251.00,1475.33,$48.00,"$43,503.01","$44,000.25",$89.38,5521,680
+May-2023,2023,2023-05-18,310,Chequing,Silver,Medium Income,Single,Master's Degree,815,814,$912.00,262.18,$906.00,"$40,353.99","$33,761.52",$72.41,4692.05,647
+May-2023,2023,2023-05-18,55,Savings,Gold,Medium Income,Single,College Degree,472,783,$145.00,161.13,$558.00,"$25,036.90","$24,361.20",$106.91,702.04,33
+May-2023,2023,2023-05-19,138,Savings,Gold,Medium Income,Single,College Degree,549,225,$987.00,108.23,$776.00,"$3,480.90","$26,336.92",$33.02,8140.38,589
+May-2023,2023,2023-05-19,255,Chequing,Silver,Medium Income,Married,College Degree,299,60,$608.00,730.46,$249.00,"$24,398.00","$31,607.37",$90.70,5137.45,483
+May-2023,2023,2023-05-19,991,Savings,Silver,High Income,Divorced,Master's Degree,933,143,$434.00,1463.39,$534.00,"$32,284.08","$1,766.59",$87.71,2674.73,142
+May-2023,2023,2023-05-20,754,Savings,Gold,Medium Income,Married,Master's Degree,118,717,$96.00,469.79,$132.00,"$22,673.06","$41,407.76",$130.80,3494.11,328
+May-2023,2023,2023-05-20,317,Chequing,Gold,Medium Income,Single,Master's Degree,782,318,$37.00,1312.06,$69.00,"$27,723.13","$24,040.78",$121.71,3029.69,439
+May-2023,2023,2023-05-20,384,Savings,Gold,Low Income,Married,Some College,753,670,$154.00,486.7,$685.00,"$5,721.30","$28,512.56",$143.66,1794.86,4
+May-2023,2023,2023-05-20,395,Savings,Bronze,Low Income,Divorced,High School Graduate,548,47,$554.00,2017.12,$69.00,"$35,819.94","$24,114.82",$136.97,2812.07,910
+May-2023,2023,2023-05-21,429,Savings,Gold,Low Income,Divorced,College Degree,658,29,$558.00,2167.59,$542.00,"$19,912.59","$14,076.26",$38.90,6705.42,872
+May-2023,2023,2023-05-22,265,Chequing,Bronze,Medium Income,Divorced,High School Graduate,30,772,$550.00,1450.76,$32.00,"$41,994.55","$29,624.59",$93.99,563.93,900
+May-2023,2023,2023-05-22,145,Savings,Bronze,Medium Income,Divorced,College Degree,767,515,$160.00,555.26,$706.00,"$37,592.95","$13,121.37",$73.44,226.88,793
+May-2023,2023,2023-05-22,972,Savings,Bronze,Low Income,Single,College Degree,908,148,$437.00,185.32,$201.00,"$23,946.05","$11,022.18",$50.91,3333.73,173
+May-2023,2023,2023-05-23,600,Savings,Gold,Low Income,Single,Master's Degree,264,770,$560.00,980.11,$715.00,"$10,071.92","$8,683.90",$13.61,9708.79,122
+May-2023,2023,2023-05-23,51,Savings,Bronze,Medium Income,Divorced,High School Graduate,294,148,$883.00,2113.03,$734.00,"$1,976.85","$16,135.29",$127.08,3267.8,26
+May-2023,2023,2023-05-23,504,Chequing,Silver,Medium Income,Married,High School Graduate,701,824,$657.00,2430.36,$27.00,"$35,761.21","$48,267.82",$112.76,9331.75,397
+May-2023,2023,2023-05-25,277,Savings,Bronze,High Income,Married,Master's Degree,158,106,$174.00,2415.08,$928.00,"$13,244.08","$26,730.37",$111.60,8204.95,177
+May-2023,2023,2023-05-25,849,Chequing,Gold,High Income,Married,Some College,742,513,$102.00,2411.89,$420.00,"$9,324.32","$38,694.15",$36.86,3307.9,777
+May-2023,2023,2023-05-25,886,Savings,Silver,Low Income,Married,High School Graduate,184,974,$332.00,923.93,$952.00,"$39,530.79","$27,435.40",$144.78,2429.24,602
+May-2023,2023,2023-05-26,91,Chequing,Bronze,Low Income,Divorced,College Degree,137,428,$265.00,2354.71,$727.00,"$3,575.29","$5,560.18",$55.22,4139.1,410
+May-2023,2023,2023-05-26,375,Savings,Gold,High Income,Married,Master's Degree,167,283,$184.00,1644.82,$127.00,"$14,211.33","$14,057.02",$53.40,4236.42,138
+May-2023,2023,2023-05-27,40,Chequing,Bronze,Low Income,Married,Some College,374,531,$327.00,807.69,$96.00,"$35,602.61","$5,435.85",$20.03,340.3,168
+May-2023,2023,2023-05-27,935,Chequing,Bronze,Medium Income,Married,High School Graduate,345,635,$186.00,338.14,$581.00,"$8,568.09","$46,789.66",$143.53,4905.65,958
+May-2023,2023,2023-05-27,765,Chequing,Bronze,Medium Income,Single,High School Graduate,963,617,$796.00,1478.43,$407.00,"$4,892.77","$49,288.71",$138.03,8325.6,447
+May-2023,2023,2023-05-28,92,Savings,Gold,Medium Income,Divorced,College Degree,342,255,$981.00,1658.35,$345.00,"$4,860.00","$45,015.43",$66.98,4520.52,355
+May-2023,2023,2023-05-28,261,Chequing,Bronze,High Income,Single,Master's Degree,5,891,$143.00,1107.88,$841.00,"$24,770.89","$12,936.74",$148.62,3679.42,875
+May-2023,2023,2023-05-28,309,Chequing,Silver,Low Income,Divorced,Some College,78,689,$376.00,899.7,$247.00,"$39,054.72","$13,595.54",$125.12,8576.2,199
+May-2023,2023,2023-05-29,322,Chequing,Bronze,High Income,Married,College Degree,660,547,$572.00,2684.37,$2.00,"$27,935.52","$21,320.41",$83.64,3665.36,885
+May-2023,2023,2023-05-29,444,Chequing,Bronze,Low Income,Divorced,High School Graduate,524,315,$871.00,2858.83,$372.00,"$20,753.60","$44,652.79",$75.51,8283.71,728
+May-2023,2023,2023-05-29,269,Chequing,Bronze,Medium Income,Single,College Degree,303,254,$24.00,223.44,$455.00,"$8,182.21","$22,777.94",$117.16,8571.94,576
+May-2023,2023,2023-05-29,212,Savings,Bronze,Medium Income,Divorced,College Degree,986,732,$891.00,871.46,$686.00,"$43,254.08","$8,683.40",$22.30,7606.49,353
+May-2023,2023,2023-05-29,135,Savings,Bronze,High Income,Divorced,High School Graduate,388,649,$698.00,1804.4,$956.00,"$11,333.16","$48,431.96",$94.35,5350.24,525
+May-2023,2023,2023-05-30,279,Chequing,Gold,Medium Income,Married,College Degree,379,915,$204.00,373.22,$898.00,"$12,225.79","$37,072.19",$123.42,189.9,326
+May-2023,2023,2023-05-31,588,Chequing,Silver,High Income,Married,Master's Degree,593,276,$740.00,2414.61,$883.00,"$42,154.98","$39,985.81",$101.67,9222.71,545
+May-2023,2023,2023-05-31,688,Savings,Bronze,High Income,Married,Master's Degree,134,35,$7.00,2468.19,$448.00,"$17,429.47","$23,459.83",$98.24,1964.11,547
+May-2023,2023,2023-05-31,870,Savings,Bronze,High Income,Single,Some College,873,869,$953.00,1825.11,$725.00,"$48,113.15","$6,257.64",$31.25,3948.56,971
+May-2023,2023,2023-05-31,908,Savings,Silver,Medium Income,Divorced,High School Graduate,157,657,$742.00,1022.4,$425.00,"$30,782.59","$17,335.03",$19.96,1294.65,65
+June-2023,2023,2023-06-01,591,Chequing,Silver,High Income,Married,High School Graduate,340,450,$132.00,1992.52,$994.00,"$40,011.95","$35,283.94",$98.67,8753.3,993
+June-2023,2023,2023-06-01,195,Chequing,Silver,Low Income,Divorced,Some College,595,56,$380.00,586.36,$264.00,"$4,483.70","$14,986.93",$121.59,5393.3,49
+June-2023,2023,2023-06-01,351,Savings,Bronze,High Income,Divorced,College Degree,867,953,$981.00,183.39,$826.00,"$38,052.62","$29,127.50",$9.74,9733.34,620
+June-2023,2023,2023-06-02,324,Savings,Bronze,Low Income,Divorced,High School Graduate,625,601,$685.00,737.92,$832.00,"$21,662.20","$8,599.31",$55.53,6332.65,809
+June-2023,2023,2023-06-02,333,Savings,Bronze,High Income,Married,Master's Degree,697,264,$870.00,1890.74,$20.00,"$32,029.10","$43,037.67",$126.60,3189.82,519
+June-2023,2023,2023-06-02,109,Savings,Silver,Medium Income,Single,High School Graduate,308,645,$241.00,1444.97,$512.00,"$36,283.52","$21,388.88",$11.46,3019.45,885
+June-2023,2023,2023-06-02,984,Savings,Bronze,Low Income,Divorced,High School Graduate,993,59,$550.00,1843.06,$467.00,"$48,139.37","$8,014.20",$46.45,8918.47,402
+June-2023,2023,2023-06-03,104,Chequing,Gold,Low Income,Single,Some College,861,193,$770.00,1049.27,$885.00,"$11,759.41","$35,459.97",$62.41,9445.9,929
+June-2023,2023,2023-06-03,342,Chequing,Gold,Low Income,Married,Some College,915,721,$772.00,977.75,$899.00,"$46,526.74","$33,306.70",$82.24,2391.69,701
+June-2023,2023,2023-06-03,369,Chequing,Bronze,Medium Income,Married,Some College,679,844,$385.00,2838.79,$819.00,"$48,631.78","$41,067.91",$95.44,4808.93,44
+June-2023,2023,2023-06-03,546,Savings,Silver,Medium Income,Married,College Degree,18,892,$30.00,1809.54,$363.00,"$14,683.95","$35,920.40",$41.63,1857.84,821
+June-2023,2023,2023-06-04,450,Savings,Gold,High Income,Single,College Degree,466,337,$509.00,2944.03,$763.00,"$37,405.43","$11,587.95",$123.04,4919.18,935
+June-2023,2023,2023-06-04,938,Chequing,Silver,Medium Income,Married,Master's Degree,599,104,$997.00,1197.87,$82.00,"$14,211.13","$46,641.36",$107.63,3400.42,780
+June-2023,2023,2023-06-04,728,Savings,Gold,Low Income,Married,Master's Degree,323,796,$86.00,2879.64,$268.00,"$46,622.27","$1,828.27",$40.53,9297.91,305
+June-2023,2023,2023-06-04,732,Chequing,Silver,Low Income,Married,Some College,191,171,$722.00,2302.54,$386.00,"$42,527.22","$25,952.74",$54.58,995.22,517
+June-2023,2023,2023-06-04,800,Savings,Silver,High Income,Married,High School Graduate,474,768,$894.00,2462.57,$416.00,"$13,600.96","$24,156.95",$29.29,6036.93,425
+June-2023,2023,2023-06-05,685,Chequing,Bronze,High Income,Single,Some College,415,654,$828.00,2434.43,$770.00,$524.63,"$7,394.78",$71.78,433.48,435
+June-2023,2023,2023-06-05,26,Savings,Gold,Low Income,Single,High School Graduate,773,982,$750.00,561.75,$25.00,"$42,379.64","$23,216.28",$17.46,6385.73,673
+June-2023,2023,2023-06-05,274,Chequing,Gold,Medium Income,Married,High School Graduate,939,26,$126.00,2388.51,$549.00,"$9,990.69","$30,008.15",$115.02,645.44,841
+June-2023,2023,2023-06-06,152,Chequing,Gold,High Income,Married,High School Graduate,87,58,$877.00,1640.55,$437.00,"$44,762.56","$34,672.07",$74.15,1298.42,882
+June-2023,2023,2023-06-06,97,Chequing,Silver,High Income,Single,Master's Degree,228,624,$299.00,2503.21,$946.00,"$17,210.17","$33,203.59",$39.68,9687.05,933
+June-2023,2023,2023-06-06,551,Chequing,Bronze,Low Income,Married,Some College,912,465,$441.00,2793.38,$615.00,"$22,986.31","$30,622.65",$111.15,4750.53,54
+June-2023,2023,2023-06-06,500,Savings,Silver,Medium Income,Divorced,High School Graduate,60,134,$776.00,2360.59,$337.00,"$11,038.03","$11,492.25",$71.32,1099.85,542
+June-2023,2023,2023-06-06,629,Savings,Gold,Medium Income,Single,College Degree,690,936,$879.00,923.03,$312.00,"$34,606.99","$35,377.76",$137.81,6968.61,402
+June-2023,2023,2023-06-06,946,Chequing,Bronze,High Income,Divorced,Master's Degree,408,401,$942.00,455.95,$689.00,"$33,166.25","$26,144.62",$49.26,5601.62,706
+June-2023,2023,2023-06-07,981,Chequing,Bronze,Low Income,Single,College Degree,994,513,$393.00,151.66,$173.00,"$29,751.48","$6,882.50",$46.27,2050.35,369
+June-2023,2023,2023-06-07,325,Chequing,Silver,High Income,Married,College Degree,268,819,$794.00,578.88,$867.00,"$33,079.81","$3,725.50",$6.70,8727.06,7
+June-2023,2023,2023-06-08,786,Savings,Bronze,Medium Income,Married,High School Graduate,935,812,$668.00,2340.15,$537.00,"$10,580.13","$25,337.55",$108.87,2518.84,404
+June-2023,2023,2023-06-08,778,Chequing,Bronze,Medium Income,Single,High School Graduate,711,38,$181.00,2172.42,$577.00,"$9,576.43","$22,505.57",$110.66,5506.81,202
+June-2023,2023,2023-06-08,726,Chequing,Gold,Medium Income,Divorced,Some College,665,8,$398.00,1748.3,$673.00,"$10,748.94","$36,884.48",$23.71,940.82,867
+June-2023,2023,2023-06-09,811,Chequing,Gold,High Income,Married,College Degree,562,298,$217.00,1016.33,$532.00,"$29,061.44","$34,714.71",$84.76,5303.29,206
+June-2023,2023,2023-06-09,873,Savings,Silver,Medium Income,Single,Master's Degree,437,816,$505.00,129.66,$161.00,"$14,235.59","$3,688.56",$129.89,1183.21,278
+June-2023,2023,2023-06-09,38,Savings,Gold,Low Income,Married,High School Graduate,64,870,$610.00,2037.18,$463.00,"$48,117.95","$37,492.33",$32.45,2380.56,529
+June-2023,2023,2023-06-09,177,Savings,Bronze,Medium Income,Married,Master's Degree,835,843,$940.00,122.08,$52.00,"$32,250.68","$35,195.52",$103.48,5001.8,755
+June-2023,2023,2023-06-09,178,Chequing,Silver,High Income,Divorced,Master's Degree,308,810,$110.00,2227.43,$640.00,"$14,510.51","$39,195.52",$93.57,1144.51,107
+June-2023,2023,2023-06-10,225,Savings,Bronze,Medium Income,Married,College Degree,734,319,$994.00,349.75,$576.00,"$36,707.01","$6,281.01",$9.17,5465.74,513
+June-2023,2023,2023-06-10,884,Chequing,Silver,High Income,Married,College Degree,767,828,$234.00,711.58,$52.00,"$36,041.69","$17,126.25",$50.97,159.82,986
+June-2023,2023,2023-06-10,723,Savings,Bronze,High Income,Married,High School Graduate,559,903,$702.00,430.94,$702.00,"$42,182.27","$32,309.32",$44.56,226.2,312
+June-2023,2023,2023-06-10,724,Chequing,Gold,High Income,Married,High School Graduate,546,540,$257.00,1257.72,$910.00,"$46,449.11","$13,463.37",$28.65,4928.67,180
+June-2023,2023,2023-06-10,776,Savings,Gold,High Income,Married,High School Graduate,433,39,$61.00,780.92,$811.00,"$34,712.55","$14,389.95",$132.32,2401.13,396
+June-2023,2023,2023-06-10,674,Chequing,Silver,Low Income,Divorced,College Degree,269,719,$679.00,124.12,$306.00,"$42,894.66",$959.15,$82.64,9745.31,453
+June-2023,2023,2023-06-11,755,Savings,Gold,Medium Income,Married,College Degree,607,748,$86.00,1570.77,$579.00,"$21,925.76","$6,820.23",$46.51,3924.8,211
+June-2023,2023,2023-06-12,898,Savings,Silver,High Income,Divorced,High School Graduate,472,562,$886.00,296.37,$789.00,"$45,954.17","$31,384.88",$93.91,4520.25,17
+June-2023,2023,2023-06-12,273,Chequing,Gold,Low Income,Married,Master's Degree,23,11,$891.00,1252.85,$928.00,"$39,317.45","$16,409.02",$148.03,9175.18,400
+June-2023,2023,2023-06-12,266,Chequing,Gold,Medium Income,Single,College Degree,782,989,$743.00,833.7,$259.00,"$44,481.93","$18,893.68",$76.82,6797.99,140
+June-2023,2023,2023-06-12,189,Savings,Gold,Low Income,Married,Master's Degree,600,704,$831.00,2148.23,$501.00,"$21,211.77","$42,652.23",$16.06,3007.7,986
+June-2023,2023,2023-06-13,184,Chequing,Silver,High Income,Married,Some College,508,98,$750.00,2749.87,$782.00,"$22,231.98",$602.61,$79.27,5797.48,205
+June-2023,2023,2023-06-13,167,Savings,Bronze,High Income,Married,College Degree,867,483,$948.00,347.02,$353.00,"$22,225.38","$11,751.13",$65.84,5427.95,229
+June-2023,2023,2023-06-13,43,Savings,Silver,High Income,Single,High School Graduate,10,933,$637.00,1608.55,$987.00,"$45,757.38","$35,541.41",$88.20,1091.07,174
+June-2023,2023,2023-06-13,305,Chequing,Silver,High Income,Married,College Degree,911,152,$800.00,1242.29,$891.00,"$35,731.44","$32,618.06",$63.93,5647.6,459
+June-2023,2023,2023-06-13,417,Chequing,Gold,Low Income,Divorced,Some College,615,572,$211.00,2253.34,$297.00,"$48,213.89","$32,446.50",$94.26,5598.46,305
+June-2023,2023,2023-06-13,992,Savings,Bronze,Low Income,Divorced,College Degree,432,664,$725.00,392.28,$760.00,"$32,504.05","$13,858.92",$51.56,8628.61,794
+June-2023,2023,2023-06-13,851,Chequing,Silver,High Income,Married,Some College,508,91,$71.00,2637.3,$371.00,"$46,355.57","$33,094.45",$33.91,5096.15,18
+June-2023,2023,2023-06-14,636,Savings,Gold,High Income,Single,Some College,601,840,$11.00,2243.88,$333.00,"$47,348.52","$33,014.64",$38.02,8979.58,375
+June-2023,2023,2023-06-14,258,Chequing,Gold,High Income,Single,Some College,152,699,$942.00,678,$182.00,"$9,697.83","$41,675.67",$106.70,2564.4,104
+June-2023,2023,2023-06-15,478,Savings,Bronze,Medium Income,Single,Some College,851,71,$485.00,2008.48,$991.00,"$45,679.35","$30,436.60",$103.54,2913.52,391
+June-2023,2023,2023-06-15,840,Chequing,Gold,High Income,Divorced,Some College,443,527,$83.00,2066.04,$103.00,"$35,072.92","$26,120.89",$91.76,8760.13,950
+June-2023,2023,2023-06-15,824,Savings,Silver,High Income,Single,High School Graduate,575,279,$578.00,2163.84,$111.00,"$39,616.54","$39,835.22",$120.42,6419,778
+June-2023,2023,2023-06-15,727,Savings,Bronze,Medium Income,Single,Master's Degree,90,602,$66.00,2642.2,$982.00,"$36,272.86","$45,856.63",$89.02,7240.6,206
+June-2023,2023,2023-06-16,823,Chequing,Bronze,High Income,Divorced,Master's Degree,370,413,$833.00,2589.77,$545.00,"$21,856.35","$31,714.08",$44.77,7368.21,513
+June-2023,2023,2023-06-16,271,Chequing,Gold,High Income,Married,Some College,279,297,$534.00,604.69,$178.00,"$1,381.72","$25,692.30",$145.75,7386.88,361
+June-2023,2023,2023-06-17,153,Savings,Bronze,High Income,Single,Some College,660,728,$370.00,1956.98,$431.00,"$45,223.45","$42,225.98",$97.36,7200.21,250
+June-2023,2023,2023-06-17,418,Savings,Bronze,Low Income,Divorced,Master's Degree,492,623,$750.00,1927.51,$977.00,"$33,690.95","$37,615.41",$114.19,9327.31,655
+June-2023,2023,2023-06-18,396,Chequing,Silver,Medium Income,Single,High School Graduate,365,773,$970.00,1338.23,$644.00,"$26,708.14","$16,023.45",$74.67,2019.09,684
+June-2023,2023,2023-06-19,221,Chequing,Gold,Low Income,Married,Some College,34,473,$110.00,112.06,$820.00,"$11,518.10","$5,269.62",$72.84,2123.42,698
+June-2023,2023,2023-06-19,4,Savings,Gold,Medium Income,Single,Some College,488,730,$631.00,2611.07,$385.00,"$32,226.60","$2,443.38",$26.57,9919.54,993
+June-2023,2023,2023-06-19,76,Chequing,Silver,High Income,Married,College Degree,288,964,$534.00,1893.34,$215.00,"$6,146.85","$13,271.32",$121.46,7527.43,672
+June-2023,2023,2023-06-19,836,Savings,Silver,Medium Income,Divorced,High School Graduate,911,211,$209.00,1994.48,$524.00,"$45,180.11","$24,628.77",$39.30,6973.82,814
+June-2023,2023,2023-06-19,862,Savings,Bronze,Medium Income,Divorced,Master's Degree,751,194,$434.00,1346.81,$190.00,"$9,227.90","$16,259.58",$109.95,2281.84,780
+June-2023,2023,2023-06-20,784,Chequing,Silver,Medium Income,Married,College Degree,270,354,$312.00,2540.08,$766.00,"$8,364.72","$39,558.47",$69.21,8159.62,667
+June-2023,2023,2023-06-20,227,Chequing,Gold,High Income,Married,High School Graduate,785,249,$452.00,774.3,$772.00,"$36,801.35","$39,309.78",$40.48,8902.57,740
+June-2023,2023,2023-06-21,52,Chequing,Silver,Medium Income,Married,College Degree,808,724,$463.00,353.26,$601.00,"$43,118.61","$9,653.70",$136.02,7648.86,360
+June-2023,2023,2023-06-21,370,Chequing,Bronze,Medium Income,Divorced,College Degree,953,373,$52.00,2067.82,$893.00,"$21,690.25","$38,431.83",$42.84,2673.3,518
+June-2023,2023,2023-06-22,68,Savings,Gold,Low Income,Single,High School Graduate,435,575,$566.00,1470.97,$154.00,"$20,834.77","$30,319.82",$44.70,9453.93,117
+June-2023,2023,2023-06-22,263,Savings,Silver,High Income,Single,Some College,819,288,$960.00,425.01,$260.00,"$1,601.47","$45,286.84",$15.45,4051.28,801
+June-2023,2023,2023-06-22,967,Savings,Bronze,Low Income,Single,College Degree,269,269,$348.00,1384.19,$158.00,"$28,367.52","$30,748.41",$33.34,3311.97,215
+June-2023,2023,2023-06-23,568,Savings,Silver,Medium Income,Single,Master's Degree,983,412,$496.00,1604.13,$838.00,"$12,731.67","$39,735.40",$133.22,1941.57,565
+June-2023,2023,2023-06-23,716,Savings,Bronze,High Income,Married,High School Graduate,836,531,$931.00,104.1,$557.00,"$16,508.18","$39,848.48",$102.41,4827.08,854
+June-2023,2023,2023-06-23,362,Savings,Bronze,Low Income,Single,Master's Degree,875,91,$467.00,832.43,$174.00,"$26,690.97","$10,927.89",$21.85,3231.72,325
+June-2023,2023,2023-06-23,427,Savings,Gold,High Income,Single,High School Graduate,490,572,$141.00,430.49,$717.00,"$26,485.70","$8,750.10",$20.09,5148.37,540
+June-2023,2023,2023-06-23,534,Chequing,Bronze,Low Income,Married,High School Graduate,612,759,$593.00,1943,$739.00,"$11,808.08","$32,685.95",$9.78,493.05,320
+June-2023,2023,2023-06-24,228,Chequing,Bronze,High Income,Single,High School Graduate,308,371,$907.00,696.11,$333.00,"$6,852.18","$15,813.24",$63.89,9685.14,379
+June-2023,2023,2023-06-24,146,Savings,Bronze,Low Income,Divorced,High School Graduate,621,736,$896.00,1064.26,$345.00,"$21,155.11","$34,238.03",$47.13,779.78,962
+June-2023,2023,2023-06-25,201,Chequing,Silver,High Income,Single,College Degree,813,215,$413.00,2863.21,$401.00,"$40,948.34","$8,655.91",$130.07,9300,146
+June-2023,2023,2023-06-25,272,Savings,Gold,Medium Income,Married,College Degree,450,733,$495.00,1450.23,$900.00,"$30,759.63","$38,966.54",$25.87,6520.36,616
+June-2023,2023,2023-06-25,301,Savings,Silver,High Income,Single,Master's Degree,252,769,$140.00,910.08,$610.00,"$22,406.48","$44,265.10",$20.07,7937.86,970
+June-2023,2023,2023-06-26,940,Savings,Bronze,Medium Income,Single,Some College,568,507,$9.00,812.26,$694.00,"$48,863.74","$17,197.32",$61.73,1578.58,470
+June-2023,2023,2023-06-28,365,Chequing,Silver,High Income,Single,Master's Degree,398,531,$151.00,396.68,$230.00,"$42,133.18","$27,797.89",$53.85,9626.5,334
+June-2023,2023,2023-06-28,543,Savings,Silver,High Income,Divorced,Some College,481,238,$645.00,388.71,$977.00,"$24,736.09","$28,165.39",$126.58,3245.23,182
+June-2023,2023,2023-06-28,155,Savings,Silver,Medium Income,Married,College Degree,691,535,$577.00,453.94,$35.00,"$1,408.42","$3,256.07",$99.64,2462.75,963
+June-2023,2023,2023-06-28,168,Savings,Bronze,Low Income,Single,College Degree,90,109,$668.00,1738.93,$578.00,"$28,848.14","$46,686.00",$99.08,2349.12,684
+June-2023,2023,2023-06-29,983,Savings,Gold,High Income,Single,Some College,52,63,$126.00,369.23,$851.00,"$41,164.05","$5,093.14",$55.43,9645.6,204
+June-2023,2023,2023-06-29,710,Savings,Gold,High Income,Divorced,Master's Degree,985,275,$234.00,1059.01,$974.00,"$27,486.43","$29,525.92",$137.17,4600.12,606
+June-2023,2023,2023-06-29,835,Savings,Silver,Low Income,Single,Master's Degree,735,21,$753.00,1271.95,$334.00,"$39,720.80","$16,798.86",$78.76,7380.09,200
+June-2023,2023,2023-06-30,808,Chequing,Bronze,Low Income,Divorced,High School Graduate,410,625,$507.00,2080.26,$793.00,"$42,357.91","$43,702.90",$66.19,6522.33,510
+June-2023,2023,2023-06-30,586,Chequing,Bronze,Medium Income,Divorced,Some College,408,217,$210.00,2487,$616.00,"$6,528.40","$36,861.64",$142.84,7798.11,891
+July-2023,2023,2023-07-01,260,Savings,Bronze,Medium Income,Married,Some College,30,795,$541.00,2091.18,$315.00,"$16,582.71","$32,015.85",$119.69,5638.88,415
+July-2023,2023,2023-07-01,408,Savings,Silver,Medium Income,Divorced,Some College,561,749,$761.00,1790.57,$94.00,"$2,021.64","$44,387.67",$48.39,414.41,749
+July-2023,2023,2023-07-02,7,Savings,Silver,High Income,Married,Master's Degree,797,392,$863.00,1804.64,$670.00,"$39,137.69","$39,209.24",$115.75,7290.46,234
+July-2023,2023,2023-07-04,352,Savings,Silver,High Income,Single,Master's Degree,285,869,$211.00,307.16,$821.00,"$45,201.73","$33,290.15",$135.62,5023.22,162
+July-2023,2023,2023-07-05,660,Chequing,Gold,Medium Income,Single,Some College,578,714,$123.00,451.27,$61.00,"$16,067.74","$25,515.80",$49.64,5151.71,437
+July-2023,2023,2023-07-05,822,Chequing,Silver,High Income,Divorced,Some College,499,116,$371.00,2208.71,$356.00,"$47,282.24","$27,670.62",$144.91,5780.97,882
+July-2023,2023,2023-07-05,969,Chequing,Silver,Low Income,Married,Some College,924,48,$778.00,2214,$193.00,"$15,525.75","$9,386.65",$130.18,9576.22,232
+July-2023,2023,2023-07-06,746,Chequing,Silver,Low Income,Divorced,High School Graduate,976,931,$584.00,1445.96,$710.00,"$5,032.11","$42,715.64",$91.64,2098.79,638
+July-2023,2023,2023-07-06,658,Chequing,Bronze,Low Income,Single,College Degree,553,680,$604.00,2614.5,$324.00,"$43,060.79","$44,749.76",$94.67,5310.18,102
+July-2023,2023,2023-07-06,587,Chequing,Silver,High Income,Married,Master's Degree,379,276,$877.00,602.66,$452.00,"$18,984.58","$23,472.37",$67.24,4109,287
+July-2023,2023,2023-07-06,287,Savings,Gold,Low Income,Married,College Degree,638,465,$593.00,1606.68,$239.00,"$12,254.84","$42,854.75",$14.99,4387.73,533
+July-2023,2023,2023-07-06,280,Savings,Gold,Low Income,Divorced,College Degree,276,16,$805.00,1613.44,$753.00,"$14,629.93","$24,315.48",$17.25,9948.42,807
+July-2023,2023,2023-07-07,782,Savings,Bronze,Low Income,Married,College Degree,45,621,$694.00,2160.85,$375.00,"$46,098.53","$38,490.72",$50.57,751.95,477
+July-2023,2023,2023-07-08,720,Savings,Bronze,High Income,Married,Master's Degree,556,899,$860.00,2144.37,$724.00,"$33,730.07","$26,247.35",$69.50,9800.32,185
+July-2023,2023,2023-07-08,888,Savings,Silver,High Income,Divorced,High School Graduate,19,94,$990.00,941.01,$297.00,"$40,492.00","$37,370.12",$72.94,5490.93,66
+July-2023,2023,2023-07-08,236,Savings,Gold,High Income,Divorced,Master's Degree,702,256,$10.00,2463.49,$200.00,"$22,139.97","$26,544.17",$31.98,7103.39,85
+July-2023,2023,2023-07-08,415,Chequing,Bronze,Low Income,Divorced,College Degree,318,130,$535.00,2668.02,$922.00,"$31,866.88","$32,662.13",$47.13,2523.9,158
+July-2023,2023,2023-07-08,358,Savings,Bronze,Medium Income,Divorced,High School Graduate,941,61,$964.00,1234.97,$972.00,"$18,486.85","$17,552.78",$27.80,6226,42
+July-2023,2023,2023-07-08,540,Savings,Silver,Medium Income,Divorced,College Degree,513,384,$108.00,1335.03,$355.00,"$30,587.83","$28,582.63",$30.34,9676.79,934
+July-2023,2023,2023-07-09,528,Savings,Gold,Medium Income,Divorced,High School Graduate,257,336,$388.00,2466.39,$787.00,"$16,310.23","$26,200.49",$104.45,9412.5,213
+July-2023,2023,2023-07-09,871,Savings,Silver,High Income,Divorced,High School Graduate,307,952,$228.00,1367.53,$209.00,"$34,787.84","$38,127.89",$49.12,4162.98,282
+July-2023,2023,2023-07-09,567,Savings,Silver,Medium Income,Married,Some College,104,733,$824.00,2490.83,$52.00,"$7,898.26","$24,746.33",$107.78,2644.96,366
+July-2023,2023,2023-07-10,896,Chequing,Silver,Medium Income,Married,Master's Degree,657,514,$855.00,1539,$475.00,"$47,759.84","$29,440.93",$105.23,5981.97,929
+July-2023,2023,2023-07-10,976,Chequing,Bronze,High Income,Single,Some College,47,242,$233.00,1333.28,$857.00,"$31,511.54","$49,425.14",$63.80,7203.91,144
+July-2023,2023,2023-07-10,18,Chequing,Silver,Medium Income,Single,College Degree,316,123,$125.00,1596.84,$466.00,"$12,504.63","$9,245.58",$104.07,5350.12,677
+July-2023,2023,2023-07-11,393,Savings,Gold,Medium Income,Single,High School Graduate,428,33,$883.00,2666.46,$360.00,"$26,142.08","$20,367.14",$35.76,9231.75,27
+July-2023,2023,2023-07-12,22,Chequing,Gold,Low Income,Married,College Degree,88,983,$387.00,349.32,$898.00,"$36,098.20","$14,160.43",$131.22,3544.54,985
+July-2023,2023,2023-07-12,715,Savings,Silver,High Income,Married,High School Graduate,560,854,$800.00,2149.42,$225.00,"$49,417.32","$40,661.92",$79.65,2616.84,34
+July-2023,2023,2023-07-13,634,Savings,Gold,Low Income,Divorced,Some College,20,242,$848.00,2346.95,$160.00,"$4,324.47","$27,074.38",$125.76,4969.92,588
+July-2023,2023,2023-07-13,368,Savings,Gold,High Income,Divorced,Master's Degree,511,804,$249.00,342.92,$942.00,"$7,150.09","$12,498.31",$66.59,1027.78,47
+July-2023,2023,2023-07-13,463,Chequing,Silver,Low Income,Single,Master's Degree,594,268,$952.00,1469.94,$56.00,"$44,892.53","$49,675.61",$79.67,9559.8,588
+July-2023,2023,2023-07-14,377,Savings,Silver,High Income,Single,Master's Degree,383,436,$522.00,2416.96,$314.00,"$23,596.71","$28,987.47",$113.41,3217.59,873
+July-2023,2023,2023-07-14,47,Chequing,Gold,Medium Income,Married,College Degree,370,491,$935.00,367.55,$964.00,"$19,317.83","$40,879.41",$53.95,6271.74,477
+July-2023,2023,2023-07-14,99,Chequing,Bronze,Low Income,Divorced,Some College,33,106,$312.00,1076.04,$92.00,"$2,186.93","$23,470.33",$47.11,9648.73,495
+July-2023,2023,2023-07-14,252,Chequing,Gold,Low Income,Divorced,College Degree,327,640,$933.00,2305.87,$487.00,"$31,011.07","$24,048.77",$36.61,4111.34,36
+July-2023,2023,2023-07-14,670,Chequing,Silver,High Income,Single,High School Graduate,639,57,$785.00,2421.96,$906.00,"$41,842.29","$11,866.75",$7.47,359.2,219
+July-2023,2023,2023-07-15,659,Chequing,Bronze,Medium Income,Single,Master's Degree,51,627,$582.00,1686.49,$820.00,"$16,038.82","$33,746.09",$124.80,2090.99,354
+July-2023,2023,2023-07-15,235,Chequing,Gold,Medium Income,Married,High School Graduate,843,844,$903.00,1210.25,$952.00,"$49,121.70","$31,271.33",$49.35,7808.8,438
+July-2023,2023,2023-07-15,238,Savings,Silver,Medium Income,Married,High School Graduate,872,829,$724.00,1700.43,$104.00,"$8,001.78","$22,555.66",$17.46,3243.05,819
+July-2023,2023,2023-07-15,308,Savings,Gold,Medium Income,Single,College Degree,347,840,$984.00,1622.94,$461.00,"$47,296.45","$32,896.14",$66.86,7474.72,621
+July-2023,2023,2023-07-16,300,Chequing,Silver,Low Income,Single,Some College,428,358,$519.00,651.42,$727.00,"$28,234.85","$32,808.10",$48.40,263.62,247
+July-2023,2023,2023-07-16,469,Chequing,Bronze,Medium Income,Single,Some College,217,476,$744.00,2919.4,$44.00,"$48,614.99","$35,110.79",$18.68,8113.19,102
+July-2023,2023,2023-07-16,224,Chequing,Bronze,Medium Income,Married,Master's Degree,851,601,$821.00,856.3,$974.00,"$47,965.36","$14,303.10",$6.71,1245.01,986
+July-2023,2023,2023-07-16,828,Chequing,Silver,Medium Income,Single,Some College,209,99,$382.00,2619.85,$87.00,"$11,954.09","$2,990.34",$8.77,7194.38,336
+July-2023,2023,2023-07-16,921,Chequing,Silver,Medium Income,Married,High School Graduate,131,586,$546.00,660.74,$661.00,"$41,592.76","$15,820.07",$75.07,5150.22,413
+July-2023,2023,2023-07-17,722,Savings,Silver,Medium Income,Married,Master's Degree,633,173,$684.00,1262.43,$198.00,"$11,923.07","$8,344.67",$28.35,2310.81,334
+July-2023,2023,2023-07-17,406,Chequing,Bronze,Medium Income,Married,Some College,489,220,$333.00,2169.64,$954.00,"$48,956.78","$43,374.31",$62.90,8404.21,810
+July-2023,2023,2023-07-18,289,Savings,Bronze,Medium Income,Divorced,College Degree,817,855,$910.00,2416.15,$463.00,"$9,354.69","$37,562.15",$52.26,6414.37,606
+July-2023,2023,2023-07-18,239,Savings,Silver,High Income,Single,Some College,348,780,$447.00,1802.9,$444.00,"$19,455.97","$9,377.01",$143.11,546.36,194
+July-2023,2023,2023-07-18,700,Chequing,Gold,Low Income,Divorced,Master's Degree,980,929,$105.00,1064.65,$47.00,"$36,249.54","$1,921.34",$11.24,3777.48,998
+July-2023,2023,2023-07-18,705,Chequing,Bronze,High Income,Single,College Degree,418,374,$128.00,815.2,$611.00,"$3,568.74","$13,481.46",$36.21,9705.84,781
+July-2023,2023,2023-07-19,655,Savings,Gold,Medium Income,Divorced,High School Graduate,874,994,$820.00,2011.35,$372.00,"$15,523.20","$31,688.45",$37.73,8479.85,261
+July-2023,2023,2023-07-19,589,Chequing,Bronze,Low Income,Divorced,Some College,326,352,$370.00,2804.27,$597.00,"$24,446.52","$47,516.82",$149.07,6268.05,709
+July-2023,2023,2023-07-19,793,Savings,Bronze,High Income,Married,Master's Degree,808,759,$952.00,2986.29,$664.00,"$18,314.09","$48,343.78",$145.99,8935.38,558
+July-2023,2023,2023-07-19,974,Savings,Silver,Low Income,Single,High School Graduate,537,549,$371.00,1933.63,$281.00,"$49,024.06","$3,313.82",$130.59,6947.5,686
+July-2023,2023,2023-07-19,932,Chequing,Silver,Low Income,Divorced,High School Graduate,771,339,$884.00,1282.91,$590.00,"$20,923.92","$17,622.13",$67.02,6315.4,439
+July-2023,2023,2023-07-19,230,Savings,Bronze,Low Income,Married,Master's Degree,794,709,$979.00,2771.49,$161.00,"$2,233.52","$46,719.91",$139.73,7251.25,16
+July-2023,2023,2023-07-19,44,Savings,Bronze,Medium Income,Married,Some College,306,633,$877.00,2321.01,$672.00,"$25,133.00","$45,170.08",$125.65,6826.34,624
+July-2023,2023,2023-07-20,832,Chequing,Gold,Low Income,Single,Some College,45,261,$372.00,1095.5,$948.00,"$39,799.04","$38,447.59",$112.58,5410.03,920
+July-2023,2023,2023-07-20,637,Savings,Gold,Medium Income,Married,Master's Degree,989,946,$351.00,1214.86,$249.00,"$47,660.79","$14,931.05",$113.97,2899.58,687
+July-2023,2023,2023-07-22,27,Savings,Gold,Low Income,Married,Some College,873,341,$867.00,1714.9,$335.00,"$26,129.37","$5,706.33",$55.83,3934.29,100
+July-2023,2023,2023-07-23,246,Savings,Gold,High Income,Married,College Degree,484,71,$82.00,562.23,$449.00,"$8,725.53","$16,223.52",$80.13,7355.6,983
+July-2023,2023,2023-07-23,275,Savings,Gold,High Income,Married,College Degree,116,363,$653.00,1256.14,$20.00,"$22,756.64","$8,833.46",$139.05,2940.4,433
+July-2023,2023,2023-07-23,453,Chequing,Bronze,Medium Income,Married,Master's Degree,52,321,$749.00,1196.52,$496.00,"$4,095.70","$13,126.35",$141.98,313.55,172
+July-2023,2023,2023-07-24,460,Chequing,Silver,Low Income,Married,College Degree,658,556,$588.00,2746.44,$384.00,"$43,144.34","$47,749.52",$94.98,8406.56,620
+July-2023,2023,2023-07-24,2,Savings,Gold,High Income,Single,College Degree,916,465,$275.00,591.61,$778.00,"$46,775.40","$21,956.94",$100.17,8312,649
+July-2023,2023,2023-07-24,605,Savings,Gold,High Income,Divorced,High School Graduate,242,815,$18.00,1841.04,$983.00,"$2,224.71","$29,688.79",$124.24,7526.64,497
+July-2023,2023,2023-07-24,997,Chequing,Silver,High Income,Married,College Degree,258,592,$667.00,832.96,$722.00,"$19,689.37","$24,647.86",$148.79,2589.28,574
+July-2023,2023,2023-07-25,689,Chequing,Bronze,High Income,Single,High School Graduate,510,216,$725.00,1308.62,$393.00,$768.00,"$16,180.58",$41.44,5349.59,416
+July-2023,2023,2023-07-25,31,Savings,Silver,Low Income,Divorced,College Degree,839,392,$114.00,235.79,$914.00,"$4,593.45","$31,499.60",$76.13,1764.75,254
+July-2023,2023,2023-07-26,74,Savings,Silver,Medium Income,Married,Some College,270,112,$473.00,219.37,$47.00,"$47,478.16","$25,948.97",$21.75,4348.78,520
+July-2023,2023,2023-07-26,391,Savings,Bronze,Low Income,Divorced,College Degree,487,286,$645.00,2751.16,$219.00,"$36,085.53","$3,802.90",$49.04,107.81,894
+July-2023,2023,2023-07-26,887,Savings,Bronze,Medium Income,Divorced,Master's Degree,55,852,$350.00,2913.22,$567.00,"$38,795.08","$5,102.09",$23.77,1160.19,943
+July-2023,2023,2023-07-26,882,Savings,Gold,High Income,Divorced,Master's Degree,32,689,$917.00,1668.48,$545.00,"$15,458.32","$29,289.30",$102.44,6420.99,937
+July-2023,2023,2023-07-27,672,Chequing,Bronze,Medium Income,Single,High School Graduate,266,357,$382.00,302.39,$296.00,"$14,632.60","$33,062.10",$42.09,9468.37,813
+July-2023,2023,2023-07-27,650,Savings,Gold,Low Income,Married,Some College,965,334,$609.00,2398.92,$769.00,"$49,645.58","$17,120.50",$73.84,7859.09,79
+July-2023,2023,2023-07-27,594,Chequing,Gold,Low Income,Divorced,Master's Degree,520,124,$479.00,1128.91,$627.00,"$8,852.47","$46,247.68",$141.11,3986.66,694
+July-2023,2023,2023-07-28,846,Savings,Silver,High Income,Married,Some College,831,205,$157.00,2332.9,$91.00,"$20,139.63","$41,465.11",$135.87,139.25,137
+July-2023,2023,2023-07-28,770,Savings,Bronze,High Income,Married,High School Graduate,258,176,$882.00,164.44,$52.00,"$44,117.51","$21,496.36",$124.35,5061.09,475
+July-2023,2023,2023-07-28,953,Chequing,Silver,High Income,Married,Some College,281,51,$595.00,2956.95,$982.00,"$9,773.08","$30,565.05",$81.57,5753.49,947
+July-2023,2023,2023-07-28,106,Savings,Bronze,Low Income,Divorced,High School Graduate,678,28,$871.00,1588.71,$72.00,"$10,972.58","$27,552.94",$17.94,6489.54,843
+July-2023,2023,2023-07-28,45,Savings,Silver,High Income,Married,College Degree,128,43,$81.00,1631.53,$575.00,"$2,694.03","$11,829.48",$52.69,7332.28,387
+July-2023,2023,2023-07-28,56,Chequing,Gold,Low Income,Single,College Degree,593,380,$166.00,1180.14,$178.00,"$34,943.92","$37,129.96",$69.11,7786.68,554
+July-2023,2023,2023-07-28,59,Savings,Silver,Low Income,Married,Master's Degree,876,414,$164.00,2485.95,$575.00,"$35,406.04","$41,704.74",$88.70,2950.05,699
+July-2023,2023,2023-07-30,110,Chequing,Bronze,Medium Income,Single,High School Graduate,181,524,$416.00,2763.72,$115.00,"$35,772.28","$21,013.20",$66.05,5561.14,22
+July-2023,2023,2023-07-30,426,Savings,Silver,Low Income,Divorced,High School Graduate,348,327,$764.00,2711.79,$158.00,"$2,245.81","$47,646.66",$120.12,4587.63,217
+July-2023,2023,2023-07-30,592,Chequing,Gold,Medium Income,Married,High School Graduate,132,387,$332.00,792.07,$272.00,"$43,711.61","$28,630.42",$98.53,7398.08,273
+July-2023,2023,2023-07-30,565,Chequing,Bronze,High Income,Married,Master's Degree,51,672,$220.00,1515.07,$722.00,"$17,893.26","$11,235.46",$145.27,2105.32,364
+July-2023,2023,2023-07-31,385,Chequing,Silver,High Income,Divorced,College Degree,501,152,$79.00,2692.46,$92.00,"$41,047.24","$15,720.64",$34.66,6117.13,277
+July-2023,2023,2023-07-31,202,Chequing,Bronze,High Income,Married,College Degree,556,483,$445.00,1073.6,$5.00,"$11,814.67","$3,560.73",$28.33,4542.77,317
+August-2023,2023,2023-08-01,422,Savings,Bronze,Medium Income,Divorced,Some College,509,24,$99.00,1240.32,$11.00,"$2,924.25","$18,014.50",$56.44,9851.34,458
+August-2023,2023,2023-08-01,571,Chequing,Silver,High Income,Married,College Degree,700,750,$512.00,581.04,$81.00,"$38,159.37","$14,812.41",$107.59,531.82,455
+August-2023,2023,2023-08-02,646,Savings,Gold,Low Income,Married,High School Graduate,720,957,$381.00,2635.34,$554.00,"$35,217.45","$20,488.30",$129.69,7525.19,69
+August-2023,2023,2023-08-02,663,Savings,Silver,Low Income,Married,Master's Degree,197,602,$281.00,1904.74,$323.00,"$6,166.41","$7,672.77",$34.76,1781.34,42
+August-2023,2023,2023-08-02,524,Savings,Bronze,High Income,Divorced,Some College,195,394,$458.00,676.21,$434.00,"$4,349.17","$47,224.31",$98.36,9167.58,111
+August-2023,2023,2023-08-03,498,Savings,Bronze,Low Income,Divorced,College Degree,882,166,$919.00,689.14,$638.00,"$46,204.12","$13,395.66",$60.06,5353.75,106
+August-2023,2023,2023-08-03,50,Chequing,Silver,Medium Income,Single,High School Graduate,695,452,$607.00,1336.33,$445.00,"$27,823.82","$2,836.99",$34.15,7786.62,266
+August-2023,2023,2023-08-03,574,Chequing,Gold,Medium Income,Single,College Degree,754,28,$272.00,2816.22,$806.00,"$12,479.14","$40,941.25",$139.72,719.2,470
+August-2023,2023,2023-08-03,905,Chequing,Silver,Medium Income,Married,College Degree,198,41,$996.00,2438.02,$60.00,"$45,396.81","$20,045.79",$25.34,5658.79,334
+August-2023,2023,2023-08-05,584,Savings,Gold,High Income,Divorced,College Degree,4,822,$493.00,795.5,$136.00,"$26,434.95","$25,269.65",$145.22,1408.33,74
+August-2023,2023,2023-08-05,329,Savings,Gold,Low Income,Divorced,Some College,955,267,$610.00,2072.46,$935.00,"$10,558.58","$9,579.25",$97.06,7639.1,26
+August-2023,2023,2023-08-06,399,Savings,Bronze,Low Income,Married,High School Graduate,742,627,$222.00,886.68,$501.00,"$24,514.34","$2,606.87",$139.45,3900.31,241
+August-2023,2023,2023-08-06,363,Chequing,Bronze,Medium Income,Single,Some College,412,736,$538.00,262.75,$10.00,"$31,045.11",$677.57,$31.10,2983.05,579
+August-2023,2023,2023-08-06,915,Savings,Bronze,Medium Income,Single,Some College,680,518,$839.00,2864.22,$522.00,"$1,845.36","$3,744.01",$39.85,1395.43,838
+August-2023,2023,2023-08-07,923,Savings,Gold,Medium Income,Divorced,College Degree,45,910,$115.00,929.66,$933.00,"$47,134.69","$28,865.67",$39.06,6902.01,656
+August-2023,2023,2023-08-07,639,Chequing,Gold,Medium Income,Single,Some College,933,39,$563.00,2904.32,$439.00,$173.96,"$15,684.77",$82.16,860.12,784
+August-2023,2023,2023-08-07,170,Chequing,Silver,Medium Income,Married,Some College,743,769,$579.00,2651.8,$548.00,"$11,815.13","$32,103.15",$126.49,8798.08,521
+August-2023,2023,2023-08-07,217,Savings,Bronze,Low Income,Divorced,Master's Degree,722,238,$764.00,1548.15,$740.00,"$27,371.74","$45,517.56",$61.14,8796.96,49
+August-2023,2023,2023-08-08,126,Chequing,Gold,Low Income,Divorced,Master's Degree,372,755,$74.00,458.22,$111.00,"$18,399.43","$11,174.63",$31.14,5531.56,316
+August-2023,2023,2023-08-08,680,Savings,Gold,Medium Income,Single,College Degree,621,405,$895.00,1795.82,$6.00,"$19,470.55","$46,023.36",$24.79,9295.87,157
+August-2023,2023,2023-08-08,919,Savings,Gold,Medium Income,Married,College Degree,958,709,$127.00,753.29,$436.00,"$29,691.45","$43,335.06",$133.08,365.5,413
+August-2023,2023,2023-08-09,918,Savings,Silver,Low Income,Divorced,High School Graduate,776,770,$84.00,1795.01,$789.00,"$24,479.81","$37,389.57",$63.43,965.03,943
+August-2023,2023,2023-08-09,573,Chequing,Silver,Medium Income,Divorced,High School Graduate,179,622,$494.00,2122.45,$474.00,"$14,160.08","$19,530.73",$134.14,2638.41,406
+August-2023,2023,2023-08-09,21,Chequing,Gold,Low Income,Married,Some College,791,245,$700.00,1468.72,$299.00,"$29,560.74","$38,375.72",$105.57,7767.01,126
+August-2023,2023,2023-08-09,187,Savings,Bronze,Medium Income,Married,Master's Degree,876,8,$498.00,480.68,$584.00,"$38,087.75","$28,354.78",$7.87,1893.54,115
+August-2023,2023,2023-08-09,502,Savings,Bronze,Low Income,Divorced,Master's Degree,799,545,$666.00,1084.66,$540.00,"$29,198.21","$21,698.27",$6.71,7734.52,703
+August-2023,2023,2023-08-09,449,Chequing,Silver,Medium Income,Single,College Degree,634,835,$279.00,1134.87,$887.00,"$2,919.91","$3,692.83",$15.74,6152.19,337
+August-2023,2023,2023-08-10,512,Chequing,Gold,Medium Income,Single,High School Graduate,741,269,$815.00,2712.55,$473.00,"$24,941.26","$22,455.72",$29.51,8006.79,145
+August-2023,2023,2023-08-10,48,Chequing,Silver,Low Income,Divorced,College Degree,558,160,$128.00,1725.41,$451.00,"$3,277.24","$33,941.66",$125.14,9943.5,546
+August-2023,2023,2023-08-10,916,Chequing,Gold,Low Income,Married,Some College,169,823,$504.00,144.12,$728.00,"$11,415.86","$27,984.96",$107.95,1268.32,846
+August-2023,2023,2023-08-11,833,Savings,Gold,Medium Income,Divorced,High School Graduate,180,689,$382.00,283.87,$461.00,"$2,792.97","$6,833.61",$14.33,1786.72,234
+August-2023,2023,2023-08-11,41,Savings,Bronze,Low Income,Married,High School Graduate,260,215,$298.00,2381.5,$514.00,"$18,208.06","$34,213.05",$116.65,7073.69,993
+August-2023,2023,2023-08-11,3,Chequing,Silver,High Income,Married,Master's Degree,287,668,$863.00,2468.6,$448.00,"$16,859.64","$44,580.04",$67.56,2908.74,179
+August-2023,2023,2023-08-12,665,Savings,Gold,High Income,Divorced,Master's Degree,472,997,$778.00,1862.45,$309.00,"$25,585.82","$24,800.92",$41.99,354.67,170
+August-2023,2023,2023-08-12,989,Chequing,Silver,Low Income,Single,Some College,570,517,$503.00,2240.75,$396.00,"$19,286.42","$48,313.57",$38.98,7608.26,213
+August-2023,2023,2023-08-13,697,Savings,Silver,Low Income,Married,College Degree,992,757,$970.00,2087.58,$928.00,"$38,638.19","$26,860.14",$36.51,3747.08,571
+August-2023,2023,2023-08-13,398,Chequing,Bronze,Medium Income,Divorced,High School Graduate,680,40,$897.00,2009.51,$988.00,"$23,153.55",$184.59,$17.19,9276.2,528
+August-2023,2023,2023-08-13,296,Chequing,Silver,High Income,Single,Some College,555,17,$139.00,1348.69,$729.00,"$6,801.85","$37,110.96",$126.77,7057.53,811
+August-2023,2023,2023-08-14,344,Savings,Gold,High Income,Married,Master's Degree,536,638,$763.00,1199.33,$741.00,"$19,263.16","$19,742.13",$131.68,2908.72,258
+August-2023,2023,2023-08-14,340,Chequing,Gold,Low Income,Divorced,Some College,826,945,$370.00,2020.85,$722.00,"$41,905.03","$46,627.47",$133.64,491.21,986
+August-2023,2023,2023-08-14,139,Savings,Bronze,Low Income,Divorced,Master's Degree,799,660,$265.00,2390.62,$463.00,"$32,659.65","$49,883.74",$8.20,583.24,109
+August-2023,2023,2023-08-14,200,Chequing,Gold,Low Income,Married,Master's Degree,774,2,$862.00,192.96,$442.00,"$27,574.48","$48,077.48",$103.63,9384.58,237
+August-2023,2023,2023-08-14,928,Chequing,Gold,Low Income,Divorced,Some College,393,482,$8.00,1884.14,$75.00,"$45,932.21","$44,457.74",$13.27,2128.49,603
+August-2023,2023,2023-08-15,988,Chequing,Bronze,High Income,Divorced,College Degree,274,512,$170.00,2509.48,$937.00,"$9,527.47","$26,480.88",$35.99,5812,94
+August-2023,2023,2023-08-15,734,Chequing,Silver,Low Income,Married,Some College,796,654,$719.00,2995.98,$420.00,"$47,714.64","$31,936.64",$5.54,3636.02,294
+August-2023,2023,2023-08-15,42,Chequing,Gold,Low Income,Single,Master's Degree,874,169,$587.00,1537.19,$245.00,"$38,240.39","$48,092.13",$102.46,8937.51,428
+August-2023,2023,2023-08-16,382,Chequing,Bronze,High Income,Married,Master's Degree,91,413,$116.00,330,$777.00,"$33,442.55","$39,993.34",$135.05,8073.86,612
+August-2023,2023,2023-08-16,601,Savings,Gold,High Income,Married,Some College,572,140,$289.00,2841.97,$626.00,"$24,725.16","$21,060.62",$86.98,5842.24,502
+August-2023,2023,2023-08-17,541,Savings,Bronze,Low Income,Single,High School Graduate,569,113,$228.00,1018.64,$252.00,"$15,367.97",$758.17,$69.67,7549.46,818
+August-2023,2023,2023-08-19,549,Chequing,Gold,Low Income,Divorced,College Degree,339,820,$118.00,2311.21,$610.00,"$42,370.22","$9,245.57",$131.96,2664.67,988
+August-2023,2023,2023-08-19,805,Chequing,Gold,Medium Income,Divorced,College Degree,725,861,$801.00,1517.13,$117.00,"$33,768.54","$5,583.26",$32.23,8822.09,181
+August-2023,2023,2023-08-20,303,Chequing,Gold,High Income,Married,Some College,45,161,$970.00,698.05,$161.00,"$16,535.30","$40,893.65",$58.47,8369.57,959
+August-2023,2023,2023-08-20,182,Chequing,Gold,High Income,Divorced,Some College,479,765,$667.00,2128.8,$457.00,"$44,157.54","$45,152.91",$137.97,4336.31,763
+August-2023,2023,2023-08-21,10,Savings,Silver,High Income,Divorced,Some College,919,932,$386.00,1998.59,$592.00,"$29,896.72",$315.32,$142.19,8819.37,765
+August-2023,2023,2023-08-21,116,Chequing,Bronze,Medium Income,Single,Master's Degree,560,420,$23.00,2758.85,$569.00,"$47,656.60","$33,602.72",$49.60,1089.37,589
+August-2023,2023,2023-08-21,431,Chequing,Bronze,High Income,Divorced,Some College,503,215,$446.00,445.97,$84.00,"$37,888.56","$7,062.78",$82.72,1859.46,6
+August-2023,2023,2023-08-21,841,Savings,Bronze,Low Income,Divorced,Some College,407,762,$554.00,1770.29,$633.00,"$40,415.04","$22,641.14",$75.29,5113.33,749
+August-2023,2023,2023-08-22,578,Chequing,Silver,Medium Income,Divorced,College Degree,740,524,$546.00,2436.89,$930.00,"$4,151.19","$32,554.70",$59.62,6765.19,1000
+August-2023,2023,2023-08-23,597,Savings,Gold,High Income,Single,College Degree,854,13,$68.00,621.88,$429.00,"$46,106.78","$34,019.53",$102.42,3563.21,907
+August-2023,2023,2023-08-23,844,Chequing,Bronze,Low Income,Single,College Degree,337,398,$903.00,2034.31,$621.00,"$40,293.19","$13,617.43",$48.15,6510.11,243
+August-2023,2023,2023-08-23,545,Chequing,Gold,High Income,Married,College Degree,889,376,$842.00,1645.04,$418.00,"$22,885.19","$24,877.89",$49.97,3711.06,781
+August-2023,2023,2023-08-24,383,Savings,Gold,High Income,Single,Master's Degree,47,72,$103.00,275.14,$470.00,"$11,839.28","$29,982.44",$59.04,9097.93,750
+August-2023,2023,2023-08-24,354,Chequing,Bronze,Low Income,Single,Master's Degree,723,513,$80.00,2961.21,$328.00,"$37,018.28","$33,622.27",$13.98,2889.1,567
+August-2023,2023,2023-08-24,134,Savings,Gold,High Income,Single,Master's Degree,72,183,$768.00,2308.99,$550.00,"$47,990.49","$45,698.70",$132.06,960.4,335
+August-2023,2023,2023-08-24,257,Chequing,Bronze,Low Income,Single,High School Graduate,10,482,$564.00,2155.47,$739.00,"$43,372.23","$20,301.82",$65.29,663.71,298
+August-2023,2023,2023-08-24,973,Savings,Silver,High Income,Single,Master's Degree,876,356,$781.00,625.17,$738.00,"$45,755.28","$30,455.05",$101.43,1803.94,883
+August-2023,2023,2023-08-24,892,Chequing,Silver,Medium Income,Divorced,Master's Degree,76,884,$759.00,1287.41,$886.00,"$35,062.29","$25,466.83",$115.09,4627.72,497
+August-2023,2023,2023-08-25,788,Savings,Bronze,Medium Income,Single,High School Graduate,688,316,$701.00,782.19,$287.00,"$6,353.12","$13,889.95",$136.98,206.07,301
+August-2023,2023,2023-08-25,642,Chequing,Gold,High Income,Married,High School Graduate,657,766,$830.00,1416.99,$708.00,"$36,089.85","$5,563.79",$61.92,4927.77,210
+August-2023,2023,2023-08-25,691,Savings,Gold,Medium Income,Divorced,High School Graduate,174,185,$311.00,394.88,$835.00,"$8,765.59","$40,251.32",$23.49,3513.25,817
+August-2023,2023,2023-08-25,196,Chequing,Silver,High Income,Divorced,High School Graduate,675,215,$441.00,674.2,$465.00,"$43,736.73","$29,249.28",$30.90,4341.88,86
+August-2023,2023,2023-08-25,129,Savings,Gold,High Income,Married,Some College,92,819,$445.00,2764.99,$850.00,"$3,595.09","$30,621.67",$149.98,7007.06,770
+August-2023,2023,2023-08-25,17,Chequing,Bronze,Medium Income,Single,Master's Degree,744,143,$484.00,455.2,$291.00,"$20,801.27","$8,038.30",$122.76,9166.29,799
+August-2023,2023,2023-08-26,108,Chequing,Silver,Medium Income,Single,High School Graduate,922,246,$412.00,1884.56,$540.00,"$34,665.06","$1,933.74",$100.72,9658.88,134
+August-2023,2023,2023-08-26,77,Chequing,Silver,Medium Income,Divorced,College Degree,143,883,$49.00,1328.88,$867.00,"$5,619.20","$30,252.31",$33.31,9285.89,702
+August-2023,2023,2023-08-26,286,Chequing,Bronze,High Income,Divorced,College Degree,215,523,$882.00,349.81,$33.00,"$37,719.21","$33,836.19",$19.13,9081.27,291
+August-2023,2023,2023-08-26,608,Savings,Gold,Low Income,Married,High School Graduate,6,559,$786.00,283.26,$501.00,"$11,116.27","$16,738.86",$123.80,6693.72,93
+August-2023,2023,2023-08-27,911,Chequing,Silver,Medium Income,Single,Some College,903,582,$586.00,1669.31,$777.00,"$35,927.86","$26,550.82",$117.58,6205.48,105
+August-2023,2023,2023-08-28,346,Chequing,Gold,Low Income,Single,High School Graduate,433,251,$87.00,2853.75,$301.00,"$25,129.91","$41,808.30",$125.58,6389.82,331
+August-2023,2023,2023-08-29,297,Chequing,Bronze,High Income,Married,Master's Degree,329,76,$295.00,2106.2,$606.00,"$33,857.85","$25,330.91",$53.53,3357.62,649
+August-2023,2023,2023-08-29,968,Savings,Bronze,Low Income,Married,High School Graduate,336,727,$402.00,700.39,$505.00,"$27,052.71","$38,684.28",$89.80,6825.03,206
+August-2023,2023,2023-08-30,998,Savings,Bronze,High Income,Divorced,Master's Degree,53,463,$806.00,1784.41,$243.00,"$45,299.85","$49,882.95",$106.41,9437.66,388
+August-2023,2023,2023-08-30,291,Savings,Gold,High Income,Married,Some College,577,330,$55.00,2759.01,$950.00,"$4,643.64","$12,254.07",$72.85,8143,582
+August-2023,2023,2023-08-30,347,Savings,Bronze,Low Income,Single,College Degree,856,140,$701.00,2628.35,$326.00,"$32,666.66","$45,959.21",$6.55,1212.54,783
+August-2023,2023,2023-08-30,63,Savings,Bronze,Medium Income,Single,Some College,575,322,$75.00,249.64,$467.00,$433.15,"$14,719.24",$84.95,6672.46,679
+August-2023,2023,2023-08-31,78,Savings,Silver,High Income,Married,High School Graduate,846,331,$522.00,1993.46,$548.00,"$7,431.00","$8,526.89",$7.86,1153.12,317
+August-2023,2023,2023-08-31,434,Savings,Gold,High Income,Single,College Degree,18,779,$893.00,1404,$270.00,"$28,096.78","$48,441.49",$99.89,1104.75,574
+September-2023,2023,2023-09-01,348,Savings,Gold,High Income,Single,Master's Degree,341,489,$929.00,675.49,$886.00,"$29,058.89","$49,957.82",$54.28,2754.82,802
+September-2023,2023,2023-09-01,566,Chequing,Bronze,Low Income,Married,Some College,335,992,$144.00,1072.72,$416.00,"$8,037.58","$39,901.98",$59.66,7464.33,865
+September-2023,2023,2023-09-01,719,Chequing,Gold,High Income,Married,Master's Degree,840,653,$619.00,2949.11,$701.00,"$32,550.71","$11,965.66",$141.43,863.13,67
+September-2023,2023,2023-09-02,847,Chequing,Silver,Low Income,Divorced,Some College,477,279,$20.00,1392.35,$820.00,"$19,287.48","$25,681.03",$69.01,8303.4,39
+September-2023,2023,2023-09-02,617,Chequing,Bronze,Medium Income,Divorced,College Degree,874,2,$41.00,1892.33,$438.00,"$17,684.96","$5,735.69",$46.13,9029.92,931
+September-2023,2023,2023-09-02,467,Savings,Bronze,Low Income,Divorced,Some College,643,998,$422.00,2692.31,$917.00,"$18,429.06","$11,311.23",$106.95,5053.78,57
+September-2023,2023,2023-09-02,259,Savings,Bronze,High Income,Married,High School Graduate,405,4,$964.00,765.67,$549.00,$397.55,"$25,640.10",$47.98,3065.22,393
+September-2023,2023,2023-09-02,215,Savings,Gold,Low Income,Married,Some College,546,603,"$1,000.00",2248.16,$289.00,"$49,876.86","$12,960.29",$54.31,4980.38,255
+September-2023,2023,2023-09-03,6,Savings,Bronze,Low Income,Divorced,College Degree,708,773,$788.00,1639.71,$528.00,"$10,870.39","$21,741.94",$117.70,4148.46,120
+September-2023,2023,2023-09-03,323,Chequing,Bronze,High Income,Divorced,Some College,494,635,$200.00,325.27,$651.00,"$1,737.66","$44,266.48",$45.90,442.15,305
+September-2023,2023,2023-09-03,854,Savings,Silver,Low Income,Divorced,High School Graduate,83,908,$822.00,1018.03,$498.00,"$43,635.69","$10,457.97",$17.20,4521.68,656
+September-2023,2023,2023-09-03,865,Chequing,Bronze,Low Income,Married,Some College,755,948,$605.00,402.4,$674.00,"$22,880.67","$6,242.61",$16.94,5426.37,839
+September-2023,2023,2023-09-03,863,Savings,Silver,High Income,Divorced,Master's Degree,671,621,$854.00,1661.34,$236.00,"$4,612.12","$22,416.49",$81.07,7480.08,711
+September-2023,2023,2023-09-04,962,Savings,Silver,Medium Income,Single,Master's Degree,909,851,$796.00,270.01,$328.00,"$9,215.93","$27,069.21",$75.91,7702.99,857
+September-2023,2023,2023-09-04,787,Chequing,Bronze,Medium Income,Single,College Degree,64,668,$109.00,1280.42,$886.00,"$12,470.91","$2,005.66",$93.12,4489.57,142
+September-2023,2023,2023-09-04,5,Savings,Bronze,High Income,Single,College Degree,303,282,$781.00,664.81,$895.00,"$42,336.13","$13,739.26",$6.72,4111.01,847
+September-2023,2023,2023-09-04,115,Savings,Bronze,High Income,Single,High School Graduate,535,347,$475.00,336.89,$436.00,"$29,681.92","$38,175.61",$79.43,9401.19,75
+September-2023,2023,2023-09-04,247,Savings,Bronze,Medium Income,Married,Master's Degree,724,664,$653.00,2719.71,$640.00,"$42,277.76","$40,141.24",$131.20,7434.95,495
+September-2023,2023,2023-09-05,210,Chequing,Gold,Medium Income,Divorced,College Degree,440,335,$27.00,415,$782.00,"$39,849.05","$39,716.69",$132.86,7806.46,661
+September-2023,2023,2023-09-05,952,Chequing,Silver,Medium Income,Married,Some College,216,29,$985.00,833.67,$400.00,"$30,777.62","$10,757.62",$63.17,7316.74,998
+September-2023,2023,2023-09-06,994,Savings,Silver,High Income,Married,College Degree,208,193,$508.00,1159.85,$809.00,"$43,820.77","$6,539.18",$65.00,3112.11,642
+September-2023,2023,2023-09-06,780,Savings,Silver,Low Income,Divorced,Some College,64,478,$660.00,1076.11,$887.00,"$19,524.42","$42,095.23",$74.60,9297.67,626
+September-2023,2023,2023-09-06,334,Chequing,Bronze,Low Income,Divorced,College Degree,75,942,$458.00,2712.4,$368.00,"$9,789.84","$49,466.28",$49.71,5168.79,88
+September-2023,2023,2023-09-06,473,Chequing,Gold,Medium Income,Married,Master's Degree,384,68,$120.00,2938.95,$211.00,"$43,769.50","$49,965.43",$112.85,6132.7,136
+September-2023,2023,2023-09-07,491,Chequing,Bronze,Low Income,Divorced,Master's Degree,512,791,$441.00,1260.36,$393.00,"$27,671.00","$24,787.75",$51.61,3261.16,137
+September-2023,2023,2023-09-08,304,Chequing,Silver,Medium Income,Single,Some College,496,306,$324.00,374.26,$944.00,"$2,618.07","$43,576.70",$113.91,7542.48,109
+September-2023,2023,2023-09-08,731,Savings,Bronze,Low Income,Divorced,Master's Degree,64,818,$961.00,609.11,$360.00,"$42,619.73","$11,570.93",$67.89,5051.07,638
+September-2023,2023,2023-09-08,644,Chequing,Bronze,High Income,Married,Master's Degree,159,116,$143.00,1966.32,$87.00,"$45,707.62","$29,516.10",$149.14,3105.95,525
+September-2023,2023,2023-09-08,947,Chequing,Gold,High Income,Single,Master's Degree,589,457,$109.00,1688.39,$917.00,"$38,437.42","$33,026.56",$65.95,3311.56,773
+September-2023,2023,2023-09-09,615,Savings,Silver,High Income,Divorced,College Degree,30,922,$968.00,377.71,$726.00,"$3,280.36","$30,180.02",$21.92,3849.97,832
+September-2023,2023,2023-09-09,785,Savings,Gold,Low Income,Married,High School Graduate,140,595,$998.00,1431.96,$998.00,"$33,560.63","$9,993.65",$141.01,3376.02,653
+September-2023,2023,2023-09-09,490,Savings,Bronze,Low Income,Divorced,Some College,846,431,$616.00,2288.11,$380.00,"$33,045.03","$46,279.78",$94.77,945.24,43
+September-2023,2023,2023-09-09,11,Chequing,Bronze,High Income,Divorced,Master's Degree,491,383,$626.00,1186.45,$937.00,"$30,959.85","$28,483.51",$61.52,6940.73,120
+September-2023,2023,2023-09-10,102,Savings,Bronze,Low Income,Married,High School Graduate,248,133,$921.00,1925.82,$966.00,"$23,197.30","$43,816.44",$81.86,1415.21,331
+September-2023,2023,2023-09-10,206,Savings,Silver,High Income,Divorced,College Degree,98,172,$411.00,2355.71,$788.00,"$40,840.77","$19,023.06",$7.09,6298.44,855
+September-2023,2023,2023-09-10,552,Chequing,Silver,High Income,Married,High School Graduate,52,501,$611.00,2461.54,$630.00,"$27,296.78","$32,697.63",$139.55,6847.78,239
+September-2023,2023,2023-09-10,563,Chequing,Gold,High Income,Married,High School Graduate,996,852,$813.00,1127.39,$18.00,"$7,278.60","$3,801.04",$28.85,973.73,558
+September-2023,2023,2023-09-10,579,Chequing,Gold,High Income,Divorced,Master's Degree,24,218,$501.00,1323.32,$192.00,"$33,898.85","$16,487.91",$109.37,8128.91,134
+September-2023,2023,2023-09-10,666,Chequing,Silver,High Income,Divorced,Some College,750,391,$534.00,385.98,$968.00,"$48,461.93","$10,668.33",$109.92,1454.37,818
+September-2023,2023,2023-09-11,775,Chequing,Bronze,High Income,Married,Some College,498,360,$167.00,2253.66,$371.00,"$7,771.82","$29,306.35",$146.67,5166.17,647
+September-2023,2023,2023-09-11,737,Chequing,Bronze,Medium Income,Married,High School Graduate,801,256,$140.00,2610.22,$942.00,"$33,216.59","$29,444.94",$113.21,7929.44,240
+September-2023,2023,2023-09-11,960,Savings,Silver,Low Income,Single,High School Graduate,824,414,$818.00,1506.12,$479.00,"$18,784.07","$8,145.28",$79.63,7080.12,929
+September-2023,2023,2023-09-11,536,Chequing,Bronze,Low Income,Divorced,College Degree,103,551,$953.00,1569.93,$534.00,"$33,348.72","$25,249.13",$108.37,3187.35,914
+September-2023,2023,2023-09-11,89,Chequing,Gold,Low Income,Divorced,Master's Degree,279,895,$637.00,2258.47,$665.00,"$17,550.05","$48,133.38",$80.39,8782.9,134
+September-2023,2023,2023-09-11,1,Chequing,Gold,Medium Income,Single,Master's Degree,441,78,$828.00,2492.82,$90.00,"$16,276.27","$41,349.63",$16.47,9781.18,157
+September-2023,2023,2023-09-12,60,Chequing,Bronze,High Income,Divorced,Some College,584,12,$622.00,2129.82,$202.00,"$39,848.73","$33,097.79",$12.81,2318.68,373
+September-2023,2023,2023-09-12,521,Savings,Gold,Low Income,Divorced,High School Graduate,524,46,$309.00,2228.8,$77.00,"$34,403.02","$28,043.14",$114.46,2738.67,759
+September-2023,2023,2023-09-12,535,Savings,Bronze,Medium Income,Divorced,High School Graduate,741,474,$249.00,1647.41,$109.00,"$11,218.71","$48,831.03",$97.20,8139.19,839
+September-2023,2023,2023-09-12,364,Chequing,Bronze,High Income,Divorced,College Degree,471,951,$105.00,2370.28,$253.00,"$32,193.86","$36,732.32",$62.57,3560.41,962
+September-2023,2023,2023-09-12,748,Savings,Silver,High Income,Single,Master's Degree,130,589,$929.00,734.31,$371.00,"$35,884.72","$27,845.90",$34.77,320.77,722
+September-2023,2023,2023-09-13,885,Chequing,Gold,High Income,Married,Master's Degree,787,836,$355.00,2084.57,$739.00,"$22,594.65","$32,776.09",$27.89,7173.51,579
+September-2023,2023,2023-09-13,407,Savings,Bronze,Low Income,Married,Some College,635,740,$379.00,2422.41,$35.00,"$4,676.73","$42,409.14",$85.58,6949.12,9
+September-2023,2023,2023-09-14,66,Savings,Gold,High Income,Single,Master's Degree,725,541,$344.00,2557.47,$515.00,"$41,287.11","$29,876.67",$73.25,3184.5,655
+September-2023,2023,2023-09-14,845,Chequing,Gold,High Income,Single,High School Graduate,282,236,$419.00,2889.21,$492.00,"$19,999.94","$3,292.93",$17.93,4947.78,665
+September-2023,2023,2023-09-14,690,Chequing,Bronze,Low Income,Single,College Degree,448,13,$864.00,777.47,$736.00,"$6,176.10","$30,044.29",$56.65,2559.69,421
+September-2023,2023,2023-09-15,142,Savings,Bronze,High Income,Single,Some College,993,361,$340.00,1749.73,$261.00,$528.11,"$5,654.73",$32.84,9191.64,25
+September-2023,2023,2023-09-16,419,Chequing,Silver,Medium Income,Married,College Degree,435,727,$981.00,1659.66,$307.00,"$18,495.73","$33,663.21",$73.41,1746.32,282
+September-2023,2023,2023-09-16,371,Chequing,Silver,High Income,Divorced,Master's Degree,507,267,$82.00,1499.24,$330.00,"$47,247.57","$5,263.15",$123.66,5329.77,128
+September-2023,2023,2023-09-16,559,Savings,Silver,High Income,Divorced,High School Graduate,199,643,$161.00,1025.87,$322.00,"$36,267.05","$19,443.07",$71.51,9358.17,845
+September-2023,2023,2023-09-16,517,Savings,Gold,High Income,Divorced,Some College,818,808,$452.00,2021.34,$782.00,$229.84,"$26,057.20",$147.77,5129.7,985
+September-2023,2023,2023-09-16,631,Chequing,Silver,Medium Income,Divorced,Some College,523,780,$697.00,597.5,$267.00,"$1,437.74","$27,801.40",$75.47,1359.98,329
+September-2023,2023,2023-09-17,609,Savings,Gold,Low Income,Divorced,Master's Degree,531,976,$618.00,203.88,$121.00,"$39,844.59","$22,574.28",$48.44,571.52,495
+September-2023,2023,2023-09-17,783,Chequing,Bronze,High Income,Married,Some College,184,858,$670.00,2407.21,$177.00,"$7,048.18","$25,555.97",$81.11,9458.93,412
+September-2023,2023,2023-09-17,766,Chequing,Silver,Medium Income,Divorced,High School Graduate,885,13,$464.00,122.82,$190.00,"$11,348.84","$41,519.74",$34.38,1708.13,723
+September-2023,2023,2023-09-17,159,Savings,Gold,Medium Income,Single,College Degree,948,822,$764.00,451.61,$236.00,"$33,180.93","$27,579.84",$84.22,7076.06,283
+September-2023,2023,2023-09-18,243,Chequing,Gold,High Income,Single,Master's Degree,925,636,$506.00,2840.31,$811.00,"$47,593.78","$39,950.36",$38.13,9781.88,183
+September-2023,2023,2023-09-18,256,Savings,Bronze,High Income,Married,Master's Degree,184,112,$9.00,891.11,$951.00,"$7,666.06","$1,739.43",$14.23,7132.17,429
+September-2023,2023,2023-09-18,496,Savings,Silver,High Income,Divorced,Some College,515,978,$794.00,2102.7,$721.00,"$46,700.86","$15,539.75",$122.12,2665.33,588
+September-2023,2023,2023-09-20,249,Savings,Silver,Medium Income,Single,Some College,262,890,$552.00,2528.57,$762.00,"$21,476.73","$9,302.56",$69.38,4642.05,473
+September-2023,2023,2023-09-20,270,Chequing,Gold,High Income,Divorced,High School Graduate,247,834,$995.00,872.62,$642.00,"$17,536.83","$43,066.95",$7.30,3797.78,778
+September-2023,2023,2023-09-20,204,Chequing,Silver,Low Income,Divorced,Some College,698,939,$663.00,2503.34,$560.00,"$3,819.55","$47,798.18",$90.64,6994.75,699
+September-2023,2023,2023-09-22,400,Savings,Bronze,Low Income,Single,High School Graduate,164,945,$526.00,659.57,$303.00,"$30,231.08","$31,825.68",$40.09,8249.38,353
+September-2023,2023,2023-09-22,914,Savings,Gold,Low Income,Divorced,Some College,100,653,$194.00,1218.51,$751.00,"$10,505.49","$38,901.69",$65.58,4769.39,849
+September-2023,2023,2023-09-23,379,Chequing,Gold,High Income,Married,Some College,107,290,$952.00,149.68,$978.00,"$1,337.48","$16,179.35",$8.54,6982.46,265
+September-2023,2023,2023-09-23,130,Chequing,Bronze,Low Income,Single,Master's Degree,933,385,$136.00,306.71,$211.00,"$22,646.58",$396.42,$128.46,6903.44,934
+September-2023,2023,2023-09-24,57,Chequing,Silver,Medium Income,Married,Some College,918,480,$470.00,1326.49,$925.00,"$8,604.43","$2,641.61",$73.37,4622.75,783
+September-2023,2023,2023-09-24,519,Savings,Bronze,Low Income,Single,High School Graduate,388,659,$99.00,2392.57,$290.00,"$11,683.97","$31,231.93",$25.76,1410.46,987
+September-2023,2023,2023-09-24,432,Chequing,Bronze,High Income,Divorced,College Degree,560,722,$755.00,1343.35,$430.00,"$25,710.95","$49,259.31",$62.80,9783.29,800
+September-2023,2023,2023-09-24,741,Chequing,Silver,Low Income,Single,Some College,122,196,$971.00,2560.43,$1.00,"$31,017.90","$12,296.88",$75.74,9443.82,777
+September-2023,2023,2023-09-24,572,Savings,Bronze,Low Income,Divorced,Some College,247,740,$615.00,775.74,$856.00,"$43,043.95","$34,428.72",$83.26,9829.33,691
+September-2023,2023,2023-09-25,679,Chequing,Silver,Medium Income,Married,High School Graduate,980,635,$896.00,1530.9,$436.00,"$4,069.12","$35,484.76",$64.77,7879.7,882
+September-2023,2023,2023-09-25,420,Savings,Gold,High Income,Single,High School Graduate,253,174,$141.00,2046.18,$654.00,"$36,392.99","$12,996.50",$50.06,2472.52,823
+September-2023,2023,2023-09-26,319,Chequing,Gold,Medium Income,Divorced,Master's Degree,949,805,$355.00,199.49,$698.00,"$17,306.43","$5,031.10",$123.96,2044.25,734
+September-2023,2023,2023-09-26,163,Savings,Bronze,High Income,Divorced,Master's Degree,279,763,$383.00,300.44,$412.00,"$7,236.62","$32,094.92",$110.71,3554,17
+September-2023,2023,2023-09-26,797,Chequing,Silver,Low Income,Married,High School Graduate,311,25,$221.00,182.17,$764.00,"$47,714.22","$21,438.18",$53.15,6503.27,511
+September-2023,2023,2023-09-26,902,Savings,Silver,High Income,Divorced,Some College,199,412,$20.00,1476.75,$255.00,"$4,980.74","$41,176.33",$33.63,9127.42,127
+September-2023,2023,2023-09-28,756,Chequing,Gold,Low Income,Married,Some College,651,366,$610.00,224.27,$377.00,"$13,096.49","$7,138.26",$12.79,6420.46,494
+September-2023,2023,2023-09-28,123,Savings,Bronze,Low Income,Married,College Degree,784,603,$760.00,977.23,$789.00,"$25,194.04","$5,952.05",$69.24,6792.63,604
+September-2023,2023,2023-09-29,768,Chequing,Silver,Medium Income,Divorced,Master's Degree,119,769,$702.00,763.33,$204.00,"$27,297.34","$12,220.21",$38.69,9065.18,455
+September-2023,2023,2023-09-29,745,Savings,Gold,High Income,Divorced,Some College,166,599,$323.00,207.1,$30.00,"$18,107.62","$34,955.03",$18.54,7946.82,976
+September-2023,2023,2023-09-29,958,Savings,Gold,Medium Income,Single,High School Graduate,443,901,$825.00,2851.1,$639.00,"$44,884.94","$20,204.21",$112.17,7528.12,472
+September-2023,2023,2023-09-30,852,Savings,Silver,High Income,Single,College Degree,554,939,$184.00,1569.33,$967.00,"$7,388.06","$28,259.62",$135.42,9727.98,248
+October-2023,2023,2023-10-01,714,Chequing,Silver,Medium Income,Divorced,Some College,903,444,$990.00,1523.21,$715.00,"$7,976.21","$7,229.40",$41.60,7493.6,321
+October-2023,2023,2023-10-03,220,Savings,Gold,Low Income,Single,College Degree,651,598,$498.00,1342.91,$902.00,"$20,447.51","$6,947.28",$42.87,7728.01,311
+October-2023,2023,2023-10-03,316,Chequing,Bronze,Medium Income,Married,College Degree,205,60,$558.00,1978.85,$858.00,"$8,586.56","$23,926.45",$14.75,871.41,233
+October-2023,2023,2023-10-04,144,Savings,Gold,Medium Income,Single,High School Graduate,673,130,$967.00,193.02,$297.00,"$49,464.90","$6,255.82",$33.50,7415.37,435
+October-2023,2023,2023-10-04,917,Savings,Gold,Medium Income,Divorced,Master's Degree,659,267,$960.00,2560.17,$630.00,"$1,784.25","$40,970.56",$75.41,8653.74,865
+October-2023,2023,2023-10-05,119,Savings,Bronze,Medium Income,Married,Master's Degree,220,918,$595.00,2790.26,$725.00,"$47,598.69","$11,195.72",$112.46,2036.47,986
+October-2023,2023,2023-10-05,37,Savings,Gold,Low Income,Single,Master's Degree,996,159,$221.00,335.06,$74.00,"$48,880.56","$9,246.01",$13.80,1716.09,411
+October-2023,2023,2023-10-05,28,Savings,Silver,Medium Income,Divorced,College Degree,102,132,$618.00,1211.68,$626.00,"$46,772.23","$7,610.10",$142.48,3340.01,626
+October-2023,2023,2023-10-05,338,Savings,Bronze,Medium Income,Divorced,High School Graduate,405,698,$41.00,2399.71,$885.00,"$44,054.49","$22,960.42",$99.93,4534.99,104
+October-2023,2023,2023-10-05,445,Chequing,Bronze,Medium Income,Single,College Degree,525,662,$100.00,1975.81,$115.00,"$42,994.84","$24,427.15",$95.81,2513.52,565
+October-2023,2023,2023-10-06,550,Chequing,Bronze,High Income,Married,High School Graduate,670,602,$905.00,903.68,$570.00,"$4,435.96","$14,522.52",$82.58,967.5,262
+October-2023,2023,2023-10-06,295,Chequing,Gold,Medium Income,Married,College Degree,255,309,$58.00,2216.41,$136.00,"$41,385.15","$19,148.71",$120.15,7342.11,519
+October-2023,2023,2023-10-06,668,Chequing,Gold,Low Income,Divorced,Some College,794,602,$973.00,2524.46,$543.00,"$25,630.46","$25,987.35",$29.10,8352.68,727
+October-2023,2023,2023-10-07,132,Savings,Silver,Medium Income,Single,High School Graduate,325,981,$724.00,1653.16,$939.00,"$7,329.57","$26,942.73",$90.49,1177.87,495
+October-2023,2023,2023-10-08,479,Chequing,Silver,Medium Income,Married,College Degree,495,93,$868.00,1606.57,$542.00,"$37,101.94","$42,204.07",$65.11,4690.57,610
+October-2023,2023,2023-10-08,774,Savings,Gold,High Income,Married,Master's Degree,479,467,$738.00,947.01,$179.00,"$43,447.84","$3,278.83",$71.56,3410.14,948
+October-2023,2023,2023-10-08,996,Savings,Silver,High Income,Divorced,College Degree,580,7,$921.00,1942.31,$104.00,"$31,691.91","$16,780.25",$69.13,8646.51,700
+October-2023,2023,2023-10-09,582,Savings,Bronze,Low Income,Divorced,College Degree,704,619,$255.00,897.74,$214.00,"$44,203.53","$7,017.86",$132.18,6699.92,269
+October-2023,2023,2023-10-09,464,Chequing,Silver,Low Income,Single,Some College,131,819,$519.00,502.97,$894.00,"$37,308.14","$2,843.36",$27.67,2549.79,918
+October-2023,2023,2023-10-09,331,Chequing,Gold,Medium Income,Married,High School Graduate,329,172,$708.00,2729.33,$775.00,"$28,337.90","$25,945.70",$52.45,8817.93,892
+October-2023,2023,2023-10-10,411,Savings,Gold,Medium Income,Married,College Degree,581,73,$929.00,2121,$911.00,"$21,937.46","$14,157.14",$58.94,5150.27,409
+October-2023,2023,2023-10-10,166,Chequing,Gold,Low Income,Divorced,High School Graduate,180,409,$944.00,1014.01,$970.00,"$35,692.85","$28,926.17",$79.34,8840.23,321
+October-2023,2023,2023-10-10,244,Chequing,Bronze,High Income,Married,High School Graduate,646,438,$847.00,1678.42,$214.00,"$8,339.47","$5,420.64",$48.08,6759.85,543
+October-2023,2023,2023-10-10,675,Savings,Silver,Medium Income,Single,Some College,711,123,$994.00,1594.56,$951.00,"$38,935.95","$8,933.00",$53.14,9176.06,391
+October-2023,2023,2023-10-10,654,Savings,Silver,Low Income,Divorced,Master's Degree,965,575,$161.00,1783.1,$19.00,"$12,805.32","$47,116.58",$8.17,9765.02,630
+October-2023,2023,2023-10-11,858,Chequing,Bronze,High Income,Divorced,Some College,673,510,$457.00,723.56,$74.00,"$17,537.28","$17,158.77",$66.21,6985.58,520
+October-2023,2023,2023-10-11,229,Savings,Gold,Medium Income,Divorced,Some College,113,425,$264.00,551.86,$120.00,"$15,324.06","$14,310.79",$111.95,233.56,503
+October-2023,2023,2023-10-11,405,Chequing,Gold,Low Income,Divorced,College Degree,880,775,$220.00,1335.22,$28.00,$684.72,"$29,222.82",$103.32,1318.53,158
+October-2023,2023,2023-10-12,341,Chequing,Bronze,Low Income,Divorced,Some College,701,720,$837.00,2344.15,$98.00,"$36,938.44",$282.10,$17.85,1370.21,255
+October-2023,2023,2023-10-12,904,Chequing,Silver,High Income,Divorced,Some College,583,996,$78.00,2865.92,$413.00,"$35,081.67","$10,106.29",$83.93,7490.73,391
+October-2023,2023,2023-10-13,701,Chequing,Bronze,Low Income,Married,College Degree,537,830,$917.00,905.6,$715.00,"$12,131.77","$1,079.41",$13.79,7835.49,826
+October-2023,2023,2023-10-13,618,Savings,Bronze,Medium Income,Divorced,High School Graduate,616,837,$551.00,2140.4,$668.00,"$37,527.46","$22,592.49",$9.73,2467.36,844
+October-2023,2023,2023-10-13,850,Chequing,Bronze,Medium Income,Single,Master's Degree,105,226,$509.00,1979.36,$517.00,"$7,085.76","$13,103.07",$70.91,5502.65,766
+October-2023,2023,2023-10-13,401,Savings,Bronze,High Income,Single,Master's Degree,107,325,$154.00,876.77,$416.00,"$28,698.14","$28,006.88",$64.16,1780.98,21
+October-2023,2023,2023-10-14,53,Savings,Gold,High Income,Married,Master's Degree,418,577,$129.00,2436.79,$596.00,"$18,128.67","$44,099.00",$99.00,4405.33,481
+October-2023,2023,2023-10-14,866,Savings,Gold,Medium Income,Single,College Degree,71,401,$736.00,1965.6,$796.00,"$44,942.60","$12,551.98",$39.40,1372.13,951
+October-2023,2023,2023-10-15,869,Savings,Gold,High Income,Married,Some College,209,994,$526.00,1468.27,$989.00,"$36,508.70","$28,901.58",$6.47,9877.05,837
+October-2023,2023,2023-10-15,330,Savings,Bronze,Medium Income,Single,Some College,959,362,$522.00,1419.79,$622.00,"$11,900.79","$17,553.87",$43.50,9748.84,725
+October-2023,2023,2023-10-15,555,Chequing,Gold,Medium Income,Single,College Degree,518,63,$738.00,2022.96,$26.00,"$48,511.15","$8,130.90",$122.35,5334.95,122
+October-2023,2023,2023-10-16,128,Chequing,Gold,Medium Income,Single,Some College,581,332,$522.00,1059.59,$322.00,"$41,915.29","$7,071.26",$85.34,8940.25,521
+October-2023,2023,2023-10-16,894,Savings,Bronze,High Income,Divorced,Some College,379,865,$364.00,2532.14,$976.00,"$18,778.99","$32,992.95",$117.85,6885.83,900
+October-2023,2023,2023-10-16,827,Savings,Gold,Low Income,Divorced,Some College,869,159,$739.00,1110.99,$860.00,"$17,326.11","$41,195.50",$80.17,5105.72,9
+October-2023,2023,2023-10-16,596,Savings,Gold,High Income,Divorced,College Degree,610,236,$488.00,2286.31,$713.00,"$43,100.86","$25,050.89",$29.79,6260.93,173
+October-2023,2023,2023-10-17,718,Savings,Gold,Medium Income,Divorced,Master's Degree,942,573,$230.00,893.84,$255.00,$913.72,"$43,478.24",$33.08,7298.08,488
+October-2023,2023,2023-10-17,939,Savings,Gold,Medium Income,Divorced,Master's Degree,376,116,$138.00,2872.9,$954.00,"$13,971.89","$1,558.52",$119.44,5950.04,880
+October-2023,2023,2023-10-17,320,Chequing,Gold,Low Income,Single,Master's Degree,632,160,$378.00,2487.4,$238.00,"$18,639.50","$24,060.74",$40.60,2662.89,702
+October-2023,2023,2023-10-18,380,Chequing,Silver,Medium Income,Divorced,Master's Degree,461,690,$386.00,853.79,$218.00,"$25,301.88","$6,377.91",$107.37,9644.31,799
+October-2023,2023,2023-10-19,285,Chequing,Gold,Low Income,Divorced,College Degree,937,174,$221.00,1577.3,$445.00,"$12,545.02","$22,810.38",$7.74,8905.5,746
+October-2023,2023,2023-10-19,100,Chequing,Gold,High Income,Divorced,High School Graduate,663,442,$199.00,2742.49,$837.00,"$48,788.47","$24,899.57",$30.11,3240.59,855
+October-2023,2023,2023-10-19,995,Chequing,Gold,Medium Income,Single,Some College,312,642,$280.00,1435.59,$308.00,"$49,778.77","$43,541.52",$16.35,4826.82,578
+October-2023,2023,2023-10-19,867,Savings,Gold,Low Income,Married,High School Graduate,560,374,$270.00,1507.12,$185.00,"$34,830.63","$37,909.81",$63.03,1503.56,957
+October-2023,2023,2023-10-20,889,Savings,Silver,Medium Income,Married,High School Graduate,626,430,$105.00,467.31,$898.00,"$38,159.73","$13,302.64",$98.64,9721.49,721
+October-2023,2023,2023-10-20,673,Chequing,Gold,Low Income,Married,High School Graduate,942,792,$97.00,2839.92,$679.00,"$16,954.02","$17,147.40",$42.09,1714.98,893
+October-2023,2023,2023-10-20,157,Chequing,Gold,High Income,Divorced,Some College,952,492,$244.00,1547.31,$606.00,"$36,585.38","$30,086.93",$24.19,2900.01,287
+October-2023,2023,2023-10-20,423,Savings,Gold,Medium Income,Divorced,High School Graduate,495,119,$889.00,2108.31,$638.00,"$23,274.32","$9,268.58",$140.87,2908.15,392
+October-2023,2023,2023-10-20,515,Chequing,Bronze,High Income,Married,Master's Degree,166,508,$643.00,728.97,$340.00,"$19,591.81","$10,562.21",$14.81,2556.51,424
+October-2023,2023,2023-10-21,293,Savings,Bronze,Low Income,Married,College Degree,1,958,$830.00,1521.36,$40.00,"$33,020.33","$26,363.94",$90.72,7727.27,384
+October-2023,2023,2023-10-22,233,Savings,Gold,High Income,Divorced,High School Graduate,522,166,$710.00,2833.81,$555.00,"$10,019.61","$40,134.74",$14.01,2106.87,935
+October-2023,2023,2023-10-22,843,Savings,Gold,Medium Income,Single,High School Graduate,923,942,$89.00,578.06,$373.00,"$48,582.95","$48,511.06",$130.19,5145.42,81
+October-2023,2023,2023-10-22,930,Chequing,Silver,Medium Income,Single,Some College,598,69,$355.00,2814.5,$152.00,"$11,270.83","$4,852.86",$64.50,2411.53,318
+October-2023,2023,2023-10-23,881,Chequing,Bronze,Medium Income,Married,Master's Degree,104,302,$767.00,2350.16,$123.00,"$5,561.14","$18,532.66",$132.05,5790.21,887
+October-2023,2023,2023-10-23,736,Chequing,Bronze,High Income,Divorced,College Degree,781,255,$752.00,1865.15,$950.00,"$12,761.48","$35,510.77",$21.09,5873.6,289
+October-2023,2023,2023-10-23,604,Chequing,Bronze,Medium Income,Divorced,Master's Degree,494,648,$900.00,2081.07,$361.00,"$21,649.32","$33,998.49",$98.82,6535.76,633
+October-2023,2023,2023-10-24,966,Chequing,Bronze,High Income,Divorced,Master's Degree,270,889,$756.00,389.26,$948.00,"$28,608.89","$37,709.71",$138.68,9410.68,333
+October-2023,2023,2023-10-24,241,Chequing,Bronze,High Income,Married,High School Graduate,867,370,$266.00,644.96,$696.00,"$8,892.86","$12,452.94",$142.64,8162.59,515
+October-2023,2023,2023-10-24,208,Chequing,Bronze,Low Income,Married,Some College,786,597,$42.00,465.87,$660.00,"$14,732.79","$15,780.43",$59.50,235.36,3
+October-2023,2023,2023-10-24,9,Savings,Bronze,High Income,Married,High School Graduate,792,347,$475.00,2006.3,$511.00,"$20,862.17","$33,781.55",$14.34,3356.51,75
+October-2023,2023,2023-10-24,475,Savings,Bronze,High Income,Married,College Degree,691,738,$340.00,2611.84,$224.00,"$5,144.72","$5,030.99",$29.07,806.94,102
+October-2023,2023,2023-10-25,95,Savings,Bronze,Low Income,Married,Master's Degree,377,460,$45.00,2352.69,$317.00,"$38,608.40",$895.28,$87.71,8086.54,71
+October-2023,2023,2023-10-25,81,Savings,Gold,High Income,Divorced,Master's Degree,988,15,$247.00,359,$468.00,"$43,277.39","$8,461.57",$83.64,468.59,948
+October-2023,2023,2023-10-26,925,Chequing,Silver,Low Income,Single,College Degree,212,188,$689.00,2190.23,$154.00,"$28,582.98","$15,729.52",$67.93,4017.85,600
+October-2023,2023,2023-10-26,872,Chequing,Gold,Low Income,Divorced,Master's Degree,259,717,$524.00,2233.64,$938.00,"$34,725.29","$47,215.21",$117.27,9181.98,317
+October-2023,2023,2023-10-26,627,Chequing,Gold,High Income,Single,Master's Degree,759,812,$431.00,440.18,"$1,000.00","$33,474.61","$1,838.91",$101.52,3157.35,602
+October-2023,2023,2023-10-27,758,Chequing,Bronze,Medium Income,Married,College Degree,983,547,$964.00,1888.97,$693.00,"$32,599.40","$34,208.51",$41.42,5739.73,85
+October-2023,2023,2023-10-27,294,Savings,Bronze,Low Income,Divorced,Some College,93,434,$409.00,2250.28,$340.00,"$31,222.68","$22,944.12",$129.92,6483.96,663
+October-2023,2023,2023-10-27,328,Savings,Silver,High Income,Single,High School Graduate,584,10,$227.00,750.79,$802.00,"$17,236.90",$663.59,$7.44,6056.59,48
+October-2023,2023,2023-10-28,149,Chequing,Bronze,High Income,Divorced,Master's Degree,332,999,$73.00,2017.36,$864.00,$934.37,"$33,606.75",$89.60,5169.8,107
+October-2023,2023,2023-10-28,278,Savings,Gold,Medium Income,Married,Some College,826,175,$924.00,615.27,$803.00,"$16,258.98","$1,173.87",$149.09,8736.79,759
+October-2023,2023,2023-10-28,963,Savings,Silver,High Income,Single,Master's Degree,189,605,$728.00,2370.76,$929.00,"$29,740.81","$33,594.06",$92.18,7468.8,99
+October-2023,2023,2023-10-29,657,Savings,Gold,Medium Income,Single,Some College,889,551,$3.00,272.87,$267.00,"$36,019.12",$339.67,$131.21,7103.46,456
+October-2023,2023,2023-10-29,268,Savings,Bronze,Low Income,Single,College Degree,705,943,$402.00,247.23,$64.00,"$33,042.06","$24,791.77",$35.37,6590.32,160
+October-2023,2023,2023-10-29,237,Chequing,Gold,Low Income,Divorced,High School Graduate,33,171,$301.00,2353.25,$308.00,"$29,688.50","$33,007.20",$36.72,5029.52,642
+October-2023,2023,2023-10-29,16,Savings,Bronze,Low Income,Married,Some College,458,219,$862.00,107.02,$770.00,"$49,059.16","$34,762.07",$136.24,7033.39,753
+October-2023,2023,2023-10-30,172,Savings,Bronze,Medium Income,Single,Master's Degree,551,911,$495.00,750.45,$483.00,"$26,540.80","$47,246.04",$96.94,8225.61,754
+October-2023,2023,2023-10-31,485,Chequing,Silver,Low Income,Single,High School Graduate,326,383,$567.00,1551.61,$757.00,"$43,798.30","$35,133.52",$59.87,8906.38,201
+November-2023,2023,2023-11-01,493,Chequing,Silver,Medium Income,Divorced,Some College,241,867,$320.00,2047.41,$124.00,"$20,217.17","$20,411.79",$130.23,7036.4,843
+November-2023,2023,2023-11-01,336,Chequing,Silver,High Income,Married,College Degree,476,134,$515.00,2230.5,$748.00,$718.21,"$44,797.59",$50.40,3216.12,811
+November-2023,2023,2023-11-01,213,Savings,Silver,Medium Income,Single,College Degree,271,20,$910.00,100.49,$829.00,"$41,594.68","$9,430.03",$63.06,9006.29,952
+November-2023,2023,2023-11-01,32,Chequing,Bronze,High Income,Single,College Degree,319,660,$359.00,1049.43,$850.00,"$35,256.70","$11,200.57",$90.72,6506.38,706
+November-2023,2023,2023-11-01,606,Savings,Silver,Medium Income,Married,College Degree,214,753,$177.00,955.56,$639.00,"$3,614.61","$45,192.77",$79.51,7644.8,850
+November-2023,2023,2023-11-01,598,Chequing,Gold,Medium Income,Divorced,College Degree,560,141,$8.00,2986.31,$520.00,"$47,067.84","$11,555.97",$110.20,8836.78,678
+November-2023,2023,2023-11-02,623,Savings,Bronze,Medium Income,Married,High School Graduate,919,545,$687.00,2672.73,$644.00,"$45,047.14","$18,553.56",$16.88,8817.77,831
+November-2023,2023,2023-11-02,842,Chequing,Silver,Low Income,Divorced,High School Graduate,811,420,$758.00,2482.62,$834.00,"$49,801.52","$32,570.08",$107.69,5455.42,846
+November-2023,2023,2023-11-02,868,Savings,Bronze,High Income,Married,College Degree,188,75,$235.00,527.57,$979.00,"$24,120.18","$45,087.43",$30.84,4643.75,535
+November-2023,2023,2023-11-04,933,Savings,Gold,High Income,Married,High School Graduate,681,303,$341.00,1699.37,$237.00,"$15,521.10","$10,253.95",$34.51,1018.72,793
+November-2023,2023,2023-11-04,717,Savings,Bronze,Low Income,Single,College Degree,933,529,$470.00,431.6,$912.00,"$14,419.86","$21,793.85",$34.39,6415.51,778
+November-2023,2023,2023-11-05,815,Savings,Silver,Low Income,Divorced,College Degree,156,71,$492.00,821.11,$542.00,"$33,359.49","$6,165.76",$25.92,1472.51,601
+November-2023,2023,2023-11-06,978,Savings,Silver,High Income,Divorced,College Degree,951,251,$741.00,1404.18,$245.00,"$17,917.91","$23,808.42",$65.05,4265.14,428
+November-2023,2023,2023-11-07,733,Chequing,Gold,High Income,Single,Some College,958,697,$323.00,1323.03,$666.00,"$3,548.60","$43,857.35",$12.08,5217.1,468
+November-2023,2023,2023-11-07,335,Savings,Bronze,High Income,Divorced,College Degree,958,635,$48.00,143.81,$722.00,"$39,164.11","$7,803.29",$30.62,3525.28,121
+November-2023,2023,2023-11-07,471,Savings,Silver,High Income,Single,College Degree,108,972,$6.00,2861.74,$795.00,"$28,483.78","$22,294.97",$56.36,6813.53,475
+November-2023,2023,2023-11-08,507,Chequing,Bronze,Medium Income,Married,Some College,142,809,$420.00,794.63,$867.00,"$47,663.00","$5,188.79",$24.50,2032.39,423
+November-2023,2023,2023-11-08,853,Chequing,Silver,Medium Income,Single,High School Graduate,54,870,$419.00,953.98,$416.00,"$2,634.85","$48,705.78",$108.08,8184.37,173
+November-2023,2023,2023-11-08,698,Savings,Gold,Low Income,Married,Master's Degree,742,286,$394.00,2538.81,$111.00,"$48,793.08","$48,901.84",$127.11,4092.19,838
+November-2023,2023,2023-11-08,965,Chequing,Gold,Medium Income,Divorced,College Degree,352,506,$445.00,1498.26,$215.00,"$7,002.63","$25,990.75",$11.31,9817.77,783
+November-2023,2023,2023-11-08,879,Chequing,Gold,High Income,Single,Master's Degree,125,180,$409.00,2694.34,$42.00,"$18,146.35","$23,500.81",$107.57,748.8,562
+November-2023,2023,2023-11-09,250,Chequing,Silver,Low Income,Divorced,Master's Degree,260,570,$240.00,100.54,$106.00,"$36,305.18","$44,772.64",$148.10,6453.55,680
+November-2023,2023,2023-11-10,743,Chequing,Silver,Medium Income,Married,Master's Degree,80,868,$831.00,2517.66,$433.00,"$13,321.02","$1,764.13",$38.36,6446.42,543
+November-2023,2023,2023-11-11,794,Chequing,Silver,Medium Income,Married,Master's Degree,840,45,$390.00,662.38,$335.00,"$4,569.58","$34,770.65",$127.12,4078.61,765
+November-2023,2023,2023-11-11,795,Savings,Gold,Low Income,Married,High School Graduate,857,311,$480.00,2051.71,$464.00,"$18,224.90","$23,759.49",$85.55,8303.49,233
+November-2023,2023,2023-11-11,703,Savings,Silver,Low Income,Married,Some College,939,965,$386.00,1333.51,$312.00,"$36,695.10","$15,015.68",$44.76,5825.95,1000
+November-2023,2023,2023-11-11,652,Chequing,Silver,High Income,Single,High School Graduate,59,668,$295.00,2099.22,$825.00,"$10,220.54","$33,617.24",$22.00,1529.04,907
+November-2023,2023,2023-11-11,569,Savings,Gold,High Income,Married,College Degree,709,399,$991.00,329.61,$141.00,"$42,827.64","$45,566.79",$20.26,4127.76,807
+November-2023,2023,2023-11-11,70,Savings,Bronze,High Income,Divorced,College Degree,13,448,$732.00,2222.88,$653.00,"$38,092.88","$27,692.86",$148.07,5311.61,891
+November-2023,2023,2023-11-11,137,Savings,Gold,High Income,Divorced,Some College,558,54,$730.00,2138.06,$363.00,"$24,409.34","$47,709.58",$117.27,1287.89,937
+November-2023,2023,2023-11-12,156,Savings,Silver,Low Income,Divorced,High School Graduate,35,765,$276.00,2713.06,$495.00,"$9,978.80","$47,625.43",$79.76,7151.9,338
+November-2023,2023,2023-11-12,283,Chequing,Silver,Low Income,Married,High School Graduate,916,635,$269.00,687.01,$742.00,"$20,079.47","$2,273.34",$118.73,2235.24,524
+November-2023,2023,2023-11-12,570,Savings,Silver,Low Income,Divorced,College Degree,244,911,$63.00,2685.54,$8.00,"$16,785.59","$17,980.88",$25.80,1314.37,521
+November-2023,2023,2023-11-12,861,Savings,Gold,High Income,Married,Some College,943,720,$636.00,2861.35,$803.00,"$7,781.69","$17,226.85",$118.94,3629.82,9
+November-2023,2023,2023-11-13,903,Savings,Gold,High Income,Divorced,Some College,135,305,$488.00,1312.61,$586.00,"$23,946.40","$48,201.65",$42.64,3696.46,807
+November-2023,2023,2023-11-13,581,Chequing,Bronze,Low Income,Divorced,Some College,518,336,$924.00,1938.98,$767.00,"$32,599.74","$17,471.07",$125.09,8132.14,41
+November-2023,2023,2023-11-13,622,Chequing,Silver,High Income,Married,College Degree,29,806,$863.00,867.33,$764.00,"$22,601.84","$30,633.70",$15.59,6189.7,23
+November-2023,2023,2023-11-13,248,Chequing,Silver,High Income,Divorced,Some College,248,393,$235.00,208.03,$921.00,"$30,782.28","$29,749.38",$121.57,8669.39,279
+November-2023,2023,2023-11-14,687,Chequing,Bronze,High Income,Single,High School Graduate,417,692,$42.00,440.04,$585.00,"$17,180.04","$16,016.23",$20.27,5678.31,25
+November-2023,2023,2023-11-14,772,Chequing,Silver,High Income,Married,Master's Degree,662,711,$339.00,1124.43,$767.00,"$11,821.83","$47,703.99",$37.02,8677.26,133
+November-2023,2023,2023-11-14,901,Savings,Bronze,High Income,Divorced,High School Graduate,239,303,$782.00,2801.27,$918.00,"$46,399.47","$46,483.71",$18.05,5503.89,860
+November-2023,2023,2023-11-14,910,Chequing,Gold,High Income,Married,Master's Degree,404,414,$238.00,747.24,$136.00,"$30,783.85","$32,576.74",$141.93,1367.68,385
+November-2023,2023,2023-11-16,141,Chequing,Bronze,High Income,Married,College Degree,380,27,$829.00,2629.8,$819.00,"$35,269.43","$45,472.52",$52.23,897.04,874
+November-2023,2023,2023-11-16,79,Chequing,Gold,Medium Income,Married,Master's Degree,413,333,$253.00,1504.07,$93.00,"$23,646.23","$1,961.22",$102.18,9852.01,732
+November-2023,2023,2023-11-16,24,Savings,Bronze,High Income,Married,High School Graduate,858,424,$501.00,2765.22,$267.00,"$1,697.41","$32,827.94",$30.52,8788.4,808
+November-2023,2023,2023-11-16,376,Chequing,Bronze,Low Income,Divorced,Master's Degree,192,867,$745.00,1422.12,$409.00,"$37,488.70","$36,870.71",$106.61,4019.57,990
+November-2023,2023,2023-11-17,412,Chequing,Gold,Medium Income,Divorced,College Degree,34,406,$970.00,1722.92,$130.00,"$39,059.86","$49,902.77",$111.87,2893.13,309
+November-2023,2023,2023-11-17,343,Savings,Gold,Low Income,Married,College Degree,548,726,$856.00,497.59,$106.00,"$32,944.14","$24,146.00",$39.08,3149.8,948
+November-2023,2023,2023-11-17,131,Savings,Silver,Medium Income,Married,High School Graduate,366,381,$484.00,1421.17,$419.00,"$44,690.99","$49,537.45",$133.56,5537.28,184
+November-2023,2023,2023-11-17,580,Chequing,Gold,Medium Income,Married,Some College,443,143,$441.00,2939.39,$738.00,"$22,875.13","$31,410.78",$90.29,1491.15,679
+November-2023,2023,2023-11-18,830,Savings,Silver,High Income,Divorced,High School Graduate,163,30,$554.00,2277.1,$811.00,"$24,558.00","$37,434.28",$110.16,1938.21,885
+November-2023,2023,2023-11-18,924,Chequing,Silver,Low Income,Single,High School Graduate,360,387,$473.00,2324.16,$829.00,"$21,188.96","$33,338.20",$18.68,3215.09,74
+November-2023,2023,2023-11-19,943,Chequing,Silver,High Income,Married,High School Graduate,619,78,$329.00,1038.62,$735.00,"$16,061.40","$17,118.27",$91.23,4985.38,846
+November-2023,2023,2023-11-19,105,Savings,Silver,High Income,Divorced,High School Graduate,428,306,$812.00,484.3,$651.00,"$1,069.66","$19,530.72",$20.18,7464.29,510
+November-2023,2023,2023-11-19,359,Chequing,Gold,Low Income,Divorced,Some College,649,778,$574.00,1469.61,$418.00,"$48,840.47","$1,623.35",$79.39,4901.96,665
+November-2023,2023,2023-11-20,345,Chequing,Gold,Medium Income,Divorced,College Degree,522,682,$719.00,554.98,$874.00,"$23,680.50","$11,001.95",$23.43,7401.87,416
+November-2023,2023,2023-11-20,465,Savings,Silver,Medium Income,Single,College Degree,781,229,$766.00,1076.57,$430.00,"$13,473.75","$40,166.22",$110.62,1096.1,307
+November-2023,2023,2023-11-20,487,Chequing,Bronze,High Income,Single,High School Graduate,393,388,$644.00,2130.19,$286.00,"$42,956.60","$13,619.90",$137.97,5503.35,367
+November-2023,2023,2023-11-20,643,Savings,Silver,Low Income,Divorced,Master's Degree,805,14,$569.00,909.54,$490.00,"$20,545.70","$36,136.47",$95.76,6790.8,643
+November-2023,2023,2023-11-21,704,Savings,Gold,Medium Income,Single,High School Graduate,434,61,$936.00,1643.62,$692.00,"$17,344.01","$1,503.97",$102.25,6962.91,269
+November-2023,2023,2023-11-22,199,Chequing,Gold,Low Income,Married,High School Graduate,122,440,$219.00,570.16,$175.00,"$11,755.18","$35,259.11",$36.55,3253.39,502
+November-2023,2023,2023-11-22,216,Chequing,Silver,Medium Income,Divorced,Some College,600,667,$857.00,1338.27,$459.00,"$41,625.65","$48,825.57",$40.04,5068.47,325
+November-2023,2023,2023-11-23,311,Chequing,Gold,Medium Income,Married,Master's Degree,25,517,$932.00,1986.3,$399.00,"$18,460.74","$9,428.95",$102.18,1076.8,671
+November-2023,2023,2023-11-23,713,Savings,Bronze,Low Income,Married,High School Graduate,665,384,$161.00,2029.22,$864.00,"$11,462.94","$4,700.45",$25.15,9658.57,305
+November-2023,2023,2023-11-23,950,Chequing,Gold,Low Income,Divorced,High School Graduate,138,230,$27.00,2393.08,$544.00,"$45,650.44","$49,594.73",$102.56,3575.61,551
+November-2023,2023,2023-11-24,934,Chequing,Bronze,Low Income,Married,Some College,412,457,$323.00,1215.2,$408.00,"$12,541.01","$2,129.58",$10.76,3633.26,897
+November-2023,2023,2023-11-24,848,Chequing,Bronze,Low Income,Married,High School Graduate,918,348,$674.00,1992.4,$142.00,"$36,597.39","$3,960.44",$34.36,9065.92,673
+November-2023,2023,2023-11-24,472,Savings,Gold,High Income,Divorced,High School Graduate,147,397,$895.00,2782.63,$696.00,"$18,010.56","$33,319.43",$95.57,9049.3,965
+November-2023,2023,2023-11-24,447,Savings,Silver,High Income,Divorced,Some College,259,802,$719.00,2476.96,$867.00,"$36,462.10","$45,816.12",$128.79,2535.11,723
+November-2023,2023,2023-11-24,518,Chequing,Bronze,Medium Income,Married,College Degree,594,87,$52.00,262.37,$610.00,"$26,637.69","$41,299.76",$19.91,1013.2,222
+November-2023,2023,2023-11-25,562,Savings,Gold,Low Income,Divorced,Some College,906,252,$337.00,1161.68,$970.00,"$18,842.75","$39,845.53",$93.65,5403.07,237
+November-2023,2023,2023-11-26,214,Savings,Gold,Low Income,Married,College Degree,226,220,$586.00,2757.9,$627.00,"$11,528.24","$27,961.66",$117.24,6745.44,657
+November-2023,2023,2023-11-26,122,Chequing,Bronze,Medium Income,Married,Master's Degree,79,205,$645.00,2277.84,$958.00,"$26,243.82","$14,934.03",$120.86,8280.6,434
+November-2023,2023,2023-11-26,809,Savings,Bronze,Medium Income,Single,High School Graduate,873,797,$814.00,1668.68,$148.00,"$31,742.87","$41,227.88",$65.64,5013.97,779
+November-2023,2023,2023-11-26,730,Savings,Gold,Low Income,Married,Master's Degree,564,116,$670.00,2438.23,$650.00,"$11,419.66","$12,157.70",$110.90,255.41,658
+November-2023,2023,2023-11-27,883,Chequing,Gold,Low Income,Single,Master's Degree,717,2,$623.00,1686.29,$375.00,"$20,254.59","$48,870.08",$100.47,7114.92,410
+November-2023,2023,2023-11-27,554,Savings,Bronze,High Income,Married,Master's Degree,937,690,$968.00,1736.21,$706.00,"$8,820.30","$9,805.26",$46.40,1532.63,255
+November-2023,2023,2023-11-28,101,Savings,Silver,High Income,Married,College Degree,508,465,$460.00,2148.39,$563.00,"$12,732.61","$5,465.75",$42.24,5178.26,116
+November-2023,2023,2023-11-28,880,Savings,Bronze,Medium Income,Married,College Degree,583,609,$207.00,1968.34,$131.00,"$6,889.66","$22,081.76",$137.84,6408.31,681
+November-2023,2023,2023-11-28,929,Chequing,Bronze,High Income,Married,Master's Degree,652,888,$685.00,2030.63,$526.00,"$14,091.95","$16,292.82",$70.97,6366.72,19
+November-2023,2023,2023-11-28,740,Chequing,Silver,Low Income,Single,Master's Degree,805,961,$273.00,2353.73,$720.00,"$29,824.51","$39,399.78",$77.55,2785.55,78
+November-2023,2023,2023-11-29,590,Chequing,Bronze,Medium Income,Divorced,Some College,935,912,$592.00,447.13,$570.00,"$21,843.29","$46,006.49",$53.92,7490.74,63
+November-2023,2023,2023-11-29,240,Savings,Gold,High Income,Married,High School Graduate,502,753,$603.00,2333,$736.00,"$21,406.21","$35,122.12",$49.85,687.05,394
+November-2023,2023,2023-11-29,388,Chequing,Silver,Low Income,Married,Some College,149,368,$89.00,318.04,$967.00,"$8,431.93","$4,093.31",$69.07,2369.74,404
+November-2023,2023,2023-11-30,508,Savings,Silver,Low Income,Married,College Degree,646,852,$134.00,2665,$834.00,"$9,529.01","$21,113.98",$121.73,3756.77,80
+November-2023,2023,2023-11-30,739,Chequing,Silver,High Income,Divorced,Some College,737,304,$860.00,1029.29,$471.00,"$46,359.14","$21,035.83",$8.28,7922.08,604
+November-2023,2023,2023-11-30,773,Chequing,Silver,Low Income,Divorced,High School Graduate,303,553,$897.00,675.45,$860.00,"$44,902.85","$22,047.42",$99.28,597.4,349
+November-2023,2023,2023-11-30,792,Savings,Bronze,Medium Income,Married,College Degree,173,560,$702.00,2618.6,$843.00,"$19,593.26","$5,433.18",$7.78,8775.03,850
+December-2023,2023,2023-12-01,448,Savings,Gold,High Income,Single,Some College,79,511,$769.00,837.69,$93.00,"$25,782.94","$31,333.16",$68.04,3576.52,411
+December-2023,2023,2023-12-01,327,Savings,Gold,Medium Income,Divorced,High School Graduate,405,996,$873.00,512.98,$484.00,"$28,022.04","$45,404.67",$97.54,1409.39,415
+December-2023,2023,2023-12-02,413,Savings,Bronze,Medium Income,Single,College Degree,531,763,$580.00,2062.11,$531.00,"$27,497.23","$20,135.11",$21.42,8657.29,460
+December-2023,2023,2023-12-02,190,Savings,Silver,Medium Income,Divorced,High School Graduate,261,893,$901.00,138.66,$473.00,"$8,940.80","$33,830.36",$10.81,9410.27,365
+December-2023,2023,2023-12-02,113,Chequing,Silver,High Income,Divorced,College Degree,335,613,$755.00,993.29,$565.00,"$46,333.26","$44,452.92",$9.30,8060.87,172
+December-2023,2023,2023-12-02,29,Chequing,Gold,Low Income,Married,High School Graduate,798,97,$723.00,485.56,$241.00,$605.48,"$34,809.30",$110.33,6651.58,600
+December-2023,2023,2023-12-02,751,Chequing,Gold,Medium Income,Single,College Degree,316,195,$649.00,408.42,$999.00,"$27,107.36","$11,317.73",$105.42,1129.5,468
+December-2023,2023,2023-12-03,254,Chequing,Bronze,Low Income,Single,High School Graduate,159,245,$839.00,1782.24,$164.00,"$27,275.29","$2,549.01",$17.43,7914.89,579
+December-2023,2023,2023-12-04,96,Savings,Silver,Low Income,Divorced,Some College,138,697,$997.00,889.39,$545.00,"$34,105.78","$47,827.26",$66.13,6066.64,906
+December-2023,2023,2023-12-04,88,Chequing,Silver,Medium Income,Divorced,High School Graduate,530,286,$188.00,240.02,$204.00,"$11,866.61","$19,262.11",$10.01,6757.22,575
+December-2023,2023,2023-12-04,708,Savings,Gold,High Income,Married,Some College,185,950,$965.00,735.24,$350.00,"$35,308.14","$36,963.33",$45.41,9519.72,868
+December-2023,2023,2023-12-06,761,Chequing,Gold,High Income,Married,Some College,802,35,$104.00,2929.98,$979.00,"$16,515.36","$4,894.54",$10.21,5145.63,668
+December-2023,2023,2023-12-06,103,Savings,Gold,High Income,Married,Some College,782,486,$850.00,174.2,$316.00,"$45,001.96","$34,324.05",$149.74,1905.2,82
+December-2023,2023,2023-12-07,558,Savings,Silver,Low Income,Married,High School Graduate,708,173,$690.00,2916.13,$401.00,"$19,371.34","$11,686.30",$120.85,2130.42,780
+December-2023,2023,2023-12-08,455,Savings,Gold,Low Income,Married,High School Graduate,947,703,$713.00,1921.96,$189.00,"$22,614.01","$21,212.44",$104.81,1813.22,164
+December-2023,2023,2023-12-08,488,Savings,Bronze,High Income,Divorced,Some College,708,262,$874.00,2589.47,$296.00,"$15,159.36","$3,996.86",$87.98,8047.04,994
+December-2023,2023,2023-12-08,161,Chequing,Bronze,Low Income,Married,Some College,338,565,$998.00,1210.47,$370.00,"$42,718.32","$12,375.15",$120.42,3736.95,885
+December-2023,2023,2023-12-09,499,Savings,Bronze,Low Income,Divorced,College Degree,917,999,$698.00,679.15,$956.00,$971.57,"$23,356.21",$97.54,3285.41,56
+December-2023,2023,2023-12-09,949,Savings,Gold,Low Income,Divorced,Some College,424,290,$939.00,152.6,$734.00,"$26,509.06","$25,818.89",$16.01,6406.76,39
+December-2023,2023,2023-12-09,986,Savings,Silver,High Income,Divorced,High School Graduate,291,402,$423.00,490.65,$948.00,"$11,693.88","$22,745.79",$25.45,4368.84,788
+December-2023,2023,2023-12-10,931,Savings,Gold,Medium Income,Single,High School Graduate,719,555,$357.00,2632.79,$18.00,"$14,149.26","$46,489.96",$137.98,3173.42,587
+December-2023,2023,2023-12-10,900,Savings,Gold,Low Income,Single,Some College,378,397,$461.00,1841.36,$452.00,"$12,091.51","$34,672.21",$106.55,390.35,149
+December-2023,2023,2023-12-10,531,Savings,Gold,Medium Income,Divorced,Some College,981,372,$908.00,2590.51,$754.00,"$36,627.91","$10,532.57",$92.70,2873.18,182
+December-2023,2023,2023-12-10,194,Chequing,Gold,Medium Income,Divorced,Master's Degree,603,157,$699.00,2889.33,$369.00,"$23,828.65","$15,631.47",$119.82,9018.08,828
+December-2023,2023,2023-12-11,143,Chequing,Silver,High Income,Divorced,Some College,792,577,$147.00,1388.86,$46.00,"$1,029.00","$18,372.21",$95.12,6562.63,938
+December-2023,2023,2023-12-11,373,Chequing,Gold,Medium Income,Married,College Degree,911,912,$658.00,731.66,$594.00,"$40,851.89","$9,825.08",$137.57,1020.41,305
+December-2023,2023,2023-12-12,355,Chequing,Gold,Low Income,Married,Some College,967,165,$531.00,1464.11,$643.00,"$26,146.30","$16,424.85",$89.98,5019.34,950
+December-2023,2023,2023-12-12,223,Chequing,Silver,High Income,Divorced,High School Graduate,328,554,$543.00,2071.87,$806.00,"$23,129.78","$35,251.56",$48.93,1833.36,744
+December-2023,2023,2023-12-13,264,Savings,Gold,Medium Income,Divorced,Some College,738,867,$683.00,2595.87,$249.00,"$43,401.08","$32,939.60",$14.29,1658.41,911
+December-2023,2023,2023-12-13,181,Savings,Bronze,High Income,Married,College Degree,542,978,$449.00,2614.78,$406.00,"$23,546.05","$29,171.83",$122.13,9757.32,106
+December-2023,2023,2023-12-13,73,Savings,Bronze,Low Income,Married,Master's Degree,169,962,$291.00,2350.3,$376.00,"$41,253.85","$14,624.65",$90.34,1504.24,573
+December-2023,2023,2023-12-13,366,Chequing,Gold,High Income,Married,Some College,71,569,$38.00,1590.83,$91.00,"$1,612.28","$42,923.74",$74.90,1627.15,165
+December-2023,2023,2023-12-13,392,Chequing,Silver,High Income,Married,Some College,157,855,$397.00,2153.09,$931.00,"$12,520.77","$29,048.59",$72.42,8755.13,360
+December-2023,2023,2023-12-14,284,Chequing,Gold,High Income,Divorced,College Degree,514,130,$158.00,2105.12,$432.00,"$2,010.52","$7,713.85",$65.44,2673.34,561
+December-2023,2023,2023-12-14,564,Savings,Silver,Low Income,Single,Some College,837,496,$686.00,829.41,$501.00,"$33,761.08","$25,492.03",$145.33,6279.45,925
+December-2023,2023,2023-12-15,34,Chequing,Gold,High Income,Single,Some College,56,169,$992.00,1873.28,$291.00,"$31,155.68","$12,981.48",$68.35,2444.28,680
+December-2023,2023,2023-12-16,35,Chequing,Bronze,Medium Income,Single,College Degree,832,180,$520.00,1117.19,$469.00,"$4,510.66","$10,143.58",$80.91,5257.52,243
+December-2023,2023,2023-12-16,951,Savings,Silver,Low Income,Divorced,High School Graduate,901,608,$35.00,1468.18,$775.00,"$27,883.12","$12,526.44",$16.86,269.33,564
+December-2023,2023,2023-12-16,585,Chequing,Bronze,Low Income,Single,High School Graduate,228,736,$29.00,765.77,$781.00,"$32,654.45","$28,533.42",$29.23,9177.57,570
+December-2023,2023,2023-12-16,625,Savings,Gold,Medium Income,Divorced,College Degree,980,899,$581.00,554.31,$524.00,"$6,129.96","$32,217.86",$14.07,7815.21,435
+December-2023,2023,2023-12-17,993,Chequing,Silver,Medium Income,Married,College Degree,350,813,$975.00,546.96,$226.00,"$1,555.30","$25,428.42",$27.43,9440.23,439
+December-2023,2023,2023-12-17,509,Savings,Silver,High Income,Single,High School Graduate,329,495,$484.00,1275.31,$47.00,"$26,865.21","$9,672.98",$40.45,7658.69,51
+December-2023,2023,2023-12-18,61,Savings,Silver,High Income,Divorced,Master's Degree,480,292,$546.00,813.75,$431.00,"$16,516.56","$19,770.93",$34.96,1618.17,323
+December-2023,2023,2023-12-18,253,Savings,Silver,High Income,Married,Master's Degree,181,429,$610.00,1358.8,$199.00,"$11,638.77","$5,573.10",$97.80,8860.57,163
+December-2023,2023,2023-12-19,470,Chequing,Gold,High Income,Single,Master's Degree,599,322,$719.00,272.38,$774.00,"$40,465.67","$32,966.75",$101.45,7203.12,335
+December-2023,2023,2023-12-20,525,Chequing,Silver,Medium Income,Single,Some College,848,132,$685.00,1341.78,$952.00,"$35,030.29","$30,771.66",$78.48,2791.38,771
+December-2023,2023,2023-12-20,203,Chequing,Silver,Medium Income,Married,Master's Degree,482,324,$48.00,2591.2,$696.00,"$34,232.05","$45,223.34",$80.20,7802.01,415
+December-2023,2023,2023-12-20,641,Chequing,Gold,High Income,Married,High School Graduate,11,575,$111.00,967.01,$586.00,"$18,768.57","$38,139.05",$143.55,8964.23,354
+December-2023,2023,2023-12-21,799,Chequing,Bronze,Low Income,Married,College Degree,485,861,$615.00,2314.05,$5.00,"$8,442.24","$11,739.83",$32.93,4894.5,146
+December-2023,2023,2023-12-21,176,Savings,Bronze,Medium Income,Single,College Degree,315,337,$857.00,1387.43,$234.00,"$29,139.90","$22,167.49",$59.78,7620.56,919
+December-2023,2023,2023-12-21,15,Chequing,Silver,High Income,Single,High School Graduate,958,811,$868.00,1003.7,$221.00,"$49,671.19","$37,542.35",$35.89,8235.52,590
+December-2023,2023,2023-12-22,457,Savings,Bronze,High Income,Married,Some College,855,821,$927.00,2325.71,$98.00,"$40,684.41","$26,561.87",$73.44,3668.42,730
+December-2023,2023,2023-12-22,764,Savings,Bronze,Low Income,Married,Master's Degree,74,133,$563.00,1530.81,$980.00,"$37,056.48","$44,400.57",$123.33,2602.85,376
+December-2023,2023,2023-12-22,980,Savings,Gold,High Income,Married,Some College,659,416,$779.00,2681.11,$797.00,"$7,070.94","$31,593.39",$147.24,4071.14,296
+December-2023,2023,2023-12-22,875,Chequing,Gold,Low Income,Single,College Degree,91,61,$797.00,1977.65,$474.00,"$46,782.19","$7,374.17",$43.62,4230.88,28
+December-2023,2023,2023-12-23,821,Chequing,Silver,Low Income,Divorced,High School Graduate,877,484,$420.00,2317.39,$635.00,"$5,623.96","$43,308.11",$74.44,9728.01,226
+December-2023,2023,2023-12-23,529,Savings,Silver,High Income,Married,Some College,263,833,$494.00,165.57,$440.00,"$39,202.68","$25,077.03",$72.19,4377.69,251
+December-2023,2023,2023-12-23,62,Chequing,Silver,High Income,Divorced,High School Graduate,870,551,$231.00,2679.45,$524.00,"$20,453.69","$25,102.11",$114.80,6053.27,539
+December-2023,2023,2023-12-23,94,Savings,Silver,High Income,Divorced,Master's Degree,597,715,$458.00,1739.93,$406.00,"$17,432.80","$14,813.98",$9.75,2100.08,200
+December-2023,2023,2023-12-23,191,Savings,Gold,Medium Income,Married,College Degree,324,679,$947.00,2857.33,$731.00,"$20,490.47","$38,158.47",$30.65,6599.19,373
+December-2023,2023,2023-12-24,58,Savings,Silver,Medium Income,Single,Some College,392,212,$467.00,1646.41,$181.00,"$37,401.80","$16,902.99",$109.06,5967.03,834
+December-2023,2023,2023-12-25,147,Savings,Silver,Medium Income,Married,Some College,919,263,$422.00,2725.75,$431.00,"$28,907.27","$22,158.82",$127.15,1061.28,667
+December-2023,2023,2023-12-25,816,Chequing,Gold,Medium Income,Married,High School Graduate,451,362,$586.00,1870.07,$183.00,"$40,731.62","$25,340.14",$106.19,353.71,67
+December-2023,2023,2023-12-25,874,Savings,Bronze,Medium Income,Divorced,Master's Degree,98,193,$868.00,1847.23,$358.00,"$4,111.51","$15,810.21",$127.57,7303.14,717
+December-2023,2023,2023-12-26,837,Savings,Silver,Low Income,Single,College Degree,772,601,$52.00,2026.09,$850.00,"$26,944.08","$40,877.77",$121.36,4797.85,470
+December-2023,2023,2023-12-26,612,Savings,Bronze,High Income,Divorced,College Degree,628,924,$316.00,1876.28,$540.00,"$39,218.54","$5,242.47",$20.77,7891.97,582
+December-2023,2023,2023-12-26,150,Savings,Silver,Medium Income,Married,Some College,560,738,$923.00,1460.22,$210.00,"$40,319.76","$40,116.43",$144.86,9851.15,175
+December-2023,2023,2023-12-26,186,Savings,Bronze,Medium Income,Single,Master's Degree,462,525,$79.00,396.86,$903.00,"$32,852.85","$38,332.60",$53.04,9805.04,947
+December-2023,2023,2023-12-27,193,Chequing,Bronze,Medium Income,Married,Some College,667,628,$872.00,1982.11,$576.00,"$45,005.81","$37,366.60",$7.13,5362.64,188
+December-2023,2023,2023-12-27,339,Savings,Gold,Low Income,Divorced,High School Graduate,528,905,$916.00,2625.65,$761.00,"$46,664.87","$25,441.22",$59.29,2331.12,674
+December-2023,2023,2023-12-27,694,Savings,Bronze,Low Income,Single,High School Graduate,800,853,$220.00,331.2,$355.00,"$46,483.77","$45,976.79",$35.02,5778.91,615
+December-2023,2023,2023-12-28,767,Chequing,Gold,Low Income,Single,Some College,649,391,$945.00,951.08,$56.00,"$25,568.70","$20,853.06",$65.68,1239.89,218
+December-2023,2023,2023-12-28,760,Savings,Bronze,Low Income,Single,College Degree,906,180,$141.00,274.09,$737.00,"$15,402.35","$4,753.08",$144.42,6581.52,747
+December-2023,2023,2023-12-28,403,Savings,Bronze,High Income,Divorced,Some College,178,479,$665.00,2707.15,$808.00,"$34,772.02","$18,343.96",$121.95,794.02,86
+December-2023,2023,2023-12-28,117,Chequing,Bronze,High Income,Single,Some College,568,921,$659.00,281.51,$862.00,"$24,898.90","$34,972.25",$16.39,3907.68,214
+December-2023,2023,2023-12-29,179,Savings,Silver,Low Income,Divorced,Some College,675,289,$523.00,575.63,$55.00,"$2,099.03","$41,837.11",$20.83,4750.26,921
+December-2023,2023,2023-12-29,459,Savings,Silver,High Income,Married,Master's Degree,818,238,$98.00,1128.47,$167.00,"$6,507.39","$31,676.10",$57.28,856.64,834
+December-2023,2023,2023-12-29,961,Savings,Gold,Medium Income,Single,Master's Degree,742,232,$661.00,2924.58,$982.00,"$14,446.98","$33,881.40",$112.01,2313.45,350
+December-2023,2023,2023-12-30,416,Savings,Silver,Low Income,Married,Some College,285,732,$736.00,118.46,$987.00,"$14,842.86","$47,095.47",$6.66,6598.84,967
+December-2023,2023,2023-12-31,443,Savings,Silver,Medium Income,Married,Master's Degree,47,896,$692.00,1579.09,$293.00,"$46,686.14","$22,131.52",$48.32,9269.36,516
+January-2024,2024,2024-01-01,207,Savings,Silver,Medium Income,Single,High School Graduate,281,134,$683.00,2711.47,$626.00,"$19,770.91","$34,804.29",$131.53,8176.62,69
+January-2024,2024,2024-01-01,781,Chequing,Bronze,Medium Income,Divorced,Master's Degree,380,581,$505.00,713.29,$661.00,$454.06,$647.81,$110.34,7675.97,494
+January-2024,2024,2024-01-01,706,Savings,Silver,Low Income,Single,Master's Degree,678,67,$481.00,2329.18,$828.00,"$31,040.11","$6,754.62",$108.59,9020.05,961
+January-2024,2024,2024-01-02,891,Savings,Gold,Low Income,Married,Some College,892,437,$390.00,1483.85,$804.00,"$37,166.40","$37,877.27",$15.35,5752.73,986
+January-2024,2024,2024-01-02,505,Savings,Silver,High Income,Married,High School Graduate,281,140,$657.00,1995.24,$127.00,"$1,972.13","$28,258.14",$139.68,7102.47,968
+January-2024,2024,2024-01-03,332,Savings,Silver,High Income,Married,Some College,809,389,$87.00,465.75,$824.00,"$13,547.33","$41,034.35",$126.51,5410.99,701
+January-2024,2024,2024-01-04,539,Chequing,Silver,Low Income,Married,Some College,38,839,$701.00,650.35,$430.00,"$40,375.34","$37,729.44",$19.44,8063.58,394
+January-2024,2024,2024-01-04,820,Savings,Silver,High Income,Divorced,High School Graduate,921,206,$289.00,1249.13,$243.00,"$43,869.43","$29,202.29",$21.43,6175.94,832
+January-2024,2024,2024-01-05,813,Savings,Bronze,Medium Income,Divorced,Some College,535,38,$581.00,2222.94,$634.00,"$22,393.11","$7,723.82",$74.36,2163.72,542
+January-2024,2024,2024-01-06,681,Chequing,Silver,Low Income,Divorced,Some College,903,221,$716.00,748.59,$490.00,"$5,251.82","$37,959.30",$99.15,3560.16,831
+January-2024,2024,2024-01-06,909,Chequing,Gold,High Income,Divorced,College Degree,610,939,$755.00,2443.66,$168.00,"$40,942.30","$5,637.29",$99.37,3409.73,148
+January-2024,2024,2024-01-06,982,Savings,Gold,Medium Income,Single,High School Graduate,662,170,$875.00,2926.77,$529.00,"$9,564.55","$39,194.27",$120.14,6422.31,630
+January-2024,2024,2024-01-07,630,Savings,Gold,Low Income,Single,College Degree,396,486,$371.00,2796.84,$368.00,"$3,899.92","$39,865.52",$103.43,3022.66,840
+January-2024,2024,2024-01-07,390,Savings,Bronze,Low Income,Divorced,High School Graduate,418,121,$470.00,2746.97,$986.00,"$38,229.06","$26,147.93",$97.19,6954.98,737
+January-2024,2024,2024-01-08,160,Savings,Gold,Low Income,Single,College Degree,776,747,$293.00,2876.39,$589.00,"$34,745.74","$36,446.73",$8.48,4132.66,985
+January-2024,2024,2024-01-08,744,Savings,Bronze,Low Income,Married,Some College,425,724,$258.00,2699.99,$197.00,"$19,469.95","$48,649.08",$142.46,4199.09,267
+January-2024,2024,2024-01-09,197,Savings,Silver,Low Income,Married,College Degree,701,587,$508.00,1813.37,$477.00,"$29,600.39","$46,004.68",$77.53,5597.42,902
+January-2024,2024,2024-01-09,188,Chequing,Silver,Medium Income,Married,High School Graduate,499,877,$451.00,513.88,$138.00,"$2,249.65","$11,018.36",$62.66,7232.78,619
+January-2024,2024,2024-01-09,533,Chequing,Gold,Low Income,Single,Some College,620,686,$285.00,1372.81,$14.00,"$18,263.62","$15,255.73",$61.12,6774.63,820
+January-2024,2024,2024-01-09,486,Chequing,Silver,High Income,Divorced,Master's Degree,947,540,$753.00,1179.3,$58.00,"$49,855.97","$9,590.43",$56.20,1822.87,748
+January-2024,2024,2024-01-10,14,Chequing,Gold,Medium Income,Divorced,Some College,577,961,$671.00,1961.72,$801.00,"$25,335.90","$8,770.53",$26.62,1461.35,208
+January-2024,2024,2024-01-10,912,Chequing,Bronze,Low Income,Divorced,High School Graduate,463,958,$26.00,1686.7,$743.00,"$32,091.27","$25,429.26",$35.97,9979.52,576
+January-2024,2024,2024-01-11,750,Chequing,Silver,Low Income,Single,College Degree,822,370,$143.00,110.7,$228.00,"$35,992.25","$30,502.05",$5.56,221.96,261
+January-2024,2024,2024-01-11,725,Chequing,Silver,Low Income,Single,High School Graduate,664,6,$185.00,2310.06,$958.00,"$35,639.02","$38,523.00",$127.69,2190.51,814
+January-2024,2024,2024-01-11,839,Chequing,Silver,High Income,Divorced,Some College,344,198,$96.00,103.86,$224.00,"$5,578.91","$23,536.31",$13.56,2194.7,85
+January-2024,2024,2024-01-11,702,Savings,Silver,Medium Income,Married,Some College,113,607,$770.00,1211.92,$903.00,"$41,902.22","$8,570.09",$34.91,7814.98,631
+January-2024,2024,2024-01-12,480,Chequing,Gold,High Income,Divorced,Master's Degree,212,109,$2.00,2728.84,$398.00,"$44,276.76","$4,657.70",$33.43,2039.6,447
+January-2024,2024,2024-01-12,414,Chequing,Silver,High Income,Single,High School Graduate,263,40,$438.00,1106.62,$937.00,"$38,291.83","$34,251.44",$46.63,9742.29,806
+January-2024,2024,2024-01-13,441,Chequing,Bronze,Medium Income,Single,Master's Degree,874,400,$751.00,939.55,$617.00,"$7,199.20","$2,089.48",$21.52,8627.42,380
+January-2024,2024,2024-01-13,711,Chequing,Bronze,Low Income,Divorced,Some College,268,111,$225.00,1237.84,$708.00,"$33,674.39","$19,753.28",$7.49,2371.44,444
+January-2024,2024,2024-01-14,814,Savings,Silver,High Income,Married,Master's Degree,990,766,$275.00,173.1,$175.00,"$17,896.27","$9,773.96",$85.41,8690.67,731
+January-2024,2024,2024-01-14,462,Chequing,Bronze,High Income,Married,Master's Degree,63,560,$320.00,354.83,$992.00,"$34,926.71","$48,880.57",$34.23,2883.89,434
+January-2024,2024,2024-01-14,424,Savings,Gold,Low Income,Divorced,College Degree,163,658,$218.00,1447.12,$405.00,"$33,311.90","$5,791.35",$34.57,7342.43,23
+January-2024,2024,2024-01-15,313,Chequing,Bronze,High Income,Married,High School Graduate,999,939,$717.00,1233.63,$97.00,"$31,857.46","$12,519.79",$146.40,5320.89,148
+January-2024,2024,2024-01-15,798,Chequing,Silver,Medium Income,Married,Some College,18,309,$951.00,2474.4,$430.00,"$4,452.67","$23,658.78",$14.54,1920.31,223
+January-2024,2024,2024-01-15,695,Chequing,Gold,Low Income,Divorced,College Degree,277,844,$872.00,970.83,$482.00,$201.76,"$31,487.39",$13.89,1143.62,232
+January-2024,2024,2024-01-15,653,Chequing,Silver,Low Income,Single,Master's Degree,396,174,$717.00,912.67,$350.00,$336.83,"$16,480.43",$95.81,8249.33,203
+January-2024,2024,2024-01-15,611,Chequing,Silver,Low Income,Married,Master's Degree,487,106,$968.00,2289.95,$610.00,"$13,170.76","$21,763.40",$10.71,4594.6,874
+January-2024,2024,2024-01-16,829,Chequing,Silver,Low Income,Single,College Degree,78,869,$423.00,1963.48,$595.00,"$2,271.65","$48,369.29",$26.10,773.41,233
+January-2024,2024,2024-01-16,560,Chequing,Bronze,Medium Income,Single,Master's Degree,502,609,$799.00,1095.68,$772.00,"$8,845.16","$4,468.34",$23.50,7207.21,942
+January-2024,2024,2024-01-17,759,Savings,Gold,High Income,Single,Some College,707,980,$105.00,566.97,$834.00,"$41,996.05","$42,811.12",$126.81,2228.25,804
+January-2024,2024,2024-01-17,942,Chequing,Bronze,Low Income,Divorced,Master's Degree,702,485,$211.00,1523.65,$360.00,"$21,844.42","$19,998.72",$67.57,6865.19,3
+January-2024,2024,2024-01-19,693,Chequing,Silver,Low Income,Married,Some College,834,359,$651.00,1119.83,$410.00,"$30,284.22","$28,714.00",$128.24,6074.78,404
+January-2024,2024,2024-01-19,8,Chequing,Silver,High Income,Single,Master's Degree,716,161,$18.00,1859.31,$306.00,"$43,808.24","$38,793.65",$91.72,3559.36,986
+January-2024,2024,2024-01-19,133,Savings,Gold,High Income,Married,High School Graduate,74,98,$712.00,1292.75,$209.00,"$14,285.00","$48,966.10",$8.82,3689.28,146
+January-2024,2024,2024-01-20,174,Chequing,Gold,High Income,Married,Some College,565,645,$981.00,108.66,$131.00,"$48,619.98","$13,153.88",$127.06,2362.17,355
+January-2024,2024,2024-01-20,603,Savings,Bronze,Low Income,Divorced,College Degree,11,279,$283.00,1793.81,$884.00,"$46,994.00","$34,079.32",$91.28,5450.06,768
+January-2024,2024,2024-01-21,838,Savings,Silver,Medium Income,Single,College Degree,83,899,$836.00,2839.22,$304.00,"$19,434.25","$18,927.25",$137.47,3879.86,62
+January-2024,2024,2024-01-21,530,Savings,Bronze,High Income,Divorced,Some College,784,80,$809.00,1428.18,$180.00,"$30,375.70",$282.23,$82.09,3703.1,655
+January-2024,2024,2024-01-22,298,Savings,Silver,Low Income,Married,High School Graduate,105,984,$208.00,1825.75,$318.00,"$36,895.91","$36,921.34",$139.64,3091.73,571
+January-2024,2024,2024-01-22,169,Savings,Bronze,High Income,Divorced,Master's Degree,359,530,$358.00,1144.01,$10.00,"$27,119.08","$45,598.10",$83.35,1485.62,780
+January-2024,2024,2024-01-22,649,Chequing,Gold,High Income,Married,Some College,662,713,$422.00,153.06,$678.00,"$19,749.45","$49,106.43",$81.79,8935.34,23
+January-2024,2024,2024-01-23,669,Chequing,Gold,High Income,Single,College Degree,58,513,$649.00,1735.82,$603.00,"$45,329.45","$30,083.59",$93.46,1278.56,385
+January-2024,2024,2024-01-23,312,Savings,Gold,Medium Income,Single,High School Graduate,342,210,$699.00,1186.96,$746.00,"$16,083.97","$37,844.94",$140.47,4870.39,853
+January-2024,2024,2024-01-24,276,Savings,Gold,High Income,Divorced,High School Graduate,49,995,$708.00,1467.44,$48.00,"$22,468.25","$16,156.28",$117.08,8232.5,462
+January-2024,2024,2024-01-24,93,Chequing,Silver,High Income,Single,High School Graduate,484,427,$696.00,1706.39,$955.00,"$43,295.14","$34,340.15",$138.81,868.58,5
+January-2024,2024,2024-01-24,661,Savings,Silver,Low Income,Divorced,College Degree,599,536,$231.00,1440.54,$467.00,"$31,434.24","$38,081.16",$125.84,3876.62,474
+January-2024,2024,2024-01-24,651,Chequing,Silver,Low Income,Divorced,Some College,538,992,$37.00,1438.88,$348.00,"$7,279.53","$44,854.17",$64.27,9303.11,975
+January-2024,2024,2024-01-25,860,Savings,Silver,Medium Income,Single,Master's Degree,395,324,$959.00,2635.04,$372.00,"$49,229.99","$45,433.08",$54.04,953.72,571
+January-2024,2024,2024-01-25,19,Savings,Bronze,Low Income,Single,Master's Degree,975,663,$796.00,1553.62,$665.00,"$26,890.85","$28,961.47",$100.10,6224.7,622
+January-2024,2024,2024-01-25,148,Chequing,Bronze,Medium Income,Single,College Degree,415,539,$132.00,2894.91,$699.00,"$34,553.77","$4,638.00",$53.50,2980.29,65
+January-2024,2024,2024-01-25,306,Savings,Bronze,High Income,Married,College Degree,834,923,$367.00,2236.78,$47.00,"$6,802.31","$45,492.51",$144.30,4832.53,318
+January-2024,2024,2024-01-25,437,Savings,Silver,Medium Income,Married,Master's Degree,684,977,$214.00,515.14,$176.00,"$49,065.19","$14,470.62",$94.50,9494.52,907
+January-2024,2024,2024-01-27,513,Chequing,Silver,Low Income,Single,Some College,860,72,$672.00,2511.45,$332.00,"$14,322.16","$39,118.66",$115.09,4350.5,286
+January-2024,2024,2024-01-27,361,Chequing,Bronze,Medium Income,Divorced,College Degree,795,461,$648.00,1700.08,$685.00,"$29,731.99","$49,740.13",$81.11,8522.34,237
+January-2024,2024,2024-01-27,84,Chequing,Silver,Medium Income,Married,Some College,850,242,$856.00,2499.65,$166.00,"$49,089.63","$25,982.57",$52.72,9615.45,151
+January-2024,2024,2024-01-27,834,Savings,Gold,High Income,Married,College Degree,618,895,$545.00,1468.58,$850.00,"$19,107.29","$41,716.29",$31.15,6052.44,468
+January-2024,2024,2024-01-28,511,Savings,Bronze,Medium Income,Married,Some College,162,300,$233.00,2959.27,$95.00,"$45,380.30","$10,783.26",$57.66,7580.37,865
+January-2024,2024,2024-01-29,140,Chequing,Gold,High Income,Single,High School Graduate,86,218,$669.00,782.69,$423.00,"$22,823.92","$19,159.49",$26.79,1538.71,746
+January-2024,2024,2024-01-29,234,Savings,Silver,High Income,Single,College Degree,664,403,$496.00,2494.81,$524.00,"$29,673.13","$6,505.72",$149.14,7439.25,175
+January-2024,2024,2024-01-31,537,Chequing,Silver,Low Income,Single,College Degree,459,745,$999.00,2412.91,$917.00,"$48,672.23","$17,615.36",$103.06,286.07,312
+January-2024,2024,2024-01-31,812,Chequing,Silver,High Income,Divorced,College Degree,199,695,$548.00,2303.57,$212.00,"$12,303.99","$8,526.88",$96.95,2612.86,312
+January-2024,2024,2024-01-31,857,Savings,Gold,High Income,Single,Some College,316,954,$56.00,1100.43,$357.00,"$34,873.89","$6,407.71",$94.98,8504.79,398
+February-2024,2024,2024-02-01,817,Savings,Bronze,Low Income,Married,Some College,525,827,$927.00,849.13,$135.00,"$13,415.10","$16,974.65",$74.32,2224.79,848
+February-2024,2024,2024-02-01,676,Chequing,Silver,Medium Income,Married,College Degree,2,65,$931.00,2529.44,$602.00,"$25,407.68","$37,978.09",$136.82,8804.28,461
+February-2024,2024,2024-02-01,547,Chequing,Gold,High Income,Married,College Degree,950,204,$532.00,681.48,$665.00,"$11,212.69","$4,663.63",$54.39,7483.78,756
+February-2024,2024,2024-02-01,456,Chequing,Gold,Low Income,Married,College Degree,661,663,$825.00,729.05,$197.00,"$27,091.66","$21,421.31",$43.27,9069.41,998
+February-2024,2024,2024-02-02,185,Savings,Bronze,Low Income,Married,Master's Degree,207,42,$876.00,1943.58,$212.00,"$2,805.30","$25,437.20",$15.64,5867.31,293
+February-2024,2024,2024-02-02,941,Chequing,Bronze,Low Income,Single,High School Graduate,932,455,$515.00,557.63,$387.00,"$27,855.81","$49,806.05",$76.68,9009.26,612
+February-2024,2024,2024-02-03,769,Savings,Silver,High Income,Single,High School Graduate,673,445,$812.00,2474.8,$139.00,"$34,848.02","$46,544.47",$119.31,6383.41,611
+February-2024,2024,2024-02-03,484,Savings,Bronze,Low Income,Married,Some College,975,558,$810.00,2090.42,$845.00,"$33,238.03","$46,495.29",$40.80,6742.26,138
+February-2024,2024,2024-02-04,461,Savings,Bronze,Medium Income,Married,Some College,453,778,$563.00,2586.14,$300.00,"$4,105.83","$35,334.42",$134.31,3702.93,283
+February-2024,2024,2024-02-04,171,Savings,Gold,Low Income,Single,College Degree,322,773,$7.00,678.92,$221.00,"$33,096.23","$5,032.78",$128.40,3910.53,801
+February-2024,2024,2024-02-04,742,Chequing,Bronze,Low Income,Divorced,Some College,799,733,$751.00,267.29,$105.00,"$4,647.11","$16,435.21",$117.51,9602.37,62
+February-2024,2024,2024-02-05,421,Chequing,Gold,Medium Income,Divorced,High School Graduate,165,559,$745.00,941.91,$455.00,"$11,382.12","$25,323.57",$55.49,6243.42,800
+February-2024,2024,2024-02-06,526,Chequing,Gold,High Income,Divorced,College Degree,155,262,$127.00,2896.65,$658.00,"$47,801.26","$36,795.50",$46.50,3735.25,817
+February-2024,2024,2024-02-06,180,Savings,Bronze,Low Income,Divorced,Master's Degree,686,208,$708.00,976.14,$539.00,"$42,142.89","$10,213.37",$29.93,785.94,398
+February-2024,2024,2024-02-06,599,Savings,Silver,Low Income,Divorced,Some College,104,203,$68.00,2318.6,$326.00,"$46,107.10","$16,928.24",$37.37,6664.42,30
+February-2024,2024,2024-02-07,819,Savings,Bronze,Medium Income,Single,High School Graduate,290,414,$739.00,835.7,$849.00,"$14,048.59","$11,406.99",$20.33,9032.17,134
+February-2024,2024,2024-02-07,970,Savings,Gold,High Income,Single,Some College,35,950,$780.00,1188.64,$869.00,"$46,938.52","$5,665.42",$39.24,8950.51,147
+February-2024,2024,2024-02-07,164,Chequing,Bronze,Medium Income,Divorced,High School Graduate,100,67,$325.00,1758.91,$511.00,"$8,280.50","$21,197.33",$104.46,5854.74,689
+February-2024,2024,2024-02-07,451,Savings,Silver,Low Income,Single,College Degree,544,262,$799.00,693.45,$508.00,"$14,292.55",$935.77,$54.54,4246.56,997
+February-2024,2024,2024-02-07,387,Chequing,Bronze,Low Income,Married,College Degree,49,311,$592.00,2334.83,$618.00,"$43,237.48","$7,068.31",$138.26,5228.83,858
+February-2024,2024,2024-02-07,378,Chequing,Gold,Medium Income,Married,High School Graduate,702,57,$412.00,316.98,$357.00,"$38,462.04","$47,619.41",$40.16,7649.77,112
+February-2024,2024,2024-02-08,111,Savings,Bronze,Low Income,Single,College Degree,970,174,$353.00,1198.48,$914.00,"$48,486.88","$34,113.54",$132.58,2811.39,32
+February-2024,2024,2024-02-08,616,Chequing,Silver,Low Income,Divorced,High School Graduate,28,616,$507.00,858.13,$714.00,"$34,374.08","$42,501.76",$29.47,4261.89,288
+February-2024,2024,2024-02-09,648,Chequing,Silver,Medium Income,Married,College Degree,145,543,$791.00,2600.3,$353.00,"$22,338.38","$36,328.10",$39.26,9139.16,285
+February-2024,2024,2024-02-09,112,Chequing,Gold,Low Income,Married,High School Graduate,168,125,$540.00,1434.09,$439.00,"$36,974.90","$31,702.30",$41.90,9181.24,517
+February-2024,2024,2024-02-09,356,Chequing,Gold,Low Income,Single,Some College,942,546,$542.00,1798.58,$703.00,"$44,748.48","$23,885.84",$89.90,8904.04,31
+February-2024,2024,2024-02-10,640,Savings,Silver,Medium Income,Single,Some College,658,324,$66.00,392.07,$695.00,"$13,566.24","$25,465.81",$68.38,8195.6,83
+February-2024,2024,2024-02-10,796,Savings,Silver,Medium Income,Single,High School Graduate,614,590,$963.00,775.54,$972.00,"$7,106.04","$38,109.82",$139.22,3459.79,871
+February-2024,2024,2024-02-11,906,Chequing,Silver,Medium Income,Single,College Degree,995,847,$649.00,1162.17,$16.00,"$30,657.54","$11,506.36",$102.55,9464.11,193
+February-2024,2024,2024-02-11,90,Savings,Gold,Low Income,Married,College Degree,903,381,$151.00,162.82,$452.00,$405.49,"$4,983.77",$138.16,2375.36,465
+February-2024,2024,2024-02-11,245,Savings,Silver,Medium Income,Single,High School Graduate,348,645,$189.00,1063.02,$796.00,"$26,983.53","$34,724.13",$28.13,4066.52,89
+February-2024,2024,2024-02-12,72,Chequing,Bronze,Low Income,Divorced,College Degree,289,733,$374.00,158.38,$100.00,"$45,663.63","$14,495.59",$62.36,5238.79,467
+February-2024,2024,2024-02-12,402,Chequing,Gold,Low Income,Married,High School Graduate,70,105,$33.00,2757.47,$77.00,"$34,554.16","$5,900.17",$122.65,3685.3,632
+February-2024,2024,2024-02-13,483,Chequing,Bronze,High Income,Married,High School Graduate,412,835,$509.00,2541.4,$209.00,"$9,346.24","$1,977.08",$76.32,5669.19,793
+February-2024,2024,2024-02-14,127,Savings,Gold,High Income,Divorced,Some College,359,167,$343.00,1294.28,$797.00,"$45,379.84","$11,656.87",$103.26,9342.5,275
+February-2024,2024,2024-02-14,899,Chequing,Bronze,High Income,Divorced,High School Graduate,238,654,$690.00,2706.94,$403.00,"$23,831.86","$45,141.79",$114.57,6874.81,462
+February-2024,2024,2024-02-15,777,Chequing,Silver,High Income,Single,College Degree,252,561,$171.00,1425.52,$323.00,"$29,990.38","$31,912.67",$47.41,3273.5,408
+February-2024,2024,2024-02-16,920,Savings,Bronze,Low Income,Single,Master's Degree,54,24,$742.00,1098.48,$151.00,"$34,250.60","$18,214.53",$47.55,5449.17,199
+February-2024,2024,2024-02-16,971,Chequing,Bronze,High Income,Divorced,High School Graduate,553,13,$279.00,1613.61,$447.00,"$42,002.64","$1,205.51",$123.73,2704.55,766
+February-2024,2024,2024-02-16,964,Savings,Silver,Low Income,Divorced,Some College,341,261,$283.00,2212.67,$514.00,"$24,491.11","$13,347.07",$40.14,3873.11,924
+February-2024,2024,2024-02-16,262,Savings,Silver,Medium Income,Divorced,Some College,114,100,$749.00,234.52,$241.00,"$6,491.04","$40,345.14",$146.49,7783.52,516
+February-2024,2024,2024-02-17,107,Chequing,Silver,High Income,Married,Some College,742,251,$397.00,1114.36,$703.00,"$42,801.85","$24,118.97",$53.13,9599.15,655
+February-2024,2024,2024-02-17,544,Chequing,Bronze,Low Income,Single,College Degree,681,646,$611.00,2200.47,$72.00,"$5,772.85","$39,029.59",$86.41,6598.76,186
+February-2024,2024,2024-02-18,516,Savings,Silver,Low Income,Single,Master's Degree,330,853,$901.00,1127.61,$619.00,"$45,807.06",$260.59,$65.85,6347.02,997
+February-2024,2024,2024-02-18,979,Savings,Gold,Low Income,Single,Master's Degree,48,76,$360.00,1084.22,$428.00,"$7,585.84","$11,549.32",$50.92,5004.17,734
+February-2024,2024,2024-02-19,607,Chequing,Bronze,Low Income,Married,College Degree,938,243,$648.00,2702.71,$192.00,"$26,411.32","$42,850.54",$35.35,3518.62,49
+February-2024,2024,2024-02-19,337,Chequing,Gold,High Income,Married,Master's Degree,880,274,$314.00,679.78,$525.00,"$3,940.72","$23,222.90",$115.14,9068.29,570
+February-2024,2024,2024-02-19,242,Savings,Silver,High Income,Married,Some College,623,809,$99.00,1700.55,$795.00,"$48,993.01","$6,629.63",$7.31,3340.49,995
+February-2024,2024,2024-02-20,620,Savings,Gold,Medium Income,Married,Some College,57,905,$996.00,1620.39,$52.00,"$25,858.95","$14,208.58",$119.77,2594.23,791
+February-2024,2024,2024-02-20,621,Chequing,Bronze,Medium Income,Single,Some College,230,961,$115.00,319,$76.00,"$41,603.70",$352.37,$82.47,8929.97,94
+February-2024,2024,2024-02-21,602,Chequing,Bronze,High Income,Divorced,College Degree,362,466,$387.00,108.62,$931.00,"$7,239.93","$31,527.83",$101.43,8182.13,205
+February-2024,2024,2024-02-21,125,Savings,Gold,Medium Income,Married,High School Graduate,898,49,$951.00,631.98,$443.00,"$43,754.63","$43,710.17",$113.81,6129.44,8
+February-2024,2024,2024-02-21,374,Savings,Silver,Medium Income,Divorced,High School Graduate,590,173,$35.00,1397.27,$920.00,"$49,158.78","$36,415.41",$52.63,7499.92,377
+February-2024,2024,2024-02-22,791,Savings,Bronze,Low Income,Divorced,Some College,188,710,$456.00,2829.51,$468.00,"$14,317.93","$34,153.53",$115.46,5369.52,416
+February-2024,2024,2024-02-23,678,Savings,Bronze,High Income,Divorced,Some College,337,9,$233.00,2550.77,$367.00,"$44,347.14","$4,276.09",$129.37,3220.31,101
+February-2024,2024,2024-02-23,922,Savings,Bronze,Low Income,Single,Some College,803,49,$464.00,2234.85,$27.00,"$30,972.75","$44,066.03",$59.08,1118.95,312
+February-2024,2024,2024-02-23,510,Chequing,Silver,Medium Income,Divorced,Master's Degree,997,231,$801.00,1730.9,$899.00,"$2,283.68","$7,186.21",$100.45,341.48,200
+February-2024,2024,2024-02-24,738,Chequing,Gold,Low Income,Married,High School Graduate,671,556,$648.00,2079.22,$32.00,"$30,884.11","$19,575.78",$48.85,9551.86,919
+February-2024,2024,2024-02-25,357,Savings,Silver,Low Income,Single,High School Graduate,953,792,$670.00,2968.43,$511.00,"$10,002.17","$14,430.72",$40.81,9205.53,173
+February-2024,2024,2024-02-25,353,Savings,Gold,Medium Income,Single,High School Graduate,548,795,$21.00,2376.5,$370.00,"$18,801.68","$45,563.99",$106.09,7309.19,640
+February-2024,2024,2024-02-26,121,Savings,Silver,Low Income,Divorced,Some College,132,841,$955.00,2367.08,$307.00,"$19,782.06","$11,893.00",$125.97,8501.76,490
+February-2024,2024,2024-02-26,696,Chequing,Bronze,High Income,Married,High School Graduate,494,344,$394.00,1162.71,$37.00,"$28,452.53","$7,441.81",$61.40,3292.85,804
+February-2024,2024,2024-02-26,624,Savings,Bronze,Medium Income,Married,Some College,891,841,$956.00,1011.46,$426.00,"$26,426.53","$49,158.87",$118.21,4280.47,949
+February-2024,2024,2024-02-27,576,Savings,Gold,High Income,Single,Some College,831,874,$704.00,2874.71,$954.00,"$32,006.74","$24,220.51",$64.76,746.76,677
+February-2024,2024,2024-02-27,945,Chequing,Gold,Medium Income,Married,Master's Degree,142,630,$126.00,2230.35,$990.00,"$27,275.16",$721.68,$91.22,8500.34,825
+February-2024,2024,2024-02-27,165,Savings,Gold,Medium Income,Divorced,College Degree,988,120,$806.00,1518.5,$789.00,"$44,137.13","$48,906.44",$79.70,1838.32,296
+February-2024,2024,2024-02-28,523,Chequing,Bronze,Medium Income,Single,Some College,904,954,$840.00,1717.06,$374.00,"$12,193.00","$12,474.69",$133.28,4312.18,569
+February-2024,2024,2024-02-28,990,Savings,Gold,Medium Income,Single,High School Graduate,101,663,$552.00,306.96,$623.00,"$17,300.49","$12,603.02",$77.41,1289.62,819
+February-2024,2024,2024-02-28,645,Chequing,Bronze,High Income,Married,Master's Degree,615,672,$400.00,1173.15,$904.00,"$36,414.49","$46,319.13",$55.47,7245.28,844
+February-2024,2024,2024-02-29,538,Chequing,Silver,Medium Income,Married,Some College,313,46,$516.00,2255.24,$73.00,"$7,424.47","$41,196.99",$18.79,8005.53,925
+February-2024,2024,2024-02-29,23,Chequing,Gold,Medium Income,Single,College Degree,967,590,$11.00,2134.84,$885.00,"$46,927.31","$47,363.17",$85.90,310.46,684
+February-2024,2024,2024-02-29,49,Savings,Silver,Low Income,Single,Master's Degree,623,982,$937.00,323.87,$870.00,"$25,191.93","$8,156.74",$100.20,2498.89,788
+March-2024,2024,2024-03-01,801,Savings,Bronze,High Income,Married,College Degree,668,104,$505.00,2411.39,$676.00,"$39,256.01","$5,458.59",$6.64,9389.21,248
+March-2024,2024,2024-03-02,477,Chequing,Bronze,High Income,Single,College Degree,964,222,$861.00,1762.03,$846.00,"$23,527.46","$22,000.77",$125.92,6893.82,905
+March-2024,2024,2024-03-03,556,Chequing,Gold,Low Income,Divorced,Some College,159,624,$684.00,2096.25,$771.00,"$46,409.73","$16,493.70",$38.86,4516.73,694
+March-2024,2024,2024-03-03,389,Savings,Silver,Medium Income,Divorced,Some College,248,53,$726.00,2096.95,$672.00,"$38,661.76","$39,329.70",$117.22,3172,140
+March-2024,2024,2024-03-03,30,Chequing,Bronze,Medium Income,Single,High School Graduate,374,529,$32.00,878.12,$158.00,"$34,782.80","$39,407.21",$128.27,8978.53,411
+March-2024,2024,2024-03-04,381,Savings,Gold,Low Income,Divorced,High School Graduate,578,109,$275.00,2051.12,$208.00,"$30,751.26","$26,696.57",$52.36,4378.27,299
+March-2024,2024,2024-03-04,790,Savings,Bronze,High Income,Divorced,College Degree,100,352,$276.00,1046.65,$228.00,"$24,760.12","$16,262.44",$77.48,9920.72,233
+March-2024,2024,2024-03-06,721,Chequing,Silver,Medium Income,Single,Some College,670,572,$370.00,553.75,"$1,000.00","$41,221.87","$24,981.35",$130.92,965.11,223
+March-2024,2024,2024-03-06,583,Chequing,Silver,Low Income,Single,Some College,812,217,$441.00,1713.62,$616.00,"$33,334.44","$23,510.86",$97.37,9505.41,537
+March-2024,2024,2024-03-06,610,Savings,Silver,High Income,Married,High School Graduate,188,276,$853.00,1249.65,$659.00,$943.69,"$32,368.33",$30.97,8202.97,993
+March-2024,2024,2024-03-06,561,Savings,Bronze,High Income,Divorced,Some College,781,48,$917.00,270.94,$216.00,"$46,183.27","$45,313.81",$12.86,6807.46,821
+March-2024,2024,2024-03-06,173,Savings,Bronze,Low Income,Married,Some College,767,605,$17.00,488.01,$258.00,"$34,622.66","$34,349.75",$7.60,8725.9,348
+March-2024,2024,2024-03-07,771,Savings,Silver,High Income,Divorced,Some College,625,316,$80.00,863.21,$164.00,"$6,597.12","$18,951.71",$142.34,2097.77,238
+March-2024,2024,2024-03-08,803,Chequing,Silver,High Income,Married,Some College,778,541,$313.00,2635.58,$530.00,"$41,401.08","$4,351.14",$113.70,9363.79,549
+March-2024,2024,2024-03-08,231,Chequing,Bronze,High Income,Single,Master's Degree,535,496,$943.00,2241.13,$374.00,"$27,695.81","$31,612.95",$143.99,2915.31,704
+March-2024,2024,2024-03-08,497,Chequing,Silver,Medium Income,Married,Master's Degree,171,869,$914.00,1748.79,$950.00,"$37,101.86","$30,033.91",$77.00,241.51,536
+March-2024,2024,2024-03-09,802,Chequing,Bronze,Low Income,Divorced,College Degree,501,509,$636.00,1574.61,$419.00,"$40,460.59","$33,702.77",$99.59,891.43,70
+March-2024,2024,2024-03-10,25,Savings,Gold,High Income,Married,Some College,549,650,$274.00,971.8,$347.00,"$8,890.94","$15,720.14",$29.17,3787.69,47
+March-2024,2024,2024-03-11,175,Savings,Silver,Low Income,Divorced,Some College,884,890,$757.00,1720.77,$536.00,"$34,526.65",$779.98,$149.36,8821.98,756
+March-2024,2024,2024-03-11,557,Savings,Gold,Medium Income,Married,Master's Degree,134,770,$780.00,783.59,$324.00,$359.28,"$24,494.72",$88.66,7587.51,75
+March-2024,2024,2024-03-11,810,Chequing,Bronze,Medium Income,Divorced,High School Graduate,725,644,$866.00,394.6,$876.00,"$43,069.98","$18,065.37",$137.72,1889.16,778
+March-2024,2024,2024-03-11,907,Chequing,Silver,Low Income,Divorced,Some College,815,776,$895.00,1085.64,$769.00,"$47,228.05","$38,005.69",$66.55,8920.85,792
+March-2024,2024,2024-03-12,662,Chequing,Silver,Low Income,Married,College Degree,720,842,$327.00,1622.88,$557.00,"$36,490.31","$3,498.07",$9.65,4976.09,674
+March-2024,2024,2024-03-12,684,Savings,Gold,Low Income,Divorced,Master's Degree,105,566,$248.00,1271.33,$872.00,"$4,072.54","$32,915.99",$15.64,5123.98,486
+March-2024,2024,2024-03-12,114,Savings,Silver,Low Income,Single,Master's Degree,327,746,$558.00,847.6,$92.00,"$13,558.03","$25,898.93",$130.90,1340.99,338
+March-2024,2024,2024-03-14,87,Savings,Bronze,High Income,Divorced,Master's Degree,19,568,$233.00,1762.87,$575.00,"$47,472.49","$40,311.97",$87.47,6290.38,380
+March-2024,2024,2024-03-15,12,Savings,Silver,High Income,Divorced,Some College,901,166,$120.00,2410.92,$578.00,"$45,959.43","$4,076.64",$42.45,8002.07,348
+March-2024,2024,2024-03-15,154,Savings,Gold,Medium Income,Single,Some College,916,504,$67.00,636.32,$256.00,"$35,473.81","$36,297.11",$66.19,1085.76,514
+March-2024,2024,2024-03-16,466,Chequing,Gold,Medium Income,Single,College Degree,43,911,$457.00,2512.82,$549.00,"$49,778.88","$22,311.64",$133.16,5366.8,667
+March-2024,2024,2024-03-16,804,Chequing,Silver,Low Income,Divorced,Master's Degree,533,39,$611.00,1782.04,$792.00,"$3,665.80","$42,234.55",$72.91,5684.47,367
+March-2024,2024,2024-03-16,752,Chequing,Gold,High Income,Married,Some College,58,455,$139.00,105.47,$155.00,"$23,761.28","$23,550.65",$77.44,2534.52,283
+March-2024,2024,2024-03-16,757,Chequing,Gold,High Income,Divorced,College Degree,345,896,$409.00,2914.37,$15.00,"$33,886.89","$30,190.49",$117.89,3925.79,660
+March-2024,2024,2024-03-16,762,Savings,Gold,High Income,Married,Master's Degree,720,966,$279.00,915.05,$599.00,"$29,451.65","$11,175.72",$103.87,1947.91,926
+March-2024,2024,2024-03-17,977,Savings,Gold,Low Income,Single,Some College,739,523,$943.00,2992.78,$348.00,"$1,381.80","$23,347.29",$86.75,8344.67,444
+March-2024,2024,2024-03-17,440,Chequing,Bronze,High Income,Divorced,College Degree,769,97,$75.00,1335.08,$971.00,"$15,367.80","$19,005.58",$35.63,8057.07,779
+March-2024,2024,2024-03-17,20,Chequing,Silver,Medium Income,Married,Some College,262,26,$674.00,222.23,$554.00,"$14,190.31","$35,290.26",$92.72,7908.23,961
+March-2024,2024,2024-03-18,468,Savings,Bronze,Low Income,Married,College Degree,367,899,$968.00,584.81,$562.00,"$44,954.60","$21,253.80",$70.88,903.93,866
+March-2024,2024,2024-03-18,707,Savings,Gold,High Income,Married,Some College,72,17,$306.00,203.91,$53.00,"$18,995.22","$25,006.70",$121.97,8579.93,107
+March-2024,2024,2024-03-18,667,Savings,Gold,High Income,Married,Master's Degree,212,261,$8.00,271.4,$398.00,"$37,967.60","$13,594.06",$120.80,2928.06,571
+March-2024,2024,2024-03-19,349,Savings,Silver,Medium Income,Single,Master's Degree,254,250,$775.00,2713.83,$337.00,"$43,231.78","$10,387.86",$59.64,9841.05,816
+March-2024,2024,2024-03-19,120,Chequing,Bronze,Low Income,Single,College Degree,548,121,$733.00,1576.14,$969.00,"$32,549.70","$15,631.17",$140.87,2106.98,241
+March-2024,2024,2024-03-19,219,Chequing,Gold,Low Income,Married,Some College,335,362,$648.00,783.8,$667.00,"$17,575.73","$33,491.03",$20.25,5703.32,767
+March-2024,2024,2024-03-20,495,Savings,Gold,Low Income,Single,High School Graduate,792,956,$395.00,881.95,$304.00,"$39,788.58","$13,415.26",$126.68,130.06,547
+March-2024,2024,2024-03-21,425,Savings,Bronze,Medium Income,Single,High School Graduate,26,176,$239.00,1777.65,$43.00,"$16,513.86","$46,892.65",$62.85,1751.71,86
+March-2024,2024,2024-03-21,71,Chequing,Bronze,High Income,Married,High School Graduate,749,251,$269.00,685.44,$956.00,"$47,461.37","$8,331.48",$43.65,7035.35,280
+March-2024,2024,2024-03-21,65,Chequing,Gold,High Income,Divorced,Master's Degree,82,54,$32.00,2905.3,$347.00,"$12,790.52","$23,096.71",$129.02,3211.8,90
+March-2024,2024,2024-03-21,686,Chequing,Bronze,High Income,Married,Some College,819,443,$725.00,1086.97,$665.00,"$16,846.70","$33,928.51",$80.29,7301.84,33
+March-2024,2024,2024-03-21,937,Chequing,Bronze,Medium Income,Single,College Degree,672,359,$548.00,1554.9,$589.00,"$11,701.15","$9,503.32",$117.59,6638.4,690
+March-2024,2024,2024-03-22,632,Chequing,Silver,Low Income,Divorced,Master's Degree,856,808,$369.00,317.31,$281.00,"$21,528.91","$27,843.23",$126.75,3652.65,194
+March-2024,2024,2024-03-22,205,Savings,Gold,Medium Income,Married,College Degree,344,888,$528.00,1467.9,$767.00,"$22,179.97","$14,285.13",$60.56,1559.16,774
+March-2024,2024,2024-03-23,83,Chequing,Bronze,Medium Income,Single,College Degree,322,298,$706.00,311.12,$584.00,"$11,597.19","$21,457.83",$75.01,9896.82,309
+March-2024,2024,2024-03-23,442,Chequing,Gold,Medium Income,Divorced,Some College,155,698,$884.00,188.75,$975.00,"$36,612.98","$47,842.22",$85.59,1896.98,247
+March-2024,2024,2024-03-23,436,Chequing,Gold,High Income,Divorced,High School Graduate,890,569,$569.00,816.48,$788.00,"$2,918.28","$33,277.51",$29.57,948.89,38
+March-2024,2024,2024-03-23,753,Savings,Bronze,Low Income,Divorced,College Degree,595,219,$350.00,1499.22,$369.00,"$44,677.18","$11,536.53",$13.90,4015.93,282
+March-2024,2024,2024-03-23,789,Chequing,Bronze,High Income,Divorced,Master's Degree,647,451,$986.00,2683.27,$66.00,"$48,345.62","$41,880.03",$75.67,5003.56,982
+March-2024,2024,2024-03-24,1000,Chequing,Gold,High Income,Single,High School Graduate,80,863,$741.00,447.15,$489.00,"$27,041.30","$27,072.21",$6.12,9291.47,962
+March-2024,2024,2024-03-24,433,Chequing,Bronze,High Income,Single,College Degree,675,638,$101.00,1713.77,$825.00,"$45,598.59","$21,089.87",$15.88,7649.1,725
+March-2024,2024,2024-03-24,409,Savings,Silver,Low Income,Single,High School Graduate,978,701,$883.00,2087.82,$439.00,"$43,159.99","$3,432.85",$36.46,6446.76,708
+March-2024,2024,2024-03-25,548,Savings,Silver,Medium Income,Married,High School Graduate,369,85,$216.00,2073.12,$486.00,"$32,505.07","$40,348.64",$108.11,3424.98,103
+March-2024,2024,2024-03-25,956,Savings,Silver,Low Income,Single,College Degree,245,728,$134.00,2941.3,$547.00,"$12,686.68","$42,049.77",$18.81,4710.69,288
+March-2024,2024,2024-03-25,890,Chequing,Bronze,Medium Income,Married,Some College,255,398,$698.00,435.22,$453.00,"$9,424.99","$7,077.21",$10.79,3293.38,792
+March-2024,2024,2024-03-26,577,Chequing,Silver,Low Income,Single,Some College,350,189,$856.00,159.09,$634.00,"$48,852.86","$40,337.66",$65.72,7786.61,911
+March-2024,2024,2024-03-26,118,Savings,Silver,Medium Income,Single,Master's Degree,440,215,$108.00,908.66,$437.00,"$34,907.63","$45,605.64",$8.47,7346.78,613
+March-2024,2024,2024-03-26,13,Chequing,Bronze,Medium Income,Married,Master's Degree,803,690,$198.00,1567.31,$20.00,"$43,593.08","$28,356.18",$10.38,8470.53,159
+March-2024,2024,2024-03-27,226,Savings,Silver,High Income,Married,High School Graduate,735,165,$153.00,1450.79,$910.00,"$17,363.07","$24,568.09",$49.14,5122.58,79
+March-2024,2024,2024-03-27,476,Chequing,Gold,Medium Income,Single,Some College,551,810,$365.00,386.91,$809.00,"$16,944.37","$9,518.82",$98.76,6648.21,674
+March-2024,2024,2024-03-27,831,Savings,Silver,Medium Income,Divorced,Some College,582,699,$441.00,988.11,$885.00,"$36,971.14","$9,903.23",$28.72,9798.79,457
+March-2024,2024,2024-03-28,913,Chequing,Silver,Low Income,Single,College Degree,195,562,$595.00,1561.1,$824.00,"$32,694.74","$40,694.78",$89.12,8783.52,528
+March-2024,2024,2024-03-28,957,Chequing,Gold,Low Income,Single,Some College,505,628,$506.00,2099.28,$353.00,"$13,158.35","$49,672.30",$133.01,2335.3,156
+March-2024,2024,2024-03-28,975,Savings,Gold,Medium Income,Married,High School Graduate,688,972,$143.00,490.75,$937.00,"$47,537.93","$37,678.55",$74.00,7618.94,229
+March-2024,2024,2024-03-28,489,Savings,Bronze,High Income,Married,High School Graduate,726,926,$62.00,2160.84,$29.00,"$28,442.26","$22,279.86",$120.25,2337.95,71
+March-2024,2024,2024-03-29,404,Chequing,Gold,Low Income,Single,High School Graduate,999,283,$678.00,1775.05,$595.00,"$11,806.61","$3,610.55",$83.94,9241.59,675
+March-2024,2024,2024-03-29,292,Chequing,Gold,Medium Income,Married,High School Graduate,44,371,$880.00,982.67,$211.00,"$40,720.70","$25,502.26",$8.91,6140.31,462
+March-2024,2024,2024-03-29,806,Chequing,Bronze,Low Income,Single,Master's Degree,778,237,$284.00,941.31,$501.00,"$48,323.02","$27,924.89",$109.51,6616.07,354
+March-2024,2024,2024-03-29,709,Savings,Bronze,High Income,Divorced,College Degree,2,22,$984.00,930.92,$372.00,"$40,883.59","$23,818.79",$122.25,2009.97,475
+March-2024,2024,2024-03-29,664,Chequing,Silver,High Income,Divorced,College Degree,676,422,$814.00,2416.23,$726.00,"$18,138.09","$5,442.23",$77.74,6665.24,234
+March-2024,2024,2024-03-30,683,Chequing,Silver,Medium Income,Single,Master's Degree,212,786,$710.00,1711.51,$652.00,"$27,577.96","$4,794.11",$53.72,8364.67,297
+March-2024,2024,2024-03-30,438,Savings,Silver,Low Income,Married,Some College,702,356,$695.00,1360.84,$959.00,"$7,700.63","$16,453.44",$69.32,7211.54,640
+March-2024,2024,2024-03-31,482,Savings,Silver,High Income,Married,High School Graduate,77,970,$772.00,1150.03,$102.00,"$1,421.24","$24,501.16",$59.18,8670.35,155
+March-2024,2024,2024-03-31,699,Savings,Bronze,High Income,Single,Master's Degree,833,863,$177.00,2408.06,$43.00,"$16,798.49","$14,460.80",$130.73,5741.88,236
+March-2024,2024,2024-03-31,595,Chequing,Bronze,Medium Income,Single,High School Graduate,223,162,$131.00,1774.77,$656.00,"$42,907.45","$40,940.79",$100.34,1099.4,591
+March-2024,2024,2024-03-31,985,Savings,Gold,Low Income,Married,Some College,965,716,$901.00,2322.8,$297.00,"$25,508.45","$41,161.38",$130.34,9106.45,764
+April-2024,2024,2024-04-01,954,Savings,Gold,High Income,Married,Master's Degree,151,888,$526.00,1946.67,$101.00,"$1,655.47","$2,202.08",$38.48,6026.37,457
+April-2024,2024,2024-04-01,439,Chequing,Bronze,High Income,Divorced,College Degree,562,934,$840.00,959.41,$560.00,"$23,279.36","$48,863.64",$19.31,6958.85,863
+April-2024,2024,2024-04-01,367,Savings,Silver,Low Income,Married,College Degree,853,203,$584.00,1543.49,$698.00,"$43,015.27","$38,883.44",$144.02,709.04,664
+April-2024,2024,2024-04-01,69,Savings,Bronze,High Income,Divorced,College Degree,912,334,$337.00,1678.59,$73.00,"$9,544.75","$26,641.24",$30.83,6376.36,311
+April-2024,2024,2024-04-02,211,Chequing,Gold,High Income,Divorced,Master's Degree,551,427,$114.00,961.24,$283.00,"$46,971.89",$459.79,$129.67,6481.02,88
+April-2024,2024,2024-04-02,878,Chequing,Silver,High Income,Divorced,Master's Degree,785,867,$849.00,2824.54,$975.00,"$39,575.96","$11,704.24",$92.59,1597.54,56
+April-2024,2024,2024-04-02,859,Savings,Gold,High Income,Married,College Degree,735,561,$489.00,645.77,$650.00,"$20,629.86","$35,142.65",$50.38,8894,341
+April-2024,2024,2024-04-02,682,Savings,Gold,Medium Income,Divorced,Some College,675,844,$89.00,1864.44,$589.00,"$20,944.67","$10,228.07",$108.06,1597.48,96
+April-2024,2024,2024-04-03,209,Savings,Gold,Medium Income,Single,Some College,149,552,$935.00,1720.12,$923.00,"$20,550.14","$29,918.86",$20.95,7953.11,373
+April-2024,2024,2024-04-04,33,Savings,Gold,High Income,Divorced,Master's Degree,828,103,$949.00,1211.61,$134.00,"$18,247.07","$41,449.41",$33.43,5799.6,252
+April-2024,2024,2024-04-04,856,Savings,Silver,High Income,Divorced,High School Graduate,179,438,$787.00,1588.46,$220.00,"$7,587.16","$28,218.75",$131.35,3911.73,10
+April-2024,2024,2024-04-05,735,Chequing,Gold,Medium Income,Single,High School Graduate,582,180,$456.00,1471.84,$712.00,"$36,930.39","$18,531.06",$8.84,290.26,410
+April-2024,2024,2024-04-05,318,Chequing,Gold,Medium Income,Married,High School Graduate,2,624,$322.00,1766.59,$219.00,$335.36,"$24,597.85",$127.42,4110.95,653
+April-2024,2024,2024-04-05,506,Savings,Bronze,High Income,Married,Some College,526,437,$411.00,2673.76,$526.00,"$40,893.71","$9,088.11",$109.79,243.84,960
+April-2024,2024,2024-04-06,474,Savings,Gold,High Income,Married,College Degree,482,287,$828.00,552.64,$725.00,"$9,388.42","$8,347.23",$120.70,8116.7,2
+April-2024,2024,2024-04-06,410,Savings,Gold,Low Income,Married,High School Graduate,522,881,$132.00,1810.05,$414.00,"$36,069.50","$18,270.22",$58.73,3216.58,364
+April-2024,2024,2024-04-06,85,Chequing,Silver,Medium Income,Married,Some College,909,695,$301.00,1507.21,$594.00,"$37,986.85","$14,399.90",$24.43,4914.8,980
+April-2024,2024,2024-04-07,82,Chequing,Silver,High Income,Single,High School Graduate,737,457,$848.00,1254.91,$884.00,"$23,224.69","$20,476.90",$76.04,2455.81,976
+April-2024,2024,2024-04-08,64,Savings,Silver,Medium Income,Single,Master's Degree,965,885,$806.00,2132.4,$441.00,"$37,356.37","$3,801.70",$40.49,6909.73,158
+April-2024,2024,2024-04-08,397,Chequing,Silver,High Income,Single,High School Graduate,621,374,$507.00,313.57,$364.00,"$18,011.07","$16,907.59",$142.95,2573.53,532
+April-2024,2024,2024-04-08,520,Chequing,Gold,Low Income,Married,Some College,773,170,$562.00,2325.41,$320.00,"$13,323.74","$13,023.80",$44.71,8654.89,46
+April-2024,2024,2024-04-09,232,Chequing,Gold,High Income,Single,College Degree,746,929,$103.00,471.58,$848.00,"$4,500.55","$27,752.71",$112.17,9904.84,828
+April-2024,2024,2024-04-10,136,Chequing,Bronze,Medium Income,Divorced,Some College,67,233,$13.00,1017.95,$119.00,"$12,493.24",$414.81,$64.32,4342.92,339
+April-2024,2024,2024-04-11,514,Chequing,Silver,High Income,Married,College Degree,21,724,$433.00,1515.87,$559.00,"$44,024.18","$4,919.69",$79.12,4430.51,250
+April-2024,2024,2024-04-12,54,Savings,Bronze,High Income,Divorced,Master's Degree,171,619,$574.00,2220.25,$618.00,"$31,609.34","$44,427.67",$75.63,9565.05,478
+April-2024,2024,2024-04-12,281,Savings,Bronze,High Income,Single,High School Graduate,134,297,$685.00,273.48,$345.00,$186.50,"$38,354.10",$59.51,7820.01,427
+April-2024,2024,2024-04-13,492,Savings,Silver,High Income,Single,Master's Degree,105,34,$639.00,1468.08,$52.00,"$43,950.20","$13,524.80",$30.84,821.89,954
+April-2024,2024,2024-04-13,386,Savings,Bronze,Medium Income,Single,Some College,20,109,$163.00,1766.07,$607.00,"$27,093.19","$19,495.13",$124.93,1641.71,180
+April-2024,2024,2024-04-13,314,Chequing,Silver,Low Income,Married,College Degree,479,814,$435.00,460,$457.00,"$14,711.90","$32,456.33",$56.55,3586.95,973
+April-2024,2024,2024-04-13,955,Savings,Bronze,High Income,Married,College Degree,571,519,$415.00,625.23,$40.00,$170.98,"$44,614.01",$94.06,1350.73,248
+April-2024,2024,2024-04-14,825,Savings,Silver,Low Income,Divorced,Some College,696,892,$963.00,1750.66,$730.00,"$47,579.77","$13,734.82",$114.05,5668.21,927
+April-2024,2024,2024-04-15,927,Savings,Bronze,High Income,Married,Master's Degree,838,604,$926.00,309.54,$553.00,"$45,765.42","$40,593.60",$122.15,2614.89,573
+April-2024,2024,2024-04-15,36,Savings,Bronze,Medium Income,Single,High School Graduate,972,164,$580.00,2246.87,$760.00,"$24,620.27","$43,349.25",$113.29,4035.01,207
+April-2024,2024,2024-04-16,282,Savings,Gold,High Income,Married,College Degree,724,711,$339.00,364.69,$420.00,"$25,403.07","$10,563.00",$76.51,967.82,622
+April-2024,2024,2024-04-16,288,Chequing,Gold,High Income,Divorced,Some College,191,319,$206.00,2107.62,$992.00,"$37,553.84","$29,631.86",$27.26,6807.5,180
+April-2024,2024,2024-04-16,321,Savings,Gold,Medium Income,Single,High School Graduate,50,727,$799.00,989.62,$996.00,"$33,452.45","$44,883.34",$41.52,2855.68,99
+April-2024,2024,2024-04-16,494,Chequing,Silver,Low Income,Married,College Degree,424,818,$881.00,1175.93,$231.00,"$12,799.77","$26,550.51",$42.51,4143.32,362
+April-2024,2024,2024-04-16,897,Savings,Gold,High Income,Single,High School Graduate,144,283,$328.00,1719.25,$686.00,"$10,454.11","$40,879.12",$140.39,4591.77,21
+April-2024,2024,2024-04-16,855,Chequing,Bronze,High Income,Divorced,High School Graduate,108,649,$855.00,2170.51,$477.00,"$34,950.72","$25,883.73",$147.62,5633.27,907
+April-2024,2024,2024-04-17,876,Chequing,Bronze,Medium Income,Married,Some College,530,660,$954.00,444.99,$519.00,"$42,084.24","$1,813.50",$72.92,2212.61,518
+April-2024,2024,2024-04-17,67,Chequing,Gold,Medium Income,Divorced,High School Graduate,244,727,$567.00,1697.41,$931.00,"$23,497.72","$28,401.06",$21.80,5193.73,548
+April-2024,2024,2024-04-18,999,Savings,Silver,Low Income,Married,College Degree,241,916,$647.00,2814.56,$267.00,"$46,985.91","$18,878.61",$132.81,5107.02,105
+April-2024,2024,2024-04-19,98,Savings,Gold,Medium Income,Divorced,College Degree,421,221,$426.00,2850.78,$918.00,"$8,432.07","$43,645.83",$15.51,249.15,202
