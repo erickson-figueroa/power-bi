@@ -1,5 +1,4 @@
-# Power BI Projects 📊 (under construction)
-
+# Power BI Projects 📊
 <p>
 Welcome to the <strong> Power BI Projects</strong> repository! This repository features a collection of projects showcasing data analysis, visualizations, tips, and integrations using Microsoft Power BI. Each project includes interactive dashboards and reports, helping you transform raw data into meaningful insights.
 </p>
